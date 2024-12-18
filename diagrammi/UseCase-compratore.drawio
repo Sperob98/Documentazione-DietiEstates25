@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XW_xRx6yd3cl2D0sG-Nf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="350" y="380" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XW_xRx6yd3cl2D0sG-Nf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="350" y="380" width="160" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="NwDK-UJqqJaXsO0JLRKO-1" value="Utente non registrato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="700" width="30" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +21,9 @@
         </mxCell>
         <mxCell id="NwDK-UJqqJaXsO0JLRKO-6" value="Visualizzare offerte immobili" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="940" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="etb7i-2U7ktFEOz6GNKo-1" value="API Rest" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="970" y="640" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
