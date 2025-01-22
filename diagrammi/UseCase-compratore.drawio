@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="etb7i-2U7ktFEOz6GNKo-1" value="Servizio di Registrazione" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3NWVcBYFqwOyfqp63vLd-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="Gw6ZlJRzPvrQgUH4JTlC-1" target="NwDK-UJqqJaXsO0JLRKO-5" edge="1">
           <mxGeometry relative="1" as="geometry">
