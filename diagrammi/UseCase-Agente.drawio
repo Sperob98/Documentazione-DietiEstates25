@@ -71,10 +71,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKwraj5KfyVElRhRBwT7-9" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="75" width="50" height="90" as="geometry" />
+          <mxGeometry x="600" y="75" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yKwraj5KfyVElRhRBwT7-10" value="&lt;div&gt;API Geoapify&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="615" y="80" width="40" height="80" as="geometry" />
+          <mxGeometry x="605" y="80" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
