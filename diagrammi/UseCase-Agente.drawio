@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKwraj5KfyVElRhRBwT7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="380" width="60" height="100" as="geometry" />
+          <mxGeometry x="150" y="380" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owARZ6gaNnKl0g-R_2Ok-1" value="Agente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="150" y="390" width="40" height="80" as="geometry" />
+          <mxGeometry x="160" y="390" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yKwraj5KfyVElRhRBwT7-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="yKwraj5KfyVElRhRBwT7-1" target="owARZ6gaNnKl0g-R_2Ok-6" edge="1">
           <mxGeometry relative="1" as="geometry">
