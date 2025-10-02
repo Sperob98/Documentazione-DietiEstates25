@@ -1,0 +1,102 @@
+\documentclass[a4paper,12pt]{report}
+
+% Importazione pacchetti
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{tikz} 
+\usetikzlibrary{positioning}
+\geometry{
+  a4paper,
+  total={170mm,257mm},
+  left=20mm,
+  top=20mm,
+}
+\usepackage{tabularx}
+\usepackage{verbatim}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{longtable} % Per le tabelle che si estendono su più pagine, se necessario
+\usepackage{graphicx} 
+\usepackage{colortbl}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{booktabs}
+\usepackage{multirow} % Pacchetto per celle multiple nelle tabelle
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{1ex}{1ex} % Modifica per \section
+\titlespacing*{\subsection}{0pt}{0.5ex}{0.5ex} % Modifica per \subsection
+\titlespacing*{\subsubsection}{0pt}{0.5ex}{0.5ex} % Modifica per \subsubsection
+\usepackage{array} % Per definire tabelle con colonne adattabili
+\usepackage{graphicx} % Per gestire immagini e figure
+\usepackage{adjustbox} % Per ridurre tabelle che escono dai margini
+\usepackage{ragged2e} % Per la gestione del testo a capo nelle celle
+\usepackage{makecell}
+
+\newcommand{\NomeProgetto}{DietiEstetes25}
+
+\begin{document}
+
+% Copertina Università
+\begin{titlepage}
+    \centering
+    \includegraphics[width=0.3\textwidth]{Immagini/logo_universita.png} % Inserisci il logo
+    
+    \vspace{1cm}
+    
+    {\LARGE UNIVERSITÀ DEGLI STUDI DI NAPOLI FEDERICO II \\}
+    \vspace{0.3cm}
+    {\Large SCUOLA POLITECNICA E DELLE SCIENZE DI BASE \\}
+    \vspace{0.3cm}
+    {\Large DIPARTIMENTO DI INGEGNERIA ELETTRICA E \\ TECNOLOGIE DELL'INFORMAZIONE \\}
+    
+    \vspace{1.5cm}
+    
+    {\Large \textbf{CORSO DI LAUREA IN INFORMATICA \\}}
+    \vspace{0.3cm}
+    {\Large INGEGNERIA DEL SOFTWARE \\}
+    
+    \vspace{1.5cm}
+    
+    {\Huge \textbf{\NomeProgetto} \\}
+    \vspace{0.5cm}
+    {\Large Piattaforma per la gestione di agenzie immobiliari \\}
+    
+    \vfill
+    
+    {\large Raimondo Morosini - N86003839 \\}
+    {\large Roberto Spena - N86003552 \\}
+    {\large Lorenzo Sepe - N86003622 \\}
+    
+    \vspace{1.5cm}
+    
+    {\large Anno Accademico 2024/2025 \\}\newpage
+\end{titlepage}
+\newpage
+Questa pagina è stata lasciata intenzionalmente bianca
+
+% Pagina del titolo
+%\maketitle
+\tableofcontents % Crea indice
+
+
+% Include i capitoli direttamente
+
+\input{Servizio/Revisioni}
+% 1.Documento dei requisiti del software
+\chapter{Requisiti Software}\input{Requisiti Del Software/Analisi dei Requisiti/Analisi dei Requisiti}
+% Aggiungi altri capitoli nello stesso modo
+
+% 2.Documento di Design del sistema
+\chapter{Design del Sistema}
+\input{Design del Sistema/Descrizione Dell'architettura Proposta}
+\input{Design del Sistema/Diagramma delle classi di design}
+\input{Design del Sistema/Diagrammi di Sequenza di Design}
+
+% X. Fonti
+\input{Servizio/Fonti}
+
+\end{document}

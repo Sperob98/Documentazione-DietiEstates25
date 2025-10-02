@@ -1,0 +1,62 @@
+\subsection{Caso d'Uso: Attivazione e Disattivazione Notifiche}
+
+Il sistema prevede un'interfaccia dedicata alla gestione delle preferenze di notifica, pensata per permettere all'utente di curare la propria esperienza d'uso dell'applicazione, ricevendo news solo sugli argomenti di interesse.\\
+In questa sezione andremo a esaminare le scelte effettuate durante la progettazione, l'impatto sull'esperienza utente e i prototipi generati alla fine dell'analisi. 
+
+\vspace{0.5cm}
+\subsubsection{Tipologie di Notifiche e Controllo Utente}
+Le notifiche sono suddivise in diverse categorie per permettere una personalizzazione granulare:
+\begin{itemize}
+    \item \textbf{Annunci di nuovi immobili}: notifiche basate sulle ricerche dell’utente.
+    \item \textbf{Risposte alle offerte}: aggiornamenti sulle interazioni con gli annunci pubblicati.
+    \item \textbf{Messaggi promozionali}: comunicazioni di marketing e offerte esclusive.
+\end{itemize}
+L’utente può, in qualsiasi momento, disattivare le notifiche per una o più categorie, mantenendo un controllo totale sulla propria esperienza \cite{shneiderman2004}.
+
+\vspace{0.5cm}
+\subsubsection{Gestione delle Notifiche e Conferma delle Modifiche}
+La gestione delle notifiche avviene principalmente attraverso la schermata delle notifiche, composta da:
+\begin{itemize}
+    \item \textbf{Lista delle notifiche ricevute}, ognuna cliccabile per visualizzare i dettagli.
+    \item \textbf{Barra laterale con le categorie di notifiche}, suddivise in:
+    \begin{itemize}
+        \item \textbf{Categorie attive}, con notifiche attualmente abilitate.
+        \item \textbf{Categorie disattivate}, che non inviano più notifiche.
+    \end{itemize}
+\end{itemize}
+
+In cima alla barra laterale è presente un’icona che, se cliccata, apre una schermata popup intitolata “Attiva e Disattiva Notifiche”. All’interno, ogni categoria è rappresentata da un toggle switch che indica lo stato attuale delle notifiche.
+
+\vspace{0.5cm}
+\subsubsection{Feedback Visivo e Animazioni Intuitive}
+Per garantire un’interazione chiara e immediata, il sistema utilizza diverse tecniche di UX design:
+\begin{itemize}
+    \item \textbf{Animazione di transizione}: quando un toggle viene modificato, la categoria si sposta visivamente tra la sezione attiva e quella disattiva, sfruttando il principio di \textbf{gestalt della continuità} \cite{miller1956} per rendere il cambiamento intuitivo.
+    \item \textbf{Feedback visivo immediato}: l’utente percepisce immediatamente l’effetto dell’azione senza necessità di un testo esplicativo eccessivo.
+\end{itemize}
+
+\newpage
+\subsubsection{Conferma e Implicazioni della Disattivazione}
+Per evitare errori accidentali e garantire consapevolezza delle conseguenze, la disattivazione di una categoria di notifiche è accompagnata da:
+\begin{itemize}
+    \item Un popup di conferma che informa l’utente che, durante il periodo in cui le notifiche sono disattivate, le notifiche non potranno essere recuperate \cite{wickens2008}.
+    \item Un ulteriore messaggio di avviso prima della conferma definitiva, in linea con le \textbf{heuristiche di usabilità di Nielsen} \cite{nielsen1995} per la prevenzione degli errori.
+\end{itemize}
+
+Solo dopo la conferma finale, il sistema applica le modifiche alle preferenze dell'utente, garantendo un'interazione consapevole e trasparente.\\
+Nel prototipo questi comportamenti sono stati modellati con un pulsante, tuttavia nell'applicazione finale è stato deciso di sostituirlo con un menù contestuale.
+
+
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/Scenario principale}
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione A}
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione B}
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione c}
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione D}
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione E}
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione F}

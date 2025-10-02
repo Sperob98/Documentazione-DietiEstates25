@@ -1,0 +1,38 @@
+\begin{figure}[ht]
+    \centering
+    \begin{tikzpicture}[node distance=1.5cm and 1cm, auto]
+        % Nodo per immagine 1 con didascalia sotto
+        \node (img1) {
+            \begin{tabular}{c}
+                \includegraphics[width=0.7\textwidth]{Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png} \\
+                Cockburn: step 3
+            \end{tabular}
+        };
+        
+        % Nodo per immagine 2 con didascalia sotto, posizionato a destra di img1
+        \node (img2) [below=of img1] {
+            \begin{tabular}{c}
+                \includegraphics[width=0.7\textwidth]{Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png} \\
+                Cockburn: step4/5
+            \end{tabular}
+        };
+        
+        % Nodo per immagine 3 con didascalia sotto, posizionato sotto img2
+        \node (img3) [below=of img2] {
+            \begin{tabular}{c}
+                \includegraphics[width=0.7\textwidth]{Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png} \\
+                Cockburn: step 4/5
+            \end{tabular}
+        };
+        
+        % Disegna le frecce
+        \draw[->, thick] (img1) -- (img2);
+        \draw[->, thick] (img2) -- (img3);
+      
+    \end{tikzpicture}
+    \caption{Mockup: scenario principale della tabella di Cockburn del caso d'uso nuovo annuncio.}
+    \label{fig:tikz_flow}
+\end{figure}
+
+\newpage
+

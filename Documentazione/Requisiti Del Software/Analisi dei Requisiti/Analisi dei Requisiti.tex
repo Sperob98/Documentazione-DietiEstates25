@@ -1,0 +1,85 @@
+\section*{Introduzione}
+In questa sezione scriveremo un testo contenendo cosa dovrà fare il nostro software cosi da usarlo come base 
+
+\section*{Obiettivo}
+Il sistema deve fornire un'area amministrativa e un'area Cliente, con funzionalità specifiche per i diversi ruoli utente e per la gestione degli immobili. Le funzionalità sono state riformulate in un linguaggio tecnico per favorire chiarezza e comprensione.
+
+\section*{Area Amministrativa}
+L'area amministrativa consente la gestione degli account e degli immobili. I ruoli previsti sono:
+\begin{itemize}
+    \item Amministratore
+    \item Amministratore di supporto
+    \item Agenti immobiliari
+\end{itemize}
+
+\subsection*{Accesso all'Area Amministrativa}
+\begin{description}[style=nextline]
+    \item[Amministratore:] L'accesso avviene dopo la registrazione di un'agenzia immobiliare tramite richiesta al sistema. Una volta approvata, vengono fornite credenziali predefinite per l'accesso.
+    \item[Amministratore di supporto:] Creati dall'Amministratore principale e associati alla stessa agenzia immobiliare. Le credenziali sono generate dall'Amministratore.
+    \item[Agenti immobiliari:] Creati dall'Amministratore o dall'Amministratore di supporto. Le credenziali sono anch'esse generate dall'Amministratore.
+\end{description}
+
+\section*{Area Cliente}
+L'area Cliente è destinata agli utenti registrati che possono:
+
+\begin{itemize}
+    \item \textbf{Ricercare immobili:}
+    \begin{itemize}
+        \item Ricerca avanzata con filtro per posizione geografica (selezionando un punto e un raggio su una mappa).
+        \item Visualizzazione degli immobili in lista o su mappa.
+        \item Filtri aggiuntivi per caratteristiche dell'immobile e del contratto (es. metratura, numero di stanze, ecc.).
+    \end{itemize}
+
+    \item \textbf{Visualizzare immobili completi di dettagli:}
+    \begin{itemize}
+        \item Inclusi dati come metratura, stanze, servizi, ecc.
+        \item Informazioni sui luoghi di interesse vicini (es. scuole, parchi, metro) utilizzando l'integrazione con Geopify.
+    \end{itemize}
+
+    \item \textbf{Proporre offerte:}
+    \begin{itemize}
+        \item L'utente registrato può inviare una proposta sull'immobile, che verrà gestita dall'agente immobiliare.
+    \end{itemize}
+
+    \item \textbf{Gestire notifiche push:}
+    \begin{itemize}
+        \item Notifiche categorizzate (promozionali, private, ecc.).
+        \item Possibilità di disattivare categorie specifiche.
+    \end{itemize}
+\end{itemize}
+
+\section*{Funzionalità dei Ruoli}
+\subsection*{Amministratore}
+\begin{itemize}
+    \item Creare account per Amministratori di supporto e agenti immobiliari.
+    \item Modificare e cancellare definitivamente immobili creati dagli agenti.
+    \item Modificare la propria password.
+\end{itemize}
+
+\subsection*{Amministratore di supporto}
+\textbf{Nota:} Non sono stati definiti requisiti specifici per questo ruolo. Si propone di assegnare le stesse funzionalità dell'Amministratore, con eventuali limitazioni future da specificare.
+
+\subsection*{Agenti immobiliari}
+\begin{itemize}
+    \item Creare, modificare e cancellare immobili da loro creati.
+    \item Visualizzare le proposte ricevute sugli immobili.
+    \item Registrare proposte esterne.
+    \item Accettare o rifiutare proposte.
+    \item Modificare la propria password.
+\end{itemize}
+
+% punto a)
+\input{Requisiti Del Software/Analisi dei Requisiti/Glossario}
+% punto b)
+\input{Requisiti Del Software/Analisi dei Requisiti/Use Case}
+% punto c)
+\input{Requisiti Del Software/Analisi dei Requisiti/Analisi degli utenti}
+% punto d)
+\clearpage
+\input{Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/descrizione dei requisiti}
+% punto e. I)
+\input{Requisiti Del Software/Analisi dei Requisiti/cockburn/Capitolo Cockburn}
+% punto e.II)
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/Introduzione Mock up}
+
+
