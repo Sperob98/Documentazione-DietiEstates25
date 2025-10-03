@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Pagina-1" id="lWAFKvJ2XntB-eTbs47i">
-    <mxGraphModel dx="1042" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="2574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2v0B1rhACqtFcKGSNcDr-59" value="5.4.2 http error: &quot;Non puoi proporre una controproposta minore del proponente&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1.4;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="2v0B1rhACqtFcKGSNcDr-6" edge="1">
+        <mxCell id="2v0B1rhACqtFcKGSNcDr-59" value="5.4.2 http error: &quot;Non puoi proporre una controproposta minore del proponente&quot;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="2v0B1rhACqtFcKGSNcDr-6" edge="1">
           <mxGeometry x="-0.6825" relative="1" as="geometry">
             <mxPoint x="2460" y="1650" as="sourcePoint" />
             <mxPoint x="1210" y="1650" as="targetPoint" />
