@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  2 OCT 2025 13:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  3 OCT 2025 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -810,7 +810,62 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen320
 \c@nlinenum=\count354
 \TeXr@lab=\toks50
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `tab:my-table' multiply defined.
+
+
+LaTeX Warning: Label `tab:my-table' multiply defined.
+
+
+LaTeX Warning: Label `tab:my-table' multiply defined.
+
+
+LaTeX Warning: Label `tab:my-table' multiply defined.
+
+
+LaTeX Warning: Label `tab:my-table' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -897,7 +952,7 @@ Package hyperref Info: Link coloring OFF on input line 41.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<Immagini/logo_universita.png, id=14, 803.0pt x 799.98875pt>
+<Immagini/logo_universita.png, id=74, 803.0pt x 799.98875pt>
 File: Immagini/logo_universita.png Graphic file (type png)
 <use Immagini/logo_universita.png>
 Package pdftex.def Info: Immagini/logo_universita.png  used on input line 46.
@@ -919,7 +974,13 @@ l.83 \tableofcontents
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- (Servizio/Revisioni.tex
+
+
+[2
+
+]
+Chapter 1.
+(Servizio/Revisioni.tex
 Overfull \hbox (53.03952pt too wide) in alignment at lines 6--12
  [] [] [] [] 
  []
@@ -931,10 +992,10 @@ Overfull \hbox (53.03952pt too wide) in alignment at lines 12--35
 
 )
 
-[2
+[3
 
 ]
-Chapter 1.
+Chapter 2.
 (Requisiti Del Software/Analisi dei Requisiti/Analisi dei Requisiti.tex
 Overfull \hbox (11.10384pt too wide) in paragraph at lines 19--20
 \T1/cmr/m/n/12 Creati dall'Amministratore o dall'Amministratore di sup-porto. L
@@ -943,7 +1004,7 @@ e cre-den-ziali sono anch'esse
 
 
 
-[3
+[4
 
 ]
 Overfull \hbox (10.11761pt too wide) in paragraph at lines 41--42
@@ -953,31 +1014,31 @@ Overfull \hbox (10.11761pt too wide) in paragraph at lines 41--42
 
 (Requisiti Del Software/Analisi dei Requisiti/Glossario.tex
 
-[4]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
 
  []
 
 
 
-[5]) (Requisiti Del Software/Analisi dei Requisiti/Use Case.tex
+[6]) (Requisiti Del Software/Analisi dei Requisiti/Use Case.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
 
 
 
-[6]
-<Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png, id=61,
- 477.785pt x 382.42876pt>
+[7]
+<Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png, id=138
+, 477.785pt x 382.42876pt>
 File: Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png Gr
 aphic file (type png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png>
 Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Regis
 trato.drawio.png  used on input line 26.
 (pdftex.def)             Requested size: 386.95894pt x 309.73058pt.
-<Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png, id=62, 567
-.11874pt x 723.70375pt>
+<Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png, id=139, 56
+7.11874pt x 723.70375pt>
 File: Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png Graphi
 c file (type png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png>
@@ -986,9 +1047,9 @@ o.drawio.png  used on input line 32.
 (pdftex.def)             Requested size: 386.95894pt x 493.81264pt.
 
 
-[7 <./Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png>]
-<Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png, id=69, 566.115pt x 68
-8.5725pt>
+[8 <./Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png>]
+<Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png, id=146, 566.115pt x 6
+88.5725pt>
 File: Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png Graphic file (typ
 e png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png>
@@ -997,9 +1058,9 @@ g  used on input line 38.
 (pdftex.def)             Requested size: 386.95894pt x 470.67117pt.
 
 
-[8 <./Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png>]
-<Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png, id=76, 500.87125pt x 4
-42.65375pt>
+[9 <./Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png>]
+<Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png, id=153, 500.87125pt x 
+442.65375pt>
 File: Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png Graphic file (type
  png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png>
@@ -1008,9 +1069,9 @@ Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png
 (pdftex.def)             Requested size: 386.95894pt x 341.99942pt.
 
 
-[9 <./Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png>]
+[10 <./Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png>]
 
-[10 <./Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png>])
+[11 <./Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png>])
 (Requisiti Del Software/Analisi dei Requisiti/Analisi degli utenti.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
@@ -1021,16 +1082,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
-<Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png, id=89, 1
-445.4pt x 813.0375pt>
+<Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png, id=166, 
+1445.4pt x 813.0375pt>
 File: Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png Grap
 hic file (type png)
 <use Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png>
 Package pdftex.def Info: Immagini/Personas/Personas-Propretario di un agenzia i
 mmobiliare.png  used on input line 16.
 (pdftex.def)             Requested size: 483.69684pt x 272.07462pt.
-<Immagini/Personas/Personas-Agente Immobiliare.png, id=90, 1445.4pt x 828.09375
-pt>
+<Immagini/Personas/Personas-Agente Immobiliare.png, id=167, 1445.4pt x 828.0937
+5pt>
 File: Immagini/Personas/Personas-Agente Immobiliare.png Graphic file (type png)
 
 <use Immagini/Personas/Personas-Agente Immobiliare.png>
@@ -1039,17 +1100,17 @@ d on input line 22.
 (pdftex.def)             Requested size: 483.69684pt x 277.11302pt.
 
 
-[11 <./Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png>]
-<Immagini/Personas/Personas-manager di azienda tecnologica.png, id=98, 1445.4pt
- x 813.0375pt>
+[12 <./Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png>]
+<Immagini/Personas/Personas-manager di azienda tecnologica.png, id=175, 1445.4p
+t x 813.0375pt>
 File: Immagini/Personas/Personas-manager di azienda tecnologica.png Graphic fil
 e (type png)
 <use Immagini/Personas/Personas-manager di azienda tecnologica.png>
 Package pdftex.def Info: Immagini/Personas/Personas-manager di azienda tecnolog
 ica.png  used on input line 28.
 (pdftex.def)             Requested size: 483.69684pt x 272.07462pt.
-<Immagini/Personas/Personas-Padre di famiglia.png, id=99, 1445.4pt x 813.0375pt
->
+<Immagini/Personas/Personas-Padre di famiglia.png, id=176, 1445.4pt x 813.0375p
+t>
 File: Immagini/Personas/Personas-Padre di famiglia.png Graphic file (type png)
 <use Immagini/Personas/Personas-Padre di famiglia.png>
 Package pdftex.def Info: Immagini/Personas/Personas-Padre di famiglia.png  used
@@ -1057,12 +1118,12 @@ Package pdftex.def Info: Immagini/Personas/Personas-Padre di famiglia.png  used
 (pdftex.def)             Requested size: 483.69684pt x 272.07462pt.
 
 
-[12 <./Immagini/Personas/Personas-Agente Immobiliare.png> <./Immagini/Personas/
+[13 <./Immagini/Personas/Personas-Agente Immobiliare.png> <./Immagini/Personas/
 Personas-manager di azienda tecnologica.png>]
 
-[13 <./Immagini/Personas/Personas-Padre di famiglia.png>]
+[14 <./Immagini/Personas/Personas-Padre di famiglia.png>]
 
-[14])
+[15])
 (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/descriz
 ione dei requisiti.tex
 (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
@@ -1079,7 +1140,7 @@ Underfull \hbox (badness 3333) in paragraph at lines 10--12
 
 )
 
-[15
+[16
 
 ]
 (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
@@ -1108,47 +1169,39 @@ ti di dominio/Ricerca e visualizzazione.tex)
 (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
 ti di dominio/Gestione delle offerte.tex
 
-[16])
+[17])
 (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
 ti di dominio/Gestione notifiche.tex))
 (Requisiti Del Software/Analisi dei Requisiti/cockburn/Capitolo Cockburn.tex
 (Requisiti Del Software/Analisi dei Requisiti/cockburn/cockburnAnnunci.tex
-Overfull \hbox (107.36937pt too wide) in alignment at lines 13--53
+Overfull \hbox (4.81258pt too wide) in alignment at lines 7--13
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (4.81258pt too wide) in alignment at lines 13--53
  [] [] [] [] 
  []
 
 
 
-[17]
+[18] [19])
 
-Package longtable Warning: Column widths have changed
-(longtable)                in table 1.1 on input line 53.
-
-[18])
-
-[19] (Requisiti Del Software/Analisi dei Requisiti/cockburn/cockNotifiche.tex
-Overfull \hbox (40.80794pt too wide) in alignment at lines 13--61
- [] [] [] [] 
- []
-
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 1.2 on input line 61.
-
-[20] [21]))
+[20] (Requisiti Del Software/Analisi dei Requisiti/cockburn/cockNotifiche.tex
+[21] [22]))
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/Introduzione Mock up.tex
 
-[22]
+[23]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/Introduz
 ione MockUp Aggiungi Annuncio.tex
 
-LaTeX Warning: Citation `nielsen1995' on page 23 undefined on input line 3.
+LaTeX Warning: Citation `nielsen1995' on page 24 undefined on input line 3.
 
 
-LaTeX Warning: Citation `norman1988' on page 23 undefined on input line 3.
+LaTeX Warning: Citation `norman1988' on page 24 undefined on input line 3.
 
 
-LaTeX Warning: Citation `miller1956' on page 23 undefined on input line 13.
+LaTeX Warning: Citation `miller1956' on page 24 undefined on input line 13.
 
 
 Overfull \hbox (20.7172pt too wide) in paragraph at lines 16--17
@@ -1157,27 +1210,27 @@ n-ci-pali e le carat-ter-is-tiche sec-on-darie dell'immobile,
  []
 
 
-LaTeX Warning: Citation `shneiderman2004' on page 23 undefined on input line 23
+LaTeX Warning: Citation `shneiderman2004' on page 24 undefined on input line 23
 .
 
 
-LaTeX Warning: Citation `wickens2008' on page 23 undefined on input line 30.
-
-
-
-[23]
-
-LaTeX Warning: Citation `pieters2004' on page 24 undefined on input line 37.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 24 undefined on input line 44.
+LaTeX Warning: Citation `wickens2008' on page 24 undefined on input line 30.
 
 
 
 [24]
+
+LaTeX Warning: Citation `pieters2004' on page 25 undefined on input line 37.
+
+
+LaTeX Warning: Citation `nielsen1995' on page 25 undefined on input line 44.
+
+
+
+[25]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
  principale.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png, id=170, 847.3
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png, id=240, 847.3
 6575pt x 398.6895pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png Graphic f
 ile (type png)
@@ -1185,7 +1238,7 @@ ile (type png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
 step1.png  used on input line 7.
 (pdftex.def)             Requested size: 338.5863pt x 159.30872pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png, id=171, 831.1
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png, id=241, 831.1
 05pt x 365.56575pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png Graphic f
 ile (type png)
@@ -1193,7 +1246,7 @@ ile (type png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
 step2.png  used on input line 15.
 (pdftex.def)             Requested size: 338.5863pt x 148.92906pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png, id=172, 835.9
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png, id=242, 835.9
 23pt x 454.69875pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png Graphic f
 ile (type png)
@@ -1204,7 +1257,7 @@ step3.png  used on input line 23.
 )
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
  principale Parte II.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png, id=173, 841.3
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png, id=243, 841.3
 4325pt x 383.63326pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png Graphic f
 ile (type png)
@@ -1212,7 +1265,7 @@ ile (type png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
 step4.png  used on input line 7.
 (pdftex.def)             Requested size: 483.69684pt x 220.55814pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png, id=174, 835.3
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png, id=244, 835.3
 2076pt x 498.06075pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png Graphic f
 ile (type png)
@@ -1228,7 +1281,7 @@ Overfull \hbox (19.83057pt too wide) in paragraph at lines 23--24
 
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
  principale Parte III.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png, id=175, 1347.
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png, id=245, 1347.
 0325pt x 2300.595pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png Graphic f
 ile (type png)
@@ -1240,18 +1293,18 @@ step6.png  used on input line 8.
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
 ne A.tex
 
-[25 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png> <./Imma
+[26 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png> <./Imma
 gini/Mockup/aggiungi annuncio/scenario principale/step2.png> <./Immagini/Mockup
 /aggiungi annuncio/scenario principale/step3.png>]
 
-[26 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png> <./Imma
+[27 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png> <./Imma
 gini/Mockup/aggiungi annuncio/scenario principale/step5.png>]
 
-[27 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png>]
+[28 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png>]
 
-LaTeX Warning: Citation `nielsen1995' on page 28 undefined on input line 17.
+LaTeX Warning: Citation `nielsen1995' on page 29 undefined on input line 17.
 
-<Immagini/Mockup/aggiungi annuncio/estensione A/step1.png, id=197, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione A/step1.png, id=267, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione A/step1.png Graphic file (ty
 pe png)
@@ -1259,7 +1312,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step1.p
 ng  used on input line 32.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
-<Immagini/Mockup/aggiungi annuncio/estensione A/step2.png, id=198, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione A/step2.png, id=268, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione A/step2.png Graphic file (ty
 pe png)
@@ -1267,7 +1320,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step2.p
 ng  used on input line 40.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
-<Immagini/Mockup/aggiungi annuncio/estensione A/step3.png, id=199, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione A/step3.png, id=269, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione A/step3.png Graphic file (ty
 pe png)
@@ -1277,20 +1330,20 @@ ng  used on input line 48.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
 
 
-[28
+[29
 
 ])
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
 ne B.tex
 
-[29 <./Immagini/Mockup/aggiungi annuncio/estensione A/step1.png> <./Immagini/Mo
+[30 <./Immagini/Mockup/aggiungi annuncio/estensione A/step1.png> <./Immagini/Mo
 ckup/aggiungi annuncio/estensione A/step2.png> <./Immagini/Mockup/aggiungi annu
 ncio/estensione A/step3.png>]
 
-LaTeX Warning: Citation `shneiderman2004' on page 30 undefined on input line 6.
+LaTeX Warning: Citation `shneiderman2004' on page 31 undefined on input line 6.
 
 
-<Immagini/Mockup/aggiungi annuncio/estensione B/step1.png, id=212, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione B/step1.png, id=283, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione B/step1.png Graphic file (ty
 pe png)
@@ -1298,7 +1351,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step1.p
 ng  used on input line 22.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
-<Immagini/Mockup/aggiungi annuncio/estensione B/step2.png, id=213, 823.878pt x 
+<Immagini/Mockup/aggiungi annuncio/estensione B/step2.png, id=284, 823.878pt x 
 314.3745pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione B/step2.png Graphic file (ty
 pe png)
@@ -1306,7 +1359,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step2.p
 ng  used on input line 30.
 (pdftex.def)             Requested size: 338.5863pt x 129.19658pt.
-<Immagini/Mockup/aggiungi annuncio/estensione B/step3.png, id=214, 823.878pt x 
+<Immagini/Mockup/aggiungi annuncio/estensione B/step3.png, id=285, 823.878pt x 
 356.532pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione B/step3.png Graphic file (ty
 pe png)
@@ -1316,13 +1369,13 @@ ng  used on input line 38.
 (pdftex.def)             Requested size: 338.5863pt x 146.52179pt.
 
 
-[30
+[31
 
 ])
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
 ne C.tex
 
-[31 <./Immagini/Mockup/aggiungi annuncio/estensione B/step1.png> <./Immagini/Mo
+[32 <./Immagini/Mockup/aggiungi annuncio/estensione B/step1.png> <./Immagini/Mo
 ckup/aggiungi annuncio/estensione B/step2.png> <./Immagini/Mockup/aggiungi annu
 ncio/estensione B/step3.png>]
 Overfull \hbox (10.23506pt too wide) in paragraph at lines 10--11
@@ -1343,7 +1396,7 @@ i-versi prin-cipi della UX e dell'usabilit‡:
  []
 
 
-LaTeX Warning: Citation `nielsen1995' on page 32 undefined on input line 18.
+LaTeX Warning: Citation `nielsen1995' on page 33 undefined on input line 18.
 
 
 Overfull \hbox (10.48495pt too wide) in paragraph at lines 18--19
@@ -1352,12 +1405,12 @@ imazione di cari-ca-mento for-nisce un'indicazione
  []
 
 
-LaTeX Warning: Citation `nielsen1995' on page 32 undefined on input line 19.
+LaTeX Warning: Citation `nielsen1995' on page 33 undefined on input line 19.
 
 
-LaTeX Warning: Citation `nielsen1995' on page 32 undefined on input line 20.
+LaTeX Warning: Citation `nielsen1995' on page 33 undefined on input line 20.
 
-<Immagini/Mockup/aggiungi annuncio/estensione C/step1.png, id=228, 740.7675pt x
+<Immagini/Mockup/aggiungi annuncio/estensione C/step1.png, id=298, 740.7675pt x
  451.6875pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione C/step1.png Graphic file (ty
 pe png)
@@ -1365,7 +1418,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione C/step1.p
 ng  used on input line 32.
 (pdftex.def)             Requested size: 338.5863pt x 206.45546pt.
-<Immagini/Mockup/aggiungi annuncio/estensione C/step2.png, id=229, 605.26125pt 
+<Immagini/Mockup/aggiungi annuncio/estensione C/step2.png, id=299, 605.26125pt 
 x 490.83376pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione C/step2.png Graphic file (ty
 pe png)
@@ -1380,101 +1433,74 @@ Overfull \hbox (19.83057pt too wide) in paragraph at lines 49--50
 
 
 
-[32
+[33
 
 ])
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
 ne D.tex
 
-[33 <./Immagini/Mockup/aggiungi annuncio/estensione C/step1.png> <./Immagini/Mo
+[34 <./Immagini/Mockup/aggiungi annuncio/estensione C/step1.png> <./Immagini/Mo
 ckup/aggiungi annuncio/estensione C/step2.png>]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \newline
-            
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (3.68129pt too wide) in paragraph at lines 14--15
+Overfull \hbox (3.68129pt too wide) in paragraph at lines 13--14
 []\T1/cmr/m/n/12 Il bordo del campo as-sume un col-ore rosso ev-i-dente, at-ti-
 rando im-me-di-ata-mente l'attenzione
  []
 
 
-LaTeX Warning: Citation `nielsen1995' on page 34 undefined on input line 18.
+LaTeX Warning: Citation `nielsen1995' on page 35 undefined on input line 17.
 
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \newline
-             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Citation `shneiderman2004' on page 34 undefined on input line 28
+LaTeX Warning: Citation `shneiderman2004' on page 35 undefined on input line 26
 .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
 
  []
 
-<Immagini/Mockup/aggiungi annuncio/estensione D/step1.png, id=241, 740.7675pt x
+<Immagini/Mockup/aggiungi annuncio/estensione D/step1.png, id=311, 740.7675pt x
  451.6875pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione D/step1.png Graphic file (ty
 pe png)
 <use Immagini/Mockup/aggiungi annuncio/estensione D/step1.png>
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione D/step1.p
-ng  used on input line 40.
+ng  used on input line 38.
 (pdftex.def)             Requested size: 338.5863pt x 206.45546pt.
-<Immagini/Mockup/aggiungi annuncio/estensione D/step3.png, id=242, 573.94424pt 
+<Immagini/Mockup/aggiungi annuncio/estensione D/step3.png, id=312, 573.94424pt 
 x 352.31625pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione D/step3.png Graphic file (ty
 pe png)
 <use Immagini/Mockup/aggiungi annuncio/estensione D/step3.png>
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione D/step3.p
-ng  used on input line 48.
+ng  used on input line 46.
 (pdftex.def)             Requested size: 338.5863pt x 207.84328pt.
 
 
-[34
+[35
 
 ]))
 
-[35 <./Immagini/Mockup/aggiungi annuncio/estensione D/step1.png> <./Immagini/Mo
+[36 <./Immagini/Mockup/aggiungi annuncio/estensione D/step1.png> <./Immagini/Mo
 ckup/aggiungi annuncio/estensione D/step3.png>]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/d
 escrizione mockup notifiche.tex
 
-LaTeX Warning: Citation `shneiderman2004' on page 36 undefined on input line 14
+LaTeX Warning: Citation `shneiderman2004' on page 37 undefined on input line 14
 .
 
 
-LaTeX Warning: Citation `miller1956' on page 36 undefined on input line 34.
+LaTeX Warning: Citation `miller1956' on page 37 undefined on input line 34.
 
 
 
-[36
+[37
 
 ]
 
-LaTeX Warning: Citation `wickens2008' on page 37 undefined on input line 42.
+LaTeX Warning: Citation `wickens2008' on page 38 undefined on input line 42.
 
 
-LaTeX Warning: Citation `nielsen1995' on page 37 undefined on input line 43.
+LaTeX Warning: Citation `nielsen1995' on page 38 undefined on input line 43.
 
 
 Overfull \hbox (14.44244pt too wide) in paragraph at lines 46--48
@@ -1485,23 +1511,23 @@ Overfull \hbox (14.44244pt too wide) in paragraph at lines 46--48
 
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/S
 cenario principale.tex
-<Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png, id=2
-60, 799.18575pt x 423.38174pt>
+<Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png, id=3
+29, 799.18575pt x 423.38174pt>
 File: Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png 
 Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png>
 Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/Pagina L
 ista Notifiche.png  used on input line 7.
 (pdftex.def)             Requested size: 338.5863pt x 179.37604pt.
-<Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png, id=2
-61, 762.4485pt x 352.9185pt>
+<Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png, id=3
+30, 762.4485pt x 352.9185pt>
 File: Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png 
 Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png>
 Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/perDisat
 tivareRisposte.png  used on input line 15.
 (pdftex.def)             Requested size: 338.5863pt x 156.72243pt.
-<Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png, id=262,
+<Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png, id=331,
  790.75426pt x 401.0985pt>
 File: Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png Gra
 phic file (type png)
@@ -1511,14 +1537,14 @@ tivareNueve.png  used on input line 23.
 (pdftex.def)             Requested size: 338.5863pt x 171.74068pt.
 
 
-[37]
+[38]
 
-[38 <./Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png
+[39 <./Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png
 > <./Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png> 
 <./Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png>]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/S
 cenario principale 2.tex
-<Immagini/Mockup/notifiche/scenario principale/clickConferma.png, id=275, 784.7
+<Immagini/Mockup/notifiche/scenario principale/clickConferma.png, id=344, 784.7
 3175pt x 396.2805pt>
 File: Immagini/Mockup/notifiche/scenario principale/clickConferma.png Graphic f
 ile (type png)
@@ -1527,7 +1553,7 @@ Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/clickCon
 ferma.png  used on input line 8.
 (pdftex.def)             Requested size: 338.5863pt x 170.98383pt.
 <Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png, i
-d=276, 799.18575pt x 410.13225pt>
+d=345, 799.18575pt x 410.13225pt>
 File: Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.p
 ng Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.pn
@@ -1536,7 +1562,7 @@ Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/allerAvv
 isoDisattivazione.png  used on input line 15.
 (pdftex.def)             Requested size: 338.5863pt x 173.76257pt.
 <Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png
-, id=277, 772.0845pt x 380.622pt>
+, id=346, 772.0845pt x 380.622pt>
 File: Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletat
 o.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato
@@ -1548,19 +1574,19 @@ PrincipaleCompletato.png  used on input line 22.
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
 stensione A.tex
 
-[39 <./Immagini/Mockup/notifiche/scenario principale/clickConferma.png> <./Imma
+[40 <./Immagini/Mockup/notifiche/scenario principale/clickConferma.png> <./Imma
 gini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png> <./Imm
 agini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png>]
 
-LaTeX Warning: Citation `pieters2004' on page 40 undefined on input line 10.
+LaTeX Warning: Citation `pieters2004' on page 41 undefined on input line 10.
 
 
-LaTeX Warning: Citation `nielsen1995' on page 40 undefined on input line 14.
+LaTeX Warning: Citation `nielsen1995' on page 41 undefined on input line 14.
 
 
-LaTeX Warning: Citation `norman1988' on page 40 undefined on input line 18.
+LaTeX Warning: Citation `norman1988' on page 41 undefined on input line 18.
 
-<Immagini/Mockup/notifiche/estensione A/clickNotifica.png, id=286, 525.162pt x 
+<Immagini/Mockup/notifiche/estensione A/clickNotifica.png, id=355, 525.162pt x 
 343.2825pt>
 File: Immagini/Mockup/notifiche/estensione A/clickNotifica.png Graphic file (ty
 pe png)
@@ -1568,7 +1594,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickNotifica.p
 ng  used on input line 27.
 (pdftex.def)             Requested size: 193.47577pt x 126.46777pt.
-<Immagini/Mockup/notifiche/estensione A/clickDisattiva.png, id=287, 599.23875pt
+<Immagini/Mockup/notifiche/estensione A/clickDisattiva.png, id=356, 599.23875pt
  x 520.94624pt>
 File: Immagini/Mockup/notifiche/estensione A/clickDisattiva.png Graphic file (t
 ype png)
@@ -1576,7 +1602,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickDisattiva.
 png  used on input line 35.
 (pdftex.def)             Requested size: 193.47577pt x 168.19266pt.
-<Immagini/Mockup/notifiche/estensione A/disattivato.png, id=288, 630.55576pt x 
+<Immagini/Mockup/notifiche/estensione A/disattivato.png, id=357, 630.55576pt x 
 534.19576pt>
 File: Immagini/Mockup/notifiche/estensione A/disattivato.png Graphic file (type
  png)
@@ -1586,39 +1612,39 @@ Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/disattivato.png
 (pdftex.def)             Requested size: 193.47577pt x 163.90353pt.
 
 
-[40
+[41
 
 
 ])
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
 stensione B.tex
 
-[41 <./Immagini/Mockup/notifiche/estensione A/clickNotifica.png> <./Immagini/Mo
+[42 <./Immagini/Mockup/notifiche/estensione A/clickNotifica.png> <./Immagini/Mo
 ckup/notifiche/estensione A/clickDisattiva.png> <./Immagini/Mockup/notifiche/es
 tensione A/disattivato.png>]
 
-LaTeX Warning: Citation `nielsen1995' on page 42 undefined on input line 11.
+LaTeX Warning: Citation `nielsen1995' on page 43 undefined on input line 11.
 
 
-LaTeX Warning: Citation `norman1988' on page 42 undefined on input line 23.
+LaTeX Warning: Citation `norman1988' on page 43 undefined on input line 23.
 
 )
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
 stensione c.tex
 
-[42
+[43
 
 ]
 
-LaTeX Warning: Citation `nielsen1995' on page 43 undefined on input line 19.
+LaTeX Warning: Citation `nielsen1995' on page 44 undefined on input line 19.
 
 
-LaTeX Warning: Citation `nielsen1995' on page 43 undefined on input line 27.
+LaTeX Warning: Citation `nielsen1995' on page 44 undefined on input line 27.
 
 
-LaTeX Warning: Citation `miller1956' on page 43 undefined on input line 28.
+LaTeX Warning: Citation `miller1956' on page 44 undefined on input line 28.
 
-<Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png, id=306, 283.65974pt
+<Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png, id=375, 283.65974pt
  x 370.38374pt>
 File: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png Graphic file (t
 ype png)
@@ -1626,7 +1652,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.
 png  used on input line 41.
 (pdftex.def)             Requested size: 193.47577pt x 252.62622pt.
-<Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png, id=307, 593.21625pt
+<Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png, id=376, 593.21625pt
  x 355.3275pt>
 File: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png Graphic file (t
 ype png)
@@ -1634,7 +1660,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.
 png  used on input line 49.
 (pdftex.def)             Requested size: 290.22105pt x 173.8409pt.
-<Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png, id=308, 256.5585pt x 3
+<Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png, id=377, 256.5585pt x 3
 39.06676pt>
 File: Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png Graphic file (type
  png)
@@ -1647,28 +1673,28 @@ LaTeX Warning: Float too large for page by 94.54921pt on input line 69.
 
 
 
-[43
+[44
 
 ])
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
 stensione D.tex
 
-[44 <./Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png> <./Immagini/M
+[45 <./Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png> <./Immagini/M
 ockup/notifiche/ESTENSIONE C/clickCoonferma.png> <./Immagini/Mockup/notifiche/E
 STENSIONE C/disattivato.png>]
 
-LaTeX Warning: Citation `nielsen1995' on page 45 undefined on input line 22.
+LaTeX Warning: Citation `nielsen1995' on page 46 undefined on input line 22.
 
 
-LaTeX Warning: Citation `miller1956' on page 45 undefined on input line 30.
+LaTeX Warning: Citation `miller1956' on page 46 undefined on input line 30.
 
 
-LaTeX Warning: Citation `nielsen1995' on page 45 undefined on input line 39.
+LaTeX Warning: Citation `nielsen1995' on page 46 undefined on input line 39.
 
 
-LaTeX Warning: Citation `miller1956' on page 45 undefined on input line 40.
+LaTeX Warning: Citation `miller1956' on page 46 undefined on input line 40.
 
-<Immagini/Mockup/notifiche/estensione D/clickAttiva.png, id=321, 498.06075pt x 
+<Immagini/Mockup/notifiche/estensione D/clickAttiva.png, id=390, 498.06075pt x 
 436.63126pt>
 File: Immagini/Mockup/notifiche/estensione D/clickAttiva.png Graphic file (type
  png)
@@ -1676,7 +1702,7 @@ File: Immagini/Mockup/notifiche/estensione D/clickAttiva.png Graphic file (type
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione D/clickAttiva.png
   used on input line 52.
 (pdftex.def)             Requested size: 290.22105pt x 254.43887pt.
-<Immagini/Mockup/notifiche/estensione D/attivato.png, id=322, 498.06075pt x 431
+<Immagini/Mockup/notifiche/estensione D/attivato.png, id=391, 498.06075pt x 431
 .81325pt>
 File: Immagini/Mockup/notifiche/estensione D/attivato.png Graphic file (type pn
 g)
@@ -1686,27 +1712,27 @@ sed on input line 60.
 (pdftex.def)             Requested size: 290.22105pt x 251.63127pt.
 
 
-[45
+[46
 
 ])
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
 stensione E.tex
 
-[46 <./Immagini/Mockup/notifiche/estensione D/clickAttiva.png> <./Immagini/Mock
+[47 <./Immagini/Mockup/notifiche/estensione D/clickAttiva.png> <./Immagini/Mock
 up/notifiche/estensione D/attivato.png>]
 
-LaTeX Warning: Citation `nielsen1995' on page 47 undefined on input line 11.
+LaTeX Warning: Citation `nielsen1995' on page 48 undefined on input line 11.
 
 
-LaTeX Warning: Citation `nielsen1995' on page 47 undefined on input line 11.
+LaTeX Warning: Citation `nielsen1995' on page 48 undefined on input line 11.
 
 
-LaTeX Warning: Citation `nielsen1995' on page 47 undefined on input line 11.
+LaTeX Warning: Citation `nielsen1995' on page 48 undefined on input line 11.
 
 
-LaTeX Warning: Citation `norman1988' on page 47 undefined on input line 11.
+LaTeX Warning: Citation `norman1988' on page 48 undefined on input line 11.
 
-<Immagini/Mockup/notifiche/estensione E/click conferma.png, id=334, 497.4585pt 
+<Immagini/Mockup/notifiche/estensione E/click conferma.png, id=403, 497.4585pt 
 x 431.81325pt>
 File: Immagini/Mockup/notifiche/estensione E/click conferma.png Graphic file (t
 ype png)
@@ -1714,7 +1740,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione E/click conferma.
 png  used on input line 20.
 (pdftex.def)             Requested size: 290.22105pt x 251.92776pt.
-<Immagini/Mockup/notifiche/estensione E/errore.png, id=335, 498.663pt x 433.62p
+<Immagini/Mockup/notifiche/estensione E/errore.png, id=404, 498.663pt x 433.62p
 t>
 File: Immagini/Mockup/notifiche/estensione E/errore.png Graphic file (type png)
 
@@ -1724,19 +1750,19 @@ d on input line 28.
 (pdftex.def)             Requested size: 290.22105pt x 252.36653pt.
 
 
-[47
+[48
 
 ])
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
 stensione F.tex
 
-[48 <./Immagini/Mockup/notifiche/estensione E/click conferma.png> <./Immagini/M
+[49 <./Immagini/Mockup/notifiche/estensione E/click conferma.png> <./Immagini/M
 ockup/notifiche/estensione E/errore.png>]
 
-LaTeX Warning: Citation `shneiderman2004' on page 49 undefined on input line 10
+LaTeX Warning: Citation `shneiderman2004' on page 50 undefined on input line 10
 .
 
-<Immagini/Mockup/notifiche/estensione F/clickNotifica.png, id=348, 498.06075pt 
+<Immagini/Mockup/notifiche/estensione F/clickNotifica.png, id=417, 498.06075pt 
 x 433.62pt>
 File: Immagini/Mockup/notifiche/estensione F/clickNotifica.png Graphic file (ty
 pe png)
@@ -1744,7 +1770,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickNotifica.p
 ng  used on input line 24.
 (pdftex.def)             Requested size: 193.47577pt x 168.44286pt.
-<Immagini/Mockup/notifiche/estensione F/clickAttiva.png, id=349, 498.06075pt x 
+<Immagini/Mockup/notifiche/estensione F/clickAttiva.png, id=418, 498.06075pt x 
 434.8245pt>
 File: Immagini/Mockup/notifiche/estensione F/clickAttiva.png Graphic file (type
  png)
@@ -1752,7 +1778,7 @@ File: Immagini/Mockup/notifiche/estensione F/clickAttiva.png Graphic file (type
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickAttiva.png
   used on input line 32.
 (pdftex.def)             Requested size: 193.47577pt x 168.91074pt.
-<Immagini/Mockup/notifiche/estensione F/attivato.png, id=350, 495.0495pt x 431.
+<Immagini/Mockup/notifiche/estensione F/attivato.png, id=419, 495.0495pt x 431.
 211pt>
 File: Immagini/Mockup/notifiche/estensione F/attivato.png Graphic file (type pn
 g)
@@ -1762,11 +1788,11 @@ sed on input line 40.
 (pdftex.def)             Requested size: 193.47577pt x 168.52034pt.
 
 
-[49
+[50
 
 ]))
 
-[50 <./Immagini/Mockup/notifiche/estensione F/clickNotifica.png> <./Immagini/Mo
+[51 <./Immagini/Mockup/notifiche/estensione F/clickNotifica.png> <./Immagini/Mo
 ckup/notifiche/estensione F/clickAttiva.png> <./Immagini/Mockup/notifiche/esten
 sione F/attivato.png>]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/Test di usabilit√†.tex
@@ -1782,18 +1808,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--41
 
 
 
-[51
+[52
 
 ]
 
-[52]
-
 [53]
 
-[54])))
+[54]
 
-[55]
-Chapter 2.
+[55])))
+
+[56]
+Chapter 3.
 (Design del Sistema/Descrizione Dell'architettura Proposta.tex
 Overfull \hbox (1.75807pt too wide) in paragraph at lines 9--10
 []\T1/cmr/m/n/12 Repositories: Questo strato Ë ded-i-cato alla per-sis-tenza de
@@ -1802,7 +1828,7 @@ i dati, in-ter-a-gendo con il database
 
 
 
-[56
+[57
 
 ]
 Overfull \hbox (6.0605pt too wide) in paragraph at lines 15--15
@@ -1812,8 +1838,8 @@ dot-
 
 
 
-[57]
-<Immagini/diagramma delle classi.drawio.png, id=422, 1648.1575pt x 1122.1925pt>
+[58]
+<Immagini/diagramma delle classi.drawio.png, id=487, 1648.1575pt x 1122.1925pt>
 
 File: Immagini/diagramma delle classi.drawio.png Graphic file (type png)
 <use Immagini/diagramma delle classi.drawio.png>
@@ -1823,21 +1849,17 @@ put line 38.
 ) (Design del Sistema/Diagramma delle classi di design.tex)
 (Design del Sistema/Diagrammi di Sequenza di Design.tex) (Servizio/Fonti.tex
 
-[58 <./Immagini/diagramma delle classi.drawio.png>]
-Chapter 3.
+[59 <./Immagini/diagramma delle classi.drawio.png>]
+Chapter 4.
 
-
-[59
-
-])
 
 [60
 
-]
+])
 
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
+[61
 
-(main.aux)
+] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1847,7 +1869,7 @@ L3 programming layer <2025-09-02>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -1855,14 +1877,14 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B733F12637576F7094E625DE6A5BFF96;275
-(rerunfilecheck)             After:  57F9E49D6A928381DC398889E91B4E5A;3426.
+(rerunfilecheck)             Before: 39F77A5EE9BD189BCD71830092C714E0;3446
+(rerunfilecheck)             After:  CF66FC326C5B2AD7B55F22B82F0D6F78;3515.
  ) 
 Here is how much of TeX's memory you used:
- 24177 strings out of 468130
- 489747 string characters out of 5430633
- 950249 words of memory out of 5000000
- 52111 multiletter control sequences out of 15000+600000
+ 24194 strings out of 468130
+ 489981 string characters out of 5430633
+ 950600 words of memory out of 5000000
+ 52126 multiletter control sequences out of 15000+600000
  640045 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,16n,107p,1574b,844s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1886,9 +1908,9 @@ msfonts/cm/cmmi8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmr12.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (61 pages, 6438079 bytes).
+Output written on main.pdf (62 pages, 6448974 bytes).
 PDF statistics:
- 1011 PDF objects out of 1200 (max. 8388607)
- 130 named destinations out of 1000 (max. 500000)
- 254 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1078 PDF objects out of 1200 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
+ 374 words of extra memory for PDF output out of 10000 (max. 10000000)
 
