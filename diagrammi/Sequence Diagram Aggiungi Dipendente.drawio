@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8JB6PZW7fWWFTnTKiGVh-12" value="AgenziaImmobiliareRepository" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1770" y="10" width="190" height="3970" as="geometry" />
+          <mxGeometry x="1770" y="10" width="190" height="4800" as="geometry" />
         </mxCell>
         <mxCell id="8JB6PZW7fWWFTnTKiGVh-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="8JB6PZW7fWWFTnTKiGVh-12" vertex="1">
           <mxGeometry x="90" y="50" width="10" height="3870" as="geometry" />
