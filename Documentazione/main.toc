@@ -1,56 +1,60 @@
 \contentsline {chapter}{\numberline {1}Revisioni}{3}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Requisiti Software}{4}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Glossario}{6}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Modellazione dei Casi d'Uso}{7}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Analisi Target Utenti }{12}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Descrizione Requisiti}{16}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Requisiti non funzionali}{16}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Requisiti di dominio}{17}{subsection.2.4.2}%
-\contentsline {section}{\numberline {2.5}Descrizione Testuale strutturata del Sistema}{18}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Mock up}{24}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Caso d'Uso: Aggiungi un Annuncio Immobiliare}{24}{subsection.2.6.1}%
-\contentsline {subsubsection}{Estensione A: Annuncio in Sospeso}{29}{figure.2.11}%
-\contentsline {subsubsection}{Gestione del Pop-up e Scelta dell’Utente}{29}{figure.2.11}%
-\contentsline {subsubsection}{Estensione A: Creazione di un Nuovo Annuncio}{29}{figure.2.11}%
-\contentsline {subsubsection}{Estensione B: Ripristino di un Annuncio Precedente}{31}{figure.2.12}%
-\contentsline {subsubsection}{Estensione C: Errore Durante la Pubblicazione dell'Annuncio}{33}{figure.2.13}%
-\contentsline {subsubsection}{Gestione dell'Errore e Feedback Utente}{33}{figure.2.13}%
-\contentsline {subsubsection}{Principi di Design Applicati}{33}{figure.2.13}%
-\contentsline {subsubsection}{Estensione D: Gestione degli Errori in Fase di Pubblicazione}{35}{figure.2.14}%
-\contentsline {subsubsection}{Feedback Visivo e Navigazione Intelligente}{35}{figure.2.14}%
-\contentsline {subsubsection}{Evidenziazione degli Errori nei Campi del Form}{35}{figure.2.14}%
-\contentsline {subsubsection}{Indicazione degli Step con Errori}{35}{figure.2.14}%
-\contentsline {subsubsection}{Esperienza Utente e Riduzione della Frustrazione}{35}{figure.2.14}%
-\contentsline {subsection}{\numberline {2.6.2}Caso d'Uso: Attivazione e Disattivazione Notifiche}{37}{subsection.2.6.2}%
-\contentsline {subsubsection}{Tipologie di Notifiche e Controllo Utente}{37}{subsection.2.6.2}%
-\contentsline {subsubsection}{Gestione delle Notifiche e Conferma delle Modifiche}{37}{subsection.2.6.2}%
-\contentsline {subsubsection}{Feedback Visivo e Animazioni Intuitive}{37}{subsection.2.6.2}%
-\contentsline {subsubsection}{Conferma e Implicazioni della Disattivazione}{38}{subsection.2.6.2}%
-\contentsline {subsubsection}{Estensione A: Disattivazione Notifiche dalla Visualizzazione di una Notifica}{41}{figure.2.17}%
-\contentsline {subsubsection}{Interfaccia e Comportamento del Bottone}{41}{figure.2.17}%
-\contentsline {subsubsection}{Modifica dello Stato e Feedback Visivo}{41}{figure.2.17}%
-\contentsline {subsubsection}{Incentivo alla Riattivazione}{41}{figure.2.17}%
-\contentsline {subsubsection}{Estensione B: Conferma Senza Modifiche}{43}{figure.2.18}%
-\contentsline {subsubsection}{Gestione dell'Interazione}{43}{figure.2.18}%
-\contentsline {subsubsection}{Feedback Visivo}{43}{figure.2.18}%
-\contentsline {subsubsection}{Estensione C: Modifica Rapida dello Stato delle Notifiche dalla Barra Laterale}{44}{figure.2.18}%
-\contentsline {subsubsection}{Interfaccia e Interazione}{44}{figure.2.18}%
-\contentsline {subsubsection}{Feedback Visivo e UX Design}{44}{figure.2.18}%
-\contentsline {subsubsection}{Estensione D: Modifica Rapida dello Stato delle Notifiche con Attivazione Immediata}{46}{figure.2.19}%
-\contentsline {subsubsection}{Interfaccia e Interazione}{46}{figure.2.19}%
-\contentsline {subsubsection}{Feedback Visivo e UX Design}{46}{figure.2.19}%
-\contentsline {subsubsection}{Estensione E: Errore Durante la Modifica dello Stato delle Categorie di Notifica}{48}{figure.2.20}%
-\contentsline {subsubsection}{Gestione dell'Errore e Feedback Utente}{48}{figure.2.20}%
-\contentsline {subsubsection}{Principi di Design Applicati}{48}{figure.2.20}%
-\contentsline {subsubsection}{Estensione F: Riattivazione Notifiche dalle Notifiche Disattivate}{50}{figure.2.21}%
-\contentsline {subsubsection}{Indicazione dello Stato e Call-to-Action}{50}{figure.2.21}%
-\contentsline {subsubsection}{Feedback Visivo e Conferma della Riattivazione}{50}{figure.2.21}%
-\contentsline {subsubsection}{Coerenza con il Modello di Gestione Notifiche}{50}{figure.2.21}%
-\contentsline {subsection}{\numberline {2.6.3}Test di usabilità}{52}{subsection.2.6.3}%
-\contentsline {subsubsection}{Questionario relativo al mockup "Creazione nuovo annuncio"}{52}{equation.2.4}%
-\contentsline {subsubsection}{Risultato SUS ottenuto attraverso i feedback raccolti}{54}{Item.10}%
-\contentsline {chapter}{\numberline {3}Design del Sistema}{57}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Descrizione dell'architettura proposta}{57}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Descrizione e motivazione delle scelte tecnologiche adottate}{58}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Descrizione dello schema per la persistenza dati}{58}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Fonti}{60}{chapter.4}%
+\contentsline {section}{\numberline {2.1}Glossario}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Modellazione dei Casi d'Uso}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Analisi Target Utenti }{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Descrizione Requisiti}{17}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Requisiti non funzionali}{17}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Requisiti di dominio}{19}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Descrizione Testuale strutturata del Sistema}{21}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Mock up}{30}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Caso d'Uso: Aggiungi un Annuncio Immobiliare}{30}{subsection.2.6.1}%
+\contentsline {subsubsection}{Estensione A: Annuncio in Sospeso}{35}{figure.2.11}%
+\contentsline {subsubsection}{Gestione del Pop-up e Scelta dell’Utente}{35}{figure.2.11}%
+\contentsline {subsubsection}{Estensione A: Creazione di un Nuovo Annuncio}{35}{figure.2.11}%
+\contentsline {subsubsection}{Estensione B: Ripristino di un Annuncio Precedente}{37}{figure.2.12}%
+\contentsline {subsubsection}{Estensione C: Errore Durante la Pubblicazione dell'Annuncio}{39}{figure.2.13}%
+\contentsline {subsubsection}{Gestione dell'Errore e Feedback Utente}{39}{figure.2.13}%
+\contentsline {subsubsection}{Principi di Design Applicati}{39}{figure.2.13}%
+\contentsline {subsubsection}{Estensione D: Gestione degli Errori in Fase di Pubblicazione}{41}{figure.2.14}%
+\contentsline {subsubsection}{Feedback Visivo e Navigazione Intelligente}{41}{figure.2.14}%
+\contentsline {subsubsection}{Evidenziazione degli Errori nei Campi del Form}{41}{figure.2.14}%
+\contentsline {subsubsection}{Indicazione degli Step con Errori}{41}{figure.2.14}%
+\contentsline {subsubsection}{Esperienza Utente e Riduzione della Frustrazione}{42}{figure.2.14}%
+\contentsline {subsection}{\numberline {2.6.2}Caso d'Uso: Attivazione e Disattivazione Notifiche}{43}{subsection.2.6.2}%
+\contentsline {subsubsection}{Tipologie di Notifiche e Controllo Utente}{43}{subsection.2.6.2}%
+\contentsline {subsubsection}{Gestione delle Notifiche e Conferma delle Modifiche}{43}{subsection.2.6.2}%
+\contentsline {subsubsection}{Feedback Visivo e Animazioni Intuitive}{43}{subsection.2.6.2}%
+\contentsline {subsubsection}{Conferma e Implicazioni della Disattivazione}{45}{subsection.2.6.2}%
+\contentsline {subsubsection}{Estensione A: Disattivazione Notifiche dalla Visualizzazione di una Notifica}{48}{figure.2.17}%
+\contentsline {subsubsection}{Interfaccia e Comportamento del Bottone}{48}{figure.2.17}%
+\contentsline {subsubsection}{Modifica dello Stato e Feedback Visivo}{48}{figure.2.17}%
+\contentsline {subsubsection}{Incentivo alla Riattivazione}{48}{figure.2.17}%
+\contentsline {subsubsection}{Estensione B: Conferma Senza Modifiche}{50}{figure.2.18}%
+\contentsline {subsubsection}{Gestione dell'Interazione}{50}{figure.2.18}%
+\contentsline {subsubsection}{Feedback Visivo}{50}{figure.2.18}%
+\contentsline {subsubsection}{Estensione C: Modifica Rapida dello Stato delle Notifiche dalla Barra Laterale}{51}{figure.2.18}%
+\contentsline {subsubsection}{Interfaccia e Interazione}{51}{figure.2.18}%
+\contentsline {subsubsection}{Feedback Visivo e UX Design}{51}{figure.2.18}%
+\contentsline {subsubsection}{Estensione D: Modifica Rapida dello Stato delle Notifiche con Attivazione Immediata}{53}{figure.2.19}%
+\contentsline {subsubsection}{Interfaccia e Interazione}{53}{figure.2.19}%
+\contentsline {subsubsection}{Feedback Visivo e UX Design}{53}{figure.2.19}%
+\contentsline {subsubsection}{Estensione E: Errore Durante la Modifica dello Stato delle Categorie di Notifica}{56}{figure.2.20}%
+\contentsline {subsubsection}{Gestione dell'Errore e Feedback Utente}{56}{figure.2.20}%
+\contentsline {subsubsection}{Principi di Design Applicati}{56}{figure.2.20}%
+\contentsline {subsubsection}{Estensione F: Riattivazione Notifiche dalle Notifiche Disattivate}{58}{figure.2.21}%
+\contentsline {subsubsection}{Indicazione dello Stato e Call-to-Action}{58}{figure.2.21}%
+\contentsline {subsubsection}{Feedback Visivo e Conferma della Riattivazione}{58}{figure.2.21}%
+\contentsline {subsubsection}{Coerenza con il Modello di Gestione Notifiche}{58}{figure.2.21}%
+\contentsline {chapter}{\numberline {3}Design del Sistema}{60}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Descrizione dell'architettura proposta}{60}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Descrizione e motivazione delle scelte tecnologiche adottate}{61}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Descrizione dello schema per la persistenza dati}{61}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Processo di sviluppo}{63}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Testing e valutazione dell’usabilità.}{64}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Progettazione e implementazione dei test unitari}{64}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}addDipendente(DipendenteRequest request, String aliasAgenzia)}{64}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Test di usabilità}{66}{section.5.2}%
+\contentsline {subsubsection}{Questionario relativo al mockup "Creazione nuovo annuncio"}{67}{equation.5.4}%
+\contentsline {subsubsection}{Risultato SUS ottenuto attraverso i feedback raccolti}{69}{Item.10}%
+\contentsline {chapter}{\numberline {6}Fonti}{73}{chapter.6}%

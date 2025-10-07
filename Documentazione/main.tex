@@ -5,12 +5,16 @@
 \usepackage{geometry}
 \usepackage{tikz} 
 \usetikzlibrary{positioning}
+\usepackage{setspace} %gestione degli spazi
 \geometry{
   a4paper,
-  total={170mm,257mm},
-  left=20mm,
-  top=20mm,
+  left=2.5cm,
+  top=2.5cm,
+  bottom=2.5cm,
+  top=2.5cm
 }
+\onehalfspacing   % interlinea 1.5
+\setlength{\parindent}{0pt} % toglie il rientro
 \usepackage{tabularx}
 \usepackage{verbatim}
 \usepackage{float}
@@ -87,15 +91,23 @@ Questa pagina è stata lasciata intenzionalmente bianca
 
 \chapter{Revisioni}
 \input{Servizio/Revisioni}
+
 %1.Documento dei requisiti del software
-\chapter{Requisiti Software}\input{Requisiti Del Software/Analisi dei Requisiti/Analisi dei Requisiti}
-% Aggiungi altri capitoli nello stesso modo
+\chapter{Requisiti Software}
+\input{Requisiti Del Software/Analisi dei Requisiti/Analisi dei Requisiti}
 
 % 2.Documento di Design del sistema
 \chapter{Design del Sistema}
 \input{Design del Sistema/Descrizione Dell'architettura Proposta}
 \input{Design del Sistema/Diagramma delle classi di design}
 \input{Design del Sistema/Diagrammi di Sequenza di Design}
+
+% 3.Artefatti Software e documentazione del processo di sviluppo
+\chapter{Processo di sviluppo}
+
+% 4.Testing e valutazione dell’usabilità.
+\chapter{Testing e valutazione dell’usabilità.}
+\input{Testing e valutazione dell’usabilita/Introduzione}
 
 % X. Fonti
 \input{Servizio/Fonti}

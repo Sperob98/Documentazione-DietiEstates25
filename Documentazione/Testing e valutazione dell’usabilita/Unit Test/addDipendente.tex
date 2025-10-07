@@ -1,0 +1,95 @@
+\subsection{addDipendente(DipendenteRequest request, String aliasAgenzia)}
+
+Il metodo \textit{addDipendente}, appartenente alla classe UserService, ha la responsabilità di aggiungere al sistema un nuovo dipendente, che può essere un agente o un manager.
+
+Per questo metodo è stata adottata una strategia di\textbf{ Black Box} Testing, poiché l’obiettivo principale è verificare il comportamento del sistema in base agli stati e ai valori dei parametri in ingresso, senza considerare la logica interna dell’implementazione. In particolare, si è ritenuto fondamentale analizzare le diverse condizioni in cui un dipendente viene correttamente registrato o rifiutato dal sistema.
+
+A tal fine, è stata effettuata una suddivisione dei parametri di input in \textbf{classi di equivalenza}, al fine di individuare i casi validi e non validi da sottoporre a test. Di seguito si riportano le tabelle che documentano tale suddivisione:
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|p{4cm}|p{5cm}|c|} 
+		\hline
+		\textbf{ID Classe} & \textbf{Descrizione} & \textbf{Valore esempio} & \textbf{Validità} \\
+		\hline
+		DRN1 & L'insieme delle stringe non vuote/lunghezza zero
+		& request.nome==Roberto; & Valido \\
+		\hline
+		DRN2 & L'insieme delle stringhe null/lunghezza zero
+		& request.nome=="" & Non Valido \\
+		\hline
+	\end{tabular}
+	\caption{Parametro DipendenteRequest.nome}
+	\label{tab:placeholder}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|p{4cm}|p{5cm}|c|} 
+		\hline
+		\textbf{ID Classe} & \textbf{Descrizione} & \textbf{Valore esempio} & \textbf{Validità} \\
+		\hline
+		DRC1 & L'insieme delle stringe non vuote/lunghezza zero
+		& request.cognome==Morosini; & Valido \\
+		\hline
+		DRC2 & L'insieme delle stringhe null/lunghezza zero
+		& request.cognome==null & Non Valido \\
+		\hline
+	\end{tabular}
+	\caption{Parametro DipendenteRequest.cognome}
+	\label{tab:placeholder}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|p{4cm}|p{5cm}|c|} 
+		\hline
+		\textbf{ID Classe} & \textbf{Descrizione} & \textbf{Valore esempio} & \textbf{Validità} \\
+		\hline
+		DRR1 & Stringa di valore "AGENT"
+		& request.ruolo=="AGENT"; & Valido \\
+		\hline
+		DRR2 & Stringa di valore "MANAGER"
+		& request.ruolo=="MANAGER" & Valido \\
+		\hline
+		DRR3 & tutti i valori non corrispodenti ad AGENT oppure a MANAGER
+		& request.ruolo=="ADMIN" & Non Valido \\
+		\hline
+		DRR4 & stringa null/lunghezza zero
+		& request.ruolo=="" & Non Valido \\
+		\hline
+	\end{tabular}
+	\caption{Parametro DipendenteRequest.ruolo}
+	\label{tab:placeholder}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|p{4cm}|p{5cm}|c|} 
+		\hline
+		\textbf{ID Classe} & \textbf{Descrizione} & \textbf{Valore esempio} & \textbf{Validità} \\
+		\hline
+		AA1 & L'insieme delle stringhe non null e non vuoti & aliasAgenzia==RobyImmobili & Valida \\
+		\hline
+		AA2 & La stringa è null oppure è vuota & aliasAgenzia==null & Non valido \\
+		\hline
+	\end{tabular}
+	\caption{Parametro aliasAgenzia}
+	\label{tab:placeholder}
+\end{table}
+
+\vspace{1cm}
+
+Per quanto riguarda la strategia di combinazione dei valori, è stato scelto l’approccio \textbf{R-WECT (Reduced Weak Equivalence Class Testing)}. Questa tecnica è considerata particolarmente robusta perché garantisce:
+
+\begin{itemize}
+	\item il test di tutte le classi non valide, ognuna combinata con valori validi per gli altri parametri;
+	\item il test di tutte le classi valide per ciascun parametro.
+\end{itemize}
+
+Infine, vengono riportati sia il codice sorgente dei test implementati sia l’evidenza del loro esito positivo, a conferma della correttezza delle funzionalità verificate
+
+\definecolor{codebg}{rgb}{0.95,0.95,0.95}
+
+
+
