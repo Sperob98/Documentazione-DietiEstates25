@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  8 OCT 2025 18:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  8 OCT 2025 20:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,7 +813,33 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen320
 \c@nlinenum=\count354
 \TeXr@lab=\toks50
-) (main.aux
+) (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count355
+\lst@gtempboxa=\box79
+\lst@token=\toks51
+\lst@length=\count356
+\lst@currlwidth=\dimen321
+\lst@column=\count357
+\lst@pos=\count358
+\lst@lostspace=\dimen322
+\lst@width=\dimen323
+\lst@newlines=\count359
+\lst@lineno=\count360
+\lst@maxwidth=\dimen324
+(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count361
+\lst@skipnumbers=\count362
+\lst@framebox=\box80
+)
+(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+(main.aux
 
 LaTeX Warning: Label `tab:my-table' multiply defined.
 
@@ -916,24 +942,24 @@ LaTeX Warning: Label `tab:placeholder' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -973,17 +999,17 @@ LaTeX Font Info:    ... okay on input line 45.
 (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count355
-\scratchdimen=\dimen321
-\scratchbox=\box79
-\nofMPsegments=\count356
-\nofMParguments=\count357
-\everyMPshowfont=\toks51
-\MPscratchCnt=\count358
-\MPscratchDim=\dimen322
-\MPnumerator=\count359
-\makeMPintoPDFobject=\count360
-\everyMPtoPDFconversion=\toks52
+\scratchcounter=\count363
+\scratchdimen=\dimen325
+\scratchbox=\box81
+\nofMPsegments=\count364
+\nofMParguments=\count365
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count366
+\MPscratchDim=\dimen326
+\MPnumerator=\count367
+\makeMPintoPDFobject=\count368
+\everyMPtoPDFconversion=\toks53
 )
 (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -995,15 +1021,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 45.
+Package hyperref Info: Link coloring OFF on input line 48.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
+\c@lstlisting=\count369
 <Immagini/logo_universita.png, id=118, 803.0pt x 799.98875pt>
 File: Immagini/logo_universita.png Graphic file (type png)
 <use Immagini/logo_universita.png>
-Package pdftex.def Info: Immagini/logo_universita.png  used on input line 50.
+Package pdftex.def Info: Immagini/logo_universita.png  used on input line 53.
 (pdftex.def)             Requested size: 131.026pt x 130.52762pt.
 
 
@@ -1017,7 +1044,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 \tableofcontents
+l.90 \tableofcontents
                       % Crea indice [1] (main.toc
 
 [2
@@ -2076,17 +2103,17 @@ Underfull \hbox (badness 3579) in paragraph at lines 15--16
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[]|\T1/cmr/m/n/12 L'insieme
+[]|\T1/cmr/m/n/12 L'insieme delle
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
-\T1/cmr/m/n/12 delle stringhe
+\T1/cmr/m/n/12 stringhe nul-
  []
 
 
-Underfull \hbox (badness 3579) in paragraph at lines 32--33
-\T1/cmr/m/n/12 non vuote/lunghezza
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]|\T1/cmr/m/n/12 L'insieme delle stringe non
  []
 
 
@@ -2096,12 +2123,12 @@ Overfull \hbox (8.61732pt too wide) in paragraph at lines 33--33
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
-[]|\T1/cmr/m/n/12 L'insieme
+[]|\T1/cmr/m/n/12 L'insieme delle stringhe nul-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\T1/cmr/m/n/12 delle stringhe
+Overfull \hbox (40.71307pt too wide) in paragraph at lines 28--39
+ [][] 
  []
 
 
@@ -2115,7 +2142,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
  []
 
 
-Overfull \hbox (16.7737pt too wide) in paragraph at lines 53--53
+Overfull \hbox (2.54733pt too wide) in paragraph at lines 53--53
 []|\T1/cmr/m/n/12 request.ruolo=="MANAGER"| 
  []
 
@@ -2130,22 +2157,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--72
  []
 
 
-Overfull \hbox (12.6246pt too wide) in paragraph at lines 72--72
-[]|\T1/cmr/m/n/12 aliasAgenzia==RobyImmobili| 
- []
 
+[81]
+(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 130.
 
-
-[81]))
-(Testing e valutazione dell’usabilita/Valutazione dell’usabilita/Test di us
-abilità.tex
 
 [82]
-Underfull \hbox (badness 10000) in paragraph at lines 37--41
-
- []
-
-
 
 [83]
 
@@ -2155,13 +2176,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--41
 
 [86]
 
-[87])) (Servizio/Fonti.tex
+[87]
+<Immagini/unit test/esitiTestAddDipendente.png, id=907, 410.7345pt x 184.2885pt
+>
+File: Immagini/unit test/esitiTestAddDipendente.png Graphic file (type png)
+<use Immagini/unit test/esitiTestAddDipendente.png>
+Package pdftex.def Info: Immagini/unit test/esitiTestAddDipendente.png  used on
+ input line 317.
+(pdftex.def)             Requested size: 305.72289pt x 137.17558pt.
+))
+(Testing e valutazione dell’usabilita/Valutazione dell’usabilita/Test di us
+abilità.tex
 
-[88]
+[88 <./Immagini/unit test/esitiTestAddDipendente.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 37--41
+
+ []
+
+
+
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93])) (Servizio/Fonti.tex
+
+[94]
 Chapter 6.
 
 
-[89
+[95
 
 ]
 Underfull \hbox (badness 7963) in paragraph at lines 3--4
@@ -2177,7 +2225,7 @@ ww . nngroup . com / articles /
 
 )
 
-[90
+[96
 
 ] (main.aux)
  ***********
@@ -2192,36 +2240,39 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 25387D82E682AF7EB79D61BAFC9C5DF3;6251.
  ) 
 Here is how much of TeX's memory you used:
- 24540 strings out of 468130
- 512785 string characters out of 5430633
- 951303 words of memory out of 5000000
- 52369 multiletter control sequences out of 15000+600000
- 640045 words of font info for 66 fonts, out of 8000000 for 9000
+ 26511 strings out of 468130
+ 540044 string characters out of 5430633
+ 1352803 words of memory out of 5000000
+ 54139 multiletter control sequences out of 15000+600000
+ 641444 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,18n,107p,1546b,842s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,18n,107p,1546b,2048s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
 1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecrm0800.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecti1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1440.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\rbrna\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\rbrna\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\rbrna\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\rbrna\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\
-rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/U
-sers/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.
-pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (91 pages, 7361703 bytes).
+/dpi600\ectt1095.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecit1095.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\rbrna\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\rbrna\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\rbrna\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\rbrna\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\
+rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\
+Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk
+> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
+728.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecrm2074.pk><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi12.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/rbrna/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rbrna/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/rbrna/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (97 pages, 7487347 bytes).
 PDF statistics:
- 1366 PDF objects out of 1440 (max. 8388607)
- 185 named destinations out of 1000 (max. 500000)
- 547 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1744 PDF objects out of 2073 (max. 8388607)
+ 368 named destinations out of 1000 (max. 500000)
+ 552 words of extra memory for PDF output out of 10000 (max. 10000000)
 
