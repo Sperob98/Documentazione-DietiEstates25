@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  8 OCT 2025 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  8 OCT 2025 18:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -902,6 +902,9 @@ LaTeX Warning: Label `fig:tikz_flow' multiply defined.
 LaTeX Warning: Label `fig:tikz_flow' multiply defined.
 
 
+LaTeX Warning: Label `fig:tikz_flow' multiply defined.
+
+
 LaTeX Warning: Label `tab:placeholder' multiply defined.
 
 
@@ -1269,39 +1272,27 @@ Overfull \hbox (63.00021pt too wide) in paragraph at lines 4--24
 
 
 [33]
-Overfull \vbox (35.98889pt too high) detected at line 36
- []
-
-
-Overfull \vbox (107.96667pt too high) detected at line 40
- []
-
-
-Overfull \vbox (71.97778pt too high) detected at line 42
- []
-
-
-Overfull \vbox (17.99445pt too high) detected at line 46
- []
-
-
-Overfull \hbox (78.93852pt too wide) in paragraph at lines 29--48
-[][] 
- []
-
+<Immagini/cockburn/registra nuovo agente Extensions.png, id=328, 460.72125pt x 
+567.92175pt>
+File: Immagini/cockburn/registra nuovo agente Extensions.png Graphic file (type
+ png)
+<use Immagini/cockburn/registra nuovo agente Extensions.png>
+Package pdftex.def Info: Immagini/cockburn/registra nuovo agente Extensions.png
+  used on input line 30.
+(pdftex.def)             Requested size: 305.72289pt x 376.8573pt.
 ))
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/Introduzione Mock up.tex
-
-[34]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/Introduz
 ione MockUp Aggiungi Annuncio.tex
+
+[34 <./Immagini/cockburn/registra nuovo agente Extensions.png>]
 
 [35]
 
 [36]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
  principale.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png, id=354, 847.3
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png, id=357, 847.3
 6575pt x 398.6895pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png Graphic f
 ile (type png)
@@ -1309,7 +1300,7 @@ ile (type png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
 step1.png  used on input line 7.
 (pdftex.def)             Requested size: 305.72289pt x 143.84445pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png, id=355, 831.1
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png, id=358, 831.1
 05pt x 365.56575pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png Graphic f
 ile (type png)
@@ -1317,7 +1308,7 @@ ile (type png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
 step2.png  used on input line 15.
 (pdftex.def)             Requested size: 305.72289pt x 134.47069pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png, id=356, 835.9
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png, id=359, 835.9
 23pt x 454.69875pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png Graphic f
 ile (type png)
@@ -1328,7 +1319,7 @@ step3.png  used on input line 23.
 )
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
  principale Parte II.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png, id=357, 841.3
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png, id=360, 841.3
 4325pt x 383.63326pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png Graphic f
 ile (type png)
@@ -1336,7 +1327,7 @@ ile (type png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
 step4.png  used on input line 7.
 (pdftex.def)             Requested size: 436.7489pt x 199.15091pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png, id=358, 835.3
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png, id=361, 835.3
 2076pt x 498.06075pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png Graphic f
 ile (type png)
@@ -1352,7 +1343,7 @@ Overfull \hbox (19.83057pt too wide) in paragraph at lines 23--24
 
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
  principale Parte III.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png, id=359, 1347.
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png, id=362, 1347.
 0325pt x 2300.595pt>
 File: Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png Graphic f
 ile (type png)
@@ -1377,7 +1368,7 @@ Overfull \hbox (4.81268pt too wide) in paragraph at lines 14--15
 re l'inserimento dell'annuncio. 
  []
 
-<Immagini/Mockup/aggiungi annuncio/estensione A/step1.png, id=382, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione A/step1.png, id=385, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione A/step1.png Graphic file (ty
 pe png)
@@ -1385,7 +1376,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step1.p
 ng  used on input line 32.
 (pdftex.def)             Requested size: 305.72289pt x 150.77737pt.
-<Immagini/Mockup/aggiungi annuncio/estensione A/step2.png, id=383, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione A/step2.png, id=386, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione A/step2.png Graphic file (ty
 pe png)
@@ -1393,7 +1384,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step2.p
 ng  used on input line 40.
 (pdftex.def)             Requested size: 305.72289pt x 150.77737pt.
-<Immagini/Mockup/aggiungi annuncio/estensione A/step3.png, id=384, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione A/step3.png, id=387, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione A/step3.png Graphic file (ty
 pe png)
@@ -1423,7 +1414,7 @@ Overfull \hbox (40.35242pt too wide) in paragraph at lines 8--9
 la trasparenza dell'operazione. 
  []
 
-<Immagini/Mockup/aggiungi annuncio/estensione B/step1.png, id=398, 840.13875pt 
+<Immagini/Mockup/aggiungi annuncio/estensione B/step1.png, id=401, 840.13875pt 
 x 414.348pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione B/step1.png Graphic file (ty
 pe png)
@@ -1431,7 +1422,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step1.p
 ng  used on input line 22.
 (pdftex.def)             Requested size: 305.72289pt x 150.77737pt.
-<Immagini/Mockup/aggiungi annuncio/estensione B/step2.png, id=399, 823.878pt x 
+<Immagini/Mockup/aggiungi annuncio/estensione B/step2.png, id=402, 823.878pt x 
 314.3745pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione B/step2.png Graphic file (ty
 pe png)
@@ -1439,7 +1430,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step2.p
 ng  used on input line 30.
 (pdftex.def)             Requested size: 305.72289pt x 116.65732pt.
-<Immagini/Mockup/aggiungi annuncio/estensione B/step3.png, id=400, 823.878pt x 
+<Immagini/Mockup/aggiungi annuncio/estensione B/step3.png, id=403, 823.878pt x 
 356.532pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione B/step3.png Graphic file (ty
 pe png)
@@ -1458,7 +1449,7 @@ ne C.tex
 [43 <./Immagini/Mockup/aggiungi annuncio/estensione B/step1.png> <./Immagini/Mo
 ckup/aggiungi annuncio/estensione B/step2.png> <./Immagini/Mockup/aggiungi annu
 ncio/estensione B/step3.png>]
-<Immagini/Mockup/aggiungi annuncio/estensione C/step1.png, id=417, 740.7675pt x
+<Immagini/Mockup/aggiungi annuncio/estensione C/step1.png, id=420, 740.7675pt x
  451.6875pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione C/step1.png Graphic file (ty
 pe png)
@@ -1466,7 +1457,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione C/step1.p
 ng  used on input line 32.
 (pdftex.def)             Requested size: 305.72289pt x 186.41988pt.
-<Immagini/Mockup/aggiungi annuncio/estensione C/step2.png, id=418, 605.26125pt 
+<Immagini/Mockup/aggiungi annuncio/estensione C/step2.png, id=421, 605.26125pt 
 x 490.83376pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione C/step2.png Graphic file (ty
 pe png)
@@ -1498,7 +1489,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--28
 [46
 
 ]
-<Immagini/Mockup/aggiungi annuncio/estensione D/step1.png, id=436, 740.7675pt x
+<Immagini/Mockup/aggiungi annuncio/estensione D/step1.png, id=439, 740.7675pt x
  451.6875pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione D/step1.png Graphic file (ty
 pe png)
@@ -1506,7 +1497,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione D/step1.p
 ng  used on input line 38.
 (pdftex.def)             Requested size: 305.72289pt x 186.41988pt.
-<Immagini/Mockup/aggiungi annuncio/estensione D/step3.png, id=437, 573.94424pt 
+<Immagini/Mockup/aggiungi annuncio/estensione D/step3.png, id=440, 573.94424pt 
 x 352.31625pt>
 File: Immagini/Mockup/aggiungi annuncio/estensione D/step3.png Graphic file (ty
 pe png)
@@ -1529,7 +1520,7 @@ escrizione mockup notifiche.tex
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/S
 cenario principale.tex
 <Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png, id=4
-58, 799.18575pt x 423.38174pt>
+61, 799.18575pt x 423.38174pt>
 File: Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png 
 Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png>
@@ -1537,14 +1528,14 @@ Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/Pagina L
 ista Notifiche.png  used on input line 7.
 (pdftex.def)             Requested size: 305.72289pt x 161.96559pt.
 <Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png, id=4
-59, 762.4485pt x 352.9185pt>
+62, 762.4485pt x 352.9185pt>
 File: Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png 
 Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png>
 Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/perDisat
 tivareRisposte.png  used on input line 15.
 (pdftex.def)             Requested size: 305.72289pt x 141.50954pt.
-<Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png, id=460,
+<Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png, id=463,
  790.75426pt x 401.0985pt>
 File: Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png Gra
 phic file (type png)
@@ -1561,7 +1552,7 @@ tivareNueve.png  used on input line 23.
 <./Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png>]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/S
 cenario principale 2.tex
-<Immagini/Mockup/notifiche/scenario principale/clickConferma.png, id=473, 784.7
+<Immagini/Mockup/notifiche/scenario principale/clickConferma.png, id=476, 784.7
 3175pt x 396.2805pt>
 File: Immagini/Mockup/notifiche/scenario principale/clickConferma.png Graphic f
 ile (type png)
@@ -1570,7 +1561,7 @@ Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/clickCon
 ferma.png  used on input line 8.
 (pdftex.def)             Requested size: 305.72289pt x 154.3855pt.
 <Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png, i
-d=474, 799.18575pt x 410.13225pt>
+d=477, 799.18575pt x 410.13225pt>
 File: Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.p
 ng Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.pn
@@ -1579,7 +1570,7 @@ Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/allerAvv
 isoDisattivazione.png  used on input line 15.
 (pdftex.def)             Requested size: 305.72289pt x 156.89697pt.
 <Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png
-, id=475, 772.0845pt x 380.622pt>
+, id=478, 772.0845pt x 380.622pt>
 File: Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletat
 o.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato
@@ -1594,7 +1585,7 @@ stensione A.tex
 [52 <./Immagini/Mockup/notifiche/scenario principale/clickConferma.png> <./Imma
 gini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png> <./Imm
 agini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png>]
-<Immagini/Mockup/notifiche/estensione A/clickNotifica.png, id=487, 525.162pt x 
+<Immagini/Mockup/notifiche/estensione A/clickNotifica.png, id=490, 525.162pt x 
 343.2825pt>
 File: Immagini/Mockup/notifiche/estensione A/clickNotifica.png Graphic file (ty
 pe png)
@@ -1602,7 +1593,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickNotifica.p
 ng  used on input line 27.
 (pdftex.def)             Requested size: 174.69688pt x 114.19499pt.
-<Immagini/Mockup/notifiche/estensione A/clickDisattiva.png, id=488, 599.23875pt
+<Immagini/Mockup/notifiche/estensione A/clickDisattiva.png, id=491, 599.23875pt
  x 520.94624pt>
 File: Immagini/Mockup/notifiche/estensione A/clickDisattiva.png Graphic file (t
 ype png)
@@ -1610,7 +1601,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickDisattiva.
 png  used on input line 35.
 (pdftex.def)             Requested size: 174.69688pt x 151.86543pt.
-<Immagini/Mockup/notifiche/estensione A/disattivato.png, id=489, 630.55576pt x 
+<Immagini/Mockup/notifiche/estensione A/disattivato.png, id=492, 630.55576pt x 
 534.19576pt>
 File: Immagini/Mockup/notifiche/estensione A/disattivato.png Graphic file (type
  png)
@@ -1636,7 +1627,7 @@ stensione c.tex
 [55
 
 ]
-<Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png, id=512, 283.65974pt
+<Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png, id=515, 283.65974pt
  x 370.38374pt>
 File: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png Graphic file (t
 ype png)
@@ -1644,7 +1635,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.
 png  used on input line 41.
 (pdftex.def)             Requested size: 174.69688pt x 228.1096pt.
-<Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png, id=513, 593.21625pt
+<Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png, id=516, 593.21625pt
  x 355.3275pt>
 File: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png Graphic file (t
 ype png)
@@ -1652,7 +1643,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.
 png  used on input line 49.
 (pdftex.def)             Requested size: 262.052pt x 156.96808pt.
-<Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png, id=514, 256.5585pt x 3
+<Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png, id=517, 256.5585pt x 3
 39.06676pt>
 File: Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png Graphic file (type
  png)
@@ -1685,7 +1676,7 @@ Overfull \hbox (21.17155pt too wide) in paragraph at lines 30--31
 [58
 
 ]
-<Immagini/Mockup/notifiche/estensione D/clickAttiva.png, id=535, 498.06075pt x 
+<Immagini/Mockup/notifiche/estensione D/clickAttiva.png, id=538, 498.06075pt x 
 436.63126pt>
 File: Immagini/Mockup/notifiche/estensione D/clickAttiva.png Graphic file (type
  png)
@@ -1693,7 +1684,7 @@ File: Immagini/Mockup/notifiche/estensione D/clickAttiva.png Graphic file (type
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione D/clickAttiva.png
   used on input line 52.
 (pdftex.def)             Requested size: 262.052pt x 229.74118pt.
-<Immagini/Mockup/notifiche/estensione D/attivato.png, id=536, 498.06075pt x 431
+<Immagini/Mockup/notifiche/estensione D/attivato.png, id=539, 498.06075pt x 431
 .81325pt>
 File: Immagini/Mockup/notifiche/estensione D/attivato.png Graphic file (type pn
 g)
@@ -1726,7 +1717,7 @@ Overfull \hbox (5.7332pt too wide) in paragraph at lines 11--11
 ia e ripren-dere l'attività,
  []
 
-<Immagini/Mockup/notifiche/estensione E/click conferma.png, id=553, 497.4585pt 
+<Immagini/Mockup/notifiche/estensione E/click conferma.png, id=556, 497.4585pt 
 x 431.81325pt>
 File: Immagini/Mockup/notifiche/estensione E/click conferma.png Graphic file (t
 ype png)
@@ -1734,7 +1725,7 @@ ype png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione E/click conferma.
 png  used on input line 20.
 (pdftex.def)             Requested size: 262.052pt x 227.47624pt.
-<Immagini/Mockup/notifiche/estensione E/errore.png, id=554, 498.663pt x 433.62p
+<Immagini/Mockup/notifiche/estensione E/errore.png, id=557, 498.663pt x 433.62p
 t>
 File: Immagini/Mockup/notifiche/estensione E/errore.png Graphic file (type png)
 
@@ -1752,7 +1743,7 @@ stensione F.tex
 
 [62 <./Immagini/Mockup/notifiche/estensione E/click conferma.png> <./Immagini/M
 ockup/notifiche/estensione E/errore.png>]
-<Immagini/Mockup/notifiche/estensione F/clickNotifica.png, id=567, 498.06075pt 
+<Immagini/Mockup/notifiche/estensione F/clickNotifica.png, id=570, 498.06075pt 
 x 433.62pt>
 File: Immagini/Mockup/notifiche/estensione F/clickNotifica.png Graphic file (ty
 pe png)
@@ -1760,7 +1751,7 @@ pe png)
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickNotifica.p
 ng  used on input line 24.
 (pdftex.def)             Requested size: 174.69688pt x 152.09348pt.
-<Immagini/Mockup/notifiche/estensione F/clickAttiva.png, id=568, 498.06075pt x 
+<Immagini/Mockup/notifiche/estensione F/clickAttiva.png, id=571, 498.06075pt x 
 434.8245pt>
 File: Immagini/Mockup/notifiche/estensione F/clickAttiva.png Graphic file (type
  png)
@@ -1768,7 +1759,7 @@ File: Immagini/Mockup/notifiche/estensione F/clickAttiva.png Graphic file (type
 Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickAttiva.png
   used on input line 32.
 (pdftex.def)             Requested size: 174.69688pt x 152.51595pt.
-<Immagini/Mockup/notifiche/estensione F/attivato.png, id=569, 495.0495pt x 431.
+<Immagini/Mockup/notifiche/estensione F/attivato.png, id=572, 495.0495pt x 431.
 211pt>
 File: Immagini/Mockup/notifiche/estensione F/attivato.png Graphic file (type pn
 g)
@@ -1788,7 +1779,7 @@ sione F/attivato.png>]))
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/controproposta/MockUp Cont
 roproposta scenarioPrincipale.tex
 <Immagini/Mockup/controproposte/scenario principale/clickControproposta.png, id
-=582, 604.05675pt x 390.258pt>
+=585, 604.05675pt x 390.258pt>
 File: Immagini/Mockup/controproposte/scenario principale/clickControproposta.pn
 g Graphic file (type png)
 <use Immagini/Mockup/controproposte/scenario principale/clickControproposta.png
@@ -1797,7 +1788,7 @@ Package pdftex.def Info: Immagini/Mockup/controproposte/scenario principale/cli
 ckControproposta.png  used on input line 11.
 (pdftex.def)             Requested size: 305.72289pt x 197.52235pt.
 <Immagini/Mockup/controproposte/scenario principale/ClickInviaControproposta.pn
-g, id=583, 600.44325pt x 387.24675pt>
+g, id=586, 600.44325pt x 387.24675pt>
 File: Immagini/Mockup/controproposte/scenario principale/ClickInviaContropropos
 ta.png Graphic file (type png)
 <use Immagini/Mockup/controproposte/scenario principale/ClickInviaContropropost
@@ -1806,7 +1797,7 @@ Package pdftex.def Info: Immagini/Mockup/controproposte/scenario principale/Cli
 ckInviaControproposta.png  used on input line 19.
 (pdftex.def)             Requested size: 305.72289pt x 197.16823pt.
 <Immagini/Mockup/controproposte/scenario principale/allertConfermaInvio.png, id
-=584, 600.44325pt x 391.4625pt>
+=587, 600.44325pt x 391.4625pt>
 File: Immagini/Mockup/controproposte/scenario principale/allertConfermaInvio.pn
 g Graphic file (type png)
 <use Immagini/Mockup/controproposte/scenario principale/allertConfermaInvio.png
@@ -1826,7 +1817,7 @@ ng> <./Immagini/Mockup/controproposte/scenario principale/ClickInviaContropropo
 sta.png> <./Immagini/Mockup/controproposte/scenario principale/allertConfermaIn
 vio.png>]
 <Immagini/Mockup/controproposte/scenario principale/visualizzazioneContropropos
-ta.png, id=598, 602.25pt x 389.65575pt>
+ta.png, id=601, 602.25pt x 389.65575pt>
 File: Immagini/Mockup/controproposte/scenario principale/visualizzazioneControp
 roposta.png Graphic file (type png)
 <use Immagini/Mockup/controproposte/scenario principale/visualizzazioneContropr
@@ -1844,7 +1835,7 @@ a.png>
 Package pdftex.def Info: Immagini/Mockup/controproposte/scenario principale/Cli
 ckInviaControproposta.png  used on input line 7.
 (pdftex.def)             Requested size: 305.72289pt x 197.16823pt.
-<Immagini/Mockup/controproposte/Extensions A/MessaggioDiErrore.png, id=599, 404
+<Immagini/Mockup/controproposte/Extensions A/MessaggioDiErrore.png, id=602, 404
 .712pt x 441.44925pt>
 File: Immagini/Mockup/controproposte/Extensions A/MessaggioDiErrore.png Graphic
  file (type png)
@@ -1867,7 +1858,7 @@ a.png>
 Package pdftex.def Info: Immagini/Mockup/controproposte/scenario principale/Cli
 ckInviaControproposta.png  used on input line 7.
 (pdftex.def)             Requested size: 305.72289pt x 197.16823pt.
-<Immagini/Mockup/controproposte/Extensions B/MessaggioDiErrore.png, id=612, 342
+<Immagini/Mockup/controproposte/Extensions B/MessaggioDiErrore.png, id=615, 342
 .078pt x 431.81325pt>
 File: Immagini/Mockup/controproposte/Extensions B/MessaggioDiErrore.png Graphic
  file (type png)
@@ -1890,7 +1881,7 @@ a.png>
 Package pdftex.def Info: Immagini/Mockup/controproposte/scenario principale/Cli
 ckInviaControproposta.png  used on input line 7.
 (pdftex.def)             Requested size: 305.72289pt x 197.16823pt.
-<Immagini/Mockup/controproposte/Extensions C/MessaggioDiErrore.png, id=619, 413
+<Immagini/Mockup/controproposte/Extensions C/MessaggioDiErrore.png, id=622, 413
 .74574pt x 492.6405pt>
 File: Immagini/Mockup/controproposte/Extensions C/MessaggioDiErrore.png Graphic
  file (type png)
@@ -1907,7 +1898,7 @@ Overfull \vbox (12.26985pt too high) has occurred while \output is active []
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi nuovo agente/Mock
 Up NuovoAgente scenarioPrincipale.tex
 <Immagini/Mockup/nuovoAgente/scenario principale/clickNuovoDipendente.png, id=6
-26, 601.0455pt x 287.27325pt>
+29, 601.0455pt x 287.27325pt>
 File: Immagini/Mockup/nuovoAgente/scenario principale/clickNuovoDipendente.png 
 Graphic file (type png)
 <use Immagini/Mockup/nuovoAgente/scenario principale/clickNuovoDipendente.png>
@@ -1915,15 +1906,15 @@ Package pdftex.def Info: Immagini/Mockup/nuovoAgente/scenario principale/clickN
 uovoDipendente.png  used on input line 11.
 (pdftex.def)             Requested size: 305.72289pt x 146.12167pt.
 <Immagini/Mockup/nuovoAgente/scenario principale/clickFormNuovoAgente.png, id=6
-27, 401.70074pt x 286.06876pt>
+30, 401.70074pt x 286.06876pt>
 File: Immagini/Mockup/nuovoAgente/scenario principale/clickFormNuovoAgente.png 
 Graphic file (type png)
 <use Immagini/Mockup/nuovoAgente/scenario principale/clickFormNuovoAgente.png>
 Package pdftex.def Info: Immagini/Mockup/nuovoAgente/scenario principale/clickF
 ormNuovoAgente.png  used on input line 19.
 (pdftex.def)             Requested size: 305.72289pt x 217.72443pt.
-<Immagini/Mockup/nuovoAgente/scenario principale/ClickAllertConferma.png, id=62
-8, 407.72325pt x 277.63725pt>
+<Immagini/Mockup/nuovoAgente/scenario principale/ClickAllertConferma.png, id=63
+1, 407.72325pt x 277.63725pt>
 File: Immagini/Mockup/nuovoAgente/scenario principale/ClickAllertConferma.png G
 raphic file (type png)
 <use Immagini/Mockup/nuovoAgente/scenario principale/ClickAllertConferma.png>
@@ -1943,7 +1934,7 @@ Overfull \vbox (97.39392pt too high) has occurred while \output is active []
 > <./Immagini/Mockup/nuovoAgente/scenario principale/clickFormNuovoAgente.png> 
 <./Immagini/Mockup/nuovoAgente/scenario principale/ClickAllertConferma.png>]
 <Immagini/Mockup/nuovoAgente/scenario principale/caricamentoRegistrazione.png, 
-id=642, 407.72325pt x 277.63725pt>
+id=645, 407.72325pt x 277.63725pt>
 File: Immagini/Mockup/nuovoAgente/scenario principale/caricamentoRegistrazione.
 png Graphic file (type png)
 <use Immagini/Mockup/nuovoAgente/scenario principale/caricamentoRegistrazione.p
@@ -1952,7 +1943,7 @@ Package pdftex.def Info: Immagini/Mockup/nuovoAgente/scenario principale/carica
 mentoRegistrazione.png  used on input line 49.
 (pdftex.def)             Requested size: 305.72289pt x 208.18082pt.
 <Immagini/Mockup/nuovoAgente/scenario principale/allertRegistrazioneEffettuata.
-png, id=643, 424.58624pt x 268.00125pt>
+png, id=646, 424.58624pt x 268.00125pt>
 File: Immagini/Mockup/nuovoAgente/scenario principale/allertRegistrazioneEffett
 uata.png Graphic file (type png)
 <use Immagini/Mockup/nuovoAgente/scenario principale/allertRegistrazioneEffettu
@@ -1961,7 +1952,7 @@ Package pdftex.def Info: Immagini/Mockup/nuovoAgente/scenario principale/allert
 RegistrazioneEffettuata.png  used on input line 57.
 (pdftex.def)             Requested size: 305.72289pt x 192.98119pt.
 <Immagini/Mockup/nuovoAgente/scenario principale/visualizzazioneNuovaRegistrazi
-one.png, id=644, 451.6875pt x 218.0145pt>
+one.png, id=647, 451.6875pt x 218.0145pt>
 File: Immagini/Mockup/nuovoAgente/scenario principale/visualizzazioneNuovaRegis
 trazione.png Graphic file (type png)
 <use Immagini/Mockup/nuovoAgente/scenario principale/visualizzazioneNuovaRegist
@@ -1980,7 +1971,7 @@ ettuata.png> <./Immagini/Mockup/nuovoAgente/scenario principale/visualizzazione
 NuovaRegistrazione.png>]
 (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi nuovo agente/Mock
 Up NuovoAgente extensions A.tex
-<Immagini/Mockup/nuovoAgente/extension A/nomeNonInserito.png, id=653, 404.10976
+<Immagini/Mockup/nuovoAgente/extension A/nomeNonInserito.png, id=656, 404.10976
 pt x 272.217pt>
 File: Immagini/Mockup/nuovoAgente/extension A/nomeNonInserito.png Graphic file 
 (type png)
@@ -1988,7 +1979,7 @@ File: Immagini/Mockup/nuovoAgente/extension A/nomeNonInserito.png Graphic file
 Package pdftex.def Info: Immagini/Mockup/nuovoAgente/extension A/nomeNonInserit
 o.png  used on input line 7.
 (pdftex.def)             Requested size: 305.72289pt x 205.94832pt.
-<Immagini/Mockup/nuovoAgente/extension A/messaggioDiErrore.png, id=654, 451.687
+<Immagini/Mockup/nuovoAgente/extension A/messaggioDiErrore.png, id=657, 451.687
 5pt x 292.6935pt>
 File: Immagini/Mockup/nuovoAgente/extension A/messaggioDiErrore.png Graphic fil
 e (type png)
@@ -2012,7 +2003,7 @@ ng>
 Package pdftex.def Info: Immagini/Mockup/nuovoAgente/scenario principale/carica
 mentoRegistrazione.png  used on input line 15.
 (pdftex.def)             Requested size: 305.72289pt x 208.18082pt.
-<Immagini/Mockup/nuovoAgente/extension D/messaggioDiErrore.png, id=655, 422.779
+<Immagini/Mockup/nuovoAgente/extension D/messaggioDiErrore.png, id=658, 422.779
 5pt x 278.2395pt>
 File: Immagini/Mockup/nuovoAgente/extension D/messaggioDiErrore.png Graphic fil
 e (type png)
@@ -2043,7 +2034,7 @@ Overfull \hbox (6.39967pt too wide) in paragraph at lines 15--15
 
 
 [77]
-<Immagini/diagramma delle classi.drawio.png, id=677, 1648.1575pt x 1122.1925pt>
+<Immagini/diagramma delle classi.drawio.png, id=680, 1648.1575pt x 1122.1925pt>
 
 File: Immagini/diagramma delle classi.drawio.png Graphic file (type png)
 <use Immagini/diagramma delle classi.drawio.png>
@@ -2201,10 +2192,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 25387D82E682AF7EB79D61BAFC9C5DF3;6251.
  ) 
 Here is how much of TeX's memory you used:
- 24530 strings out of 468130
- 512242 string characters out of 5430633
+ 24540 strings out of 468130
+ 512785 string characters out of 5430633
  951303 words of memory out of 5000000
- 52360 multiletter control sequences out of 15000+600000
+ 52369 multiletter control sequences out of 15000+600000
  640045 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,18n,107p,1546b,842s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2228,9 +2219,9 @@ msfonts/cm/cmmi8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmr12.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (91 pages, 7303779 bytes).
+Output written on main.pdf (91 pages, 7361703 bytes).
 PDF statistics:
- 1363 PDF objects out of 1440 (max. 8388607)
- 184 named destinations out of 1000 (max. 500000)
- 542 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1366 PDF objects out of 1440 (max. 8388607)
+ 185 named destinations out of 1000 (max. 500000)
+ 547 words of extra memory for PDF output out of 10000 (max. 10000000)
 
