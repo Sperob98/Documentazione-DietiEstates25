@@ -1,0 +1,83 @@
+\subsection{Caso d'Uso: Registra nuovo agente}
+
+TODO: Inserire descrizione
+
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}[node distance=1.5cm and 1cm, auto]
+		% Nodo per immagine 1 con didascalia sotto
+		\node (img1) {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/scenario principale/clickNuovoDipendente.png} \\
+				Cockburn: step 1
+			\end{tabular}
+		};
+		
+		% Nodo per immagine 2 con didascalia sotto, posizionato a destra di img1
+		\node (img2) [below=of img1] {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/scenario principale/clickFormNuovoAgente.png} \\
+				Cockburn: step 2/3/4
+			\end{tabular}
+		};
+		
+		% Nodo per immagine 3 con didascalia sotto, posizionato sotto img2
+		\node (img3) [below=of img2] {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/scenario principale/ClickAllertConferma.png} \\
+				Cockburn: step 5/6
+			\end{tabular}
+		};
+		
+		% Disegna le frecce
+		\draw[->, thick] (img1) -- (img2);
+		\draw[->, thick] (img2) -- (img3);
+		
+	\end{tikzpicture}
+	\caption{Mockup: scenario principale della tabella di Cockburn del caso d'uso: Registra nuovo agente.}
+	\label{fig:tikz_flow}
+\end{figure}
+
+\newpage
+
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}[node distance=1.5cm and 1cm, auto]
+		% Nodo per immagine 1 con didascalia sotto
+		\node (img1) {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/scenario principale/caricamentoRegistrazione.png} \\
+				Cockburn: step 6/7/9
+			\end{tabular}
+		};
+		
+		% Nodo per immagine 2 con didascalia sotto, posizionato a destra di img1
+		\node (img2) [below=of img1] {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/scenario principale/allertRegistrazioneEffettuata.png} \\
+				Cockburn: step 10
+			\end{tabular}
+		};
+		
+		% Nodo per immagine 3 con didascalia sotto, posizionato sotto img2
+		\node (img3) [below=of img2] {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/scenario principale/visualizzazioneNuovaRegistrazione.png} \\
+				Cockburn: step 11
+			\end{tabular}
+		};
+		
+		% Disegna le frecce
+		\draw[->, thick] (img1) -- (img2);
+		\draw[->, thick] (img2) -- (img3);
+		
+	\end{tikzpicture}
+	\caption{Mockup: scenario principale della tabella di Cockburn del caso d'uso: Registra nuovo agente.}
+	\label{fig:tikz_flow}
+\end{figure}
+
+\newpage
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi nuovo agente/MockUp NuovoAgente extensions A}
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi nuovo agente/MockUp NuovoAgente extensions D}
