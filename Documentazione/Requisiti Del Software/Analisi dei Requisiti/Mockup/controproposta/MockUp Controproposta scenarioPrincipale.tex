@@ -1,0 +1,58 @@
+\subsection{Caso d'Uso: Fare una controproposta di un offerta}
+
+TODO: Inserire descrizione
+
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}[node distance=1.5cm and 1cm, auto]
+		% Nodo per immagine 1 con didascalia sotto
+		\node (img1) {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/controproposte/scenario principale/clickControproposta.png} \\
+				Cockburn: step 1/2/3/4
+			\end{tabular}
+		};
+		
+		% Nodo per immagine 2 con didascalia sotto, posizionato a destra di img1
+		\node (img2) [below=of img1] {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/controproposte/scenario principale/ClickInviaControproposta.png} \\
+				Cockburn: step 5/6/7
+			\end{tabular}
+		};
+		
+		% Nodo per immagine 3 con didascalia sotto, posizionato sotto img2
+		\node (img3) [below=of img2] {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/controproposte/scenario principale/allertConfermaInvio.png} \\
+				Cockburn: step 8/9/10
+			\end{tabular}
+		};
+		
+		% Disegna le frecce
+		\draw[->, thick] (img1) -- (img2);
+		\draw[->, thick] (img2) -- (img3);
+		
+	\end{tikzpicture}
+	\caption{Mockup: scenario principale della tabella di Cockburn del caso d'uso: Fare una controproposta a un'offerta.}
+	\label{fig:tikz_flow}
+\end{figure}
+
+\newpage
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"Immagini/Mockup/controproposte/scenario principale/visualizzazioneControproposta"}
+	\caption[Visualizzazione della controproposta]{}
+	\label{fig:visualizzazionecontroproposta}
+\end{figure}
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/controproposta/MockUp Controproposta extensions A}
+
+\newpage
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/controproposta/MockUp Controproposta extensions B}
+
+\newpage
+
+\input{Requisiti Del Software/Analisi dei Requisiti/Mockup/controproposta/MockUp Controproposta extensions C}

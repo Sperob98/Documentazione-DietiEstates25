@@ -1,0 +1,244 @@
+\section{Test di usabilità}
+
+I \textbf{test di usabilità} rappresentano una fase essenziale nel processo di sviluppo di un’interfaccia utente, consentendo di valutare l'efficacia, l’efficienza e la soddisfazione dell’utente nell’interazione con il sistema. In particolare, l'uso di mockup interattivi offre la possibilità di raccogliere feedback sulle scelte di design prima ancora della fase di sviluppo, riducendo i costi di eventuali revisioni e migliorando la qualità dell’esperienza utente.
+\newline
+L'obiettivo principale di questi test è identificare eventuali problemi di navigazione, ambiguità nelle interazioni o difficoltà nella comprensione delle funzionalità, al fine di ottimizzare l'interfaccia prima del rilascio definitivo. 
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+
+\textbf{1. Tempo medio per completare un Task}
+\begin{equation}
+T_{\text{medio}} = \frac{\sum_{i=1}^{n} T_i}{n}
+\end{equation}
+dove \( T_i \) è il tempo impiegato dall'utente \( i \) per completare il task e \( n \) è il numero totale di utenti.
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+\textbf{2. Tasso di completamento di un Task}
+\begin{equation}
+T_{\text{completamento}} = \frac{U_{\text{completati}}}{U_{\text{totali}}} \times 100
+\end{equation}
+dove \( U_{\text{completati}} \) è il numero di utenti che hanno completato il task e \( U_{\text{totali}} \) è il numero totale di utenti che hanno provato il task.
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+\textbf{3. Errore Medio per Task}
+\begin{equation}
+E_{\text{medio}} = \frac{\sum_{i=1}^{n} E_i}{n}
+\end{equation}
+dove \( E_i \) è il numero di errori commessi dall'utente \( i \) durante il task.
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+\textbf{4. Customer Satisfaction Score}
+\begin{equation}
+CSAT = \frac{\sum_{i=1}^{n} S_i}{n} \times 100
+\end{equation}
+dove \( S_i \) è il punteggio di soddisfazione dato dall'utente \( i \) e \( n \) è il numero totale di risposte raccolte.
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+\textbf{5. System Usability Scale (SUS)}
+\newline
+\newline
+Il \textbf{System Usability Scale (SUS)} è un metodo standardizzato, introdotto da \textbf{John Brooke} nel 1986, utilizzato per misurare l’usabilità di un prodotto attraverso un questionario composto da \textbf{10 affermazioni}. Gli utenti rispondono utilizzando una \textbf{scala Likert a 5 punti}, esprimendo il loro grado di accordo o disaccordo. Il punteggio complessivo, che varia da 0 a 100, fornisce una misura quantitativa dell’usabilità percepita, consentendo di confrontare i risultati con benchmark consolidati.
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+\subsubsection{Questionario relativo al mockup "Creazione nuovo annuncio"}
+
+Di seguito presentiamo il questionario utilizzato per valutare il mockup del processo di creazione di un annuncio immobiliare. Ogni domanda prevede cinque opzioni di risposta:
+
+\begin{itemize}
+    \item Per niente d’accordo
+    \item Poco d’accordo
+    \item Né d’accordo né in disaccordo
+    \item Abbastanza d’accordo
+    \item Molto d’accordo
+\end{itemize}
+Ai fini del calcolo del punteggio \textbf{SUS}, alle risposte viene assegnato un valore da \textbf{1} a \textbf{5}, dove la prima opzione corrisponde a 1 punto e l’ultima a 5 punti.
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+
+\begin{enumerate}
+    \item \textbf{La compilazione dei campi divisi in step ha reso il processo di creazione più intuitivo e meno stancante.}
+    \newline
+    \texttt{Scopo}: Verificare se la suddivisione del form in più passaggi migliora l’esperienza utente, evitando un sovraccarico cognitivo e rendendo la compilazione più fluida.
+
+    \item \textbf{Il bottone “Avanti” è posizionato in modo poco visibile e difficile da individuare.}
+    \newline
+    \texttt{Scopo}: Valutare la visibilità e l’intuitività del pulsante che consente di procedere nella compilazione, elemento essenziale per garantire una navigazione chiara e senza interruzioni.
+
+    \item \textbf{I campi a scelta (non liberi) mi hanno aiutato a capire meglio il tipo di informazioni richieste e a velocizzare la compilazione.}
+    \newline
+    \texttt{Scopo}: Analizzare se l’uso di menu a tendina o opzioni predefinite aiuta a ridurre incertezze, errori e tempi di compilazione rispetto ai campi di testo libero.
+
+    
+    \item \textbf{Il numero di campi richiesti è eccessivo o insufficiente, rendendo il form poco bilanciato.}
+    \newline
+    \texttt{Scopo}: Ottenere un feedback sulla quantità di informazioni richieste, bilanciando completezza e semplicità d’uso, evitando di rendere il processo troppo lungo o complesso.
+
+    \item \textbf{I colori utilizzati sono gradevoli e non affaticano la lettura.}
+    \newline
+    \texttt{Scopo}: Valutare se la combinazione di colori scelta favorisce una buona leggibilità e un’esperienza visiva piacevole, senza creare affaticamento visivo.
+
+    \item \textbf{L’importazione e la gestione delle foto dell’annuncio risultano poco intuitive.}
+    \newline
+    \texttt{Scopo}: esaminare la semplicità e l’efficacia del meccanismo di caricamento delle immagini, una funzionalità chiave nella creazione di annunci immobiliari.
+
+    \item \textbf{Trovo utile l’anteprima dell’annuncio prima di confermare la pubblicazione.}
+    \newline
+    \texttt{Scopo}: Capire se l’anteprima fornisce valore aggiunto agli utenti, permettendo loro di controllare e correggere eventuali errori prima della pubblicazione definitiva.
+
+    \item \textbf{L’avviso in caso di un annuncio in sospeso è poco chiaro o inutile.}
+    \newline
+    \texttt{Scopo}: Testare la comprensibilità e l’efficacia del messaggio di avviso per evitare che l’utente perda dati o crei annunci duplicati.
+
+    \item \textbf{In caso di errore (compilazione errata o parziale), i messaggi di errore sono posizionati bene e mi aiutano a capire rapidamente dove ho sbagliato.}
+    \newline
+    \texttt{Scopo}: Valutare la chiarezza dei messaggi di errore e il loro posizionamento, per garantire che l’utente possa correggere facilmente eventuali problemi.
+
+    \item \textbf{Nel complesso, non sono soddisfatto dell’esperienza di creazione di un annuncio.}
+    \newline
+    \texttt{Scopo}: Raccogliere un’indicazione generale sul livello di soddisfazione dell’utente rispetto all’intero processo, fornendo una misura qualitativa dell’usabilità percepita.
+    
+\end{enumerate}
+
+\vspace{0.5cm} % Aggiunge spazio prima della sezione
+\subsubsection{Risultato SUS ottenuto attraverso i feedback raccolti}
+Il System Usability Scale (SUS) viene calcolato seguendo questi passaggi:
+
+\begin{enumerate}
+
+    \item \textbf{Assegnazione punteggio}
+    \newline 
+    Ogni domanda viene valutata su una scala da 1 a 5:
+
+    \begin{itemize}
+        \item 1 = Per niente d’accordo
+        \item 2 = Poco d’accordo
+        \item 3 = Né d’accordo né in disaccordo
+        \item 4 = Abbastanza d’accordo
+        \item 5 = Molto d’accordo
+    \end{itemize}
+    Le 10 domande del questionario SUS sono di due tipi:
+    \begin{itemize}
+        \item \textbf{Domande dispari (1, 3, 5, 7, 9):} indicano usabilità positiva
+        
+        \item \textbf{Domande pari (2, 4, 6, 8, 10):} indicano usabilità negativa
+    \end{itemize}
+
+    \item \textbf{Calcolo del punteggio per ogni domanda}
+    
+    \begin{itemize}
+        \item \textbf{Per le domande dispari:} Punteggio=(Risposta-1)
+        
+        \item \textbf{Per le domande pari:} Punteggio=(5-Risposta)
+    \end{itemize}
+
+    \item \textbf{Sommiamo tutti i punteggi ottenuti}
+    \newline
+    Otteniamo un punteggio complessivo che va da 0 a 40.
+
+    \item \textbf{Moltiplichiamo per 2,5}: SUS=(somma dei punteggi)×2.5.
+    \newline
+    Il punteggio finale sarà compreso tra 0 e 100, ma non rappresenta una percentuale.
+    
+\end{enumerate}
+
+\textbf{Interpretazione del punteggio SUS}
+
+\begin{itemize}
+    \item \textbf{Sopra 80} → Ottima usabilità
+    \item \textbf{Tra 70 e 80} → Buona usabilità
+    \item \textbf{Tra 50 e 70} → Accettabile, ma migliorabile
+    \item \textbf{Sotto 50} → Problemi di usabilità significativi
+\end{itemize}
+Il questionario è stato compilato da quattro agenti immobiliari, i principali attori di questo caso d’uso. Ciascun agente proviene da un’agenzia immobiliare diversa e appartiene a una fascia d’età differente, al fine di garantire un campione più eterogeneo e realistico. 
+
+\vspace{0.5cm}
+
+\textbf{Utente 1:}
+\begin{itemize}
+    \item \textbf{Risposte a domande dispari}
+    \begin{itemize}
+        \item Domanda 1: molto d'accordo = 5-1 = 4
+        \item Domanda 3: molto d'accordo = 5-1 = 4
+        \item Domanda 5: molto d'accordo = 5-1 = 4
+        \item Domanda 7: molto d'accordo = 5-1 = 4
+        \item Domanda 9: molto d'accordo = 5-1 = 4
+    \end{itemize}
+    \item \textbf{Risposte a domande pari}
+    \begin{itemize}
+        \item Domanda 2: per niente d'accordo = 5-1 = 4
+        \item Domanda 4: poco d'accordo = 5-2 = 3
+        \item Domanda 6: poco d'accordo = 5-2 = 3
+        \item Domanda 8: per niente d'accordo = 5-1 = 4
+        \item Domanda 10:per niente d'accordo = 5-1 = 4
+    \end{itemize}
+
+    \item \textbf{Totale punteggio utente 1: } 38*2.5 = \textbf{95}
+    
+\end{itemize}
+\textbf{Utente 2:}
+\begin{itemize}
+    \item \textbf{Risposte a domande dispari}
+    \begin{itemize}
+        \item Domanda 1: molto d'accordo = 5-1 = 4
+        \item Domanda 3: molto d'accordo = 5-1 = 4
+        \item Domanda 5: molto d'accordo = 5-1 = 4
+        \item Domanda 7: abbastanza d'accordo = 4-1 = 3
+        \item Domanda 9: molto d'accordo = 5-1 = 4
+    \end{itemize}
+    \item \textbf{Risposte a domande pari}
+    \begin{itemize}
+        \item Domanda 2: per niente d'accordo = 5-1 = 4
+        \item Domanda 4: per niente d'accordo = 5-1 = 4
+        \item Domanda 6: poco d'accordo = 5-2 = 3
+        \item Domanda 8:né d'accordo né in disaccordo = 5-3 = 2
+        \item Domanda 10:per niente d'accordo = 5-1 = 4
+    \end{itemize}
+
+    \item \textbf{Totale punteggio utente 2: } 36*2.5 = \textbf{90}
+    
+\end{itemize}
+\textbf{Utente 3:}
+\begin{itemize}
+    \item \textbf{Risposte a domande dispari}
+    \begin{itemize}
+        \item Domanda 1:abbastanza d'accordo = 4-1 = 3
+        \item Domanda 3: molto d'accordo = 5-1 = 4
+        \item Domanda 5: molto d'accordo = 5-1 = 4
+        \item Domanda 7: molto d'accordo = 5-1 = 4
+        \item Domanda 9: molto d'accordo = 5-1 = 4
+    \end{itemize}
+    \item \textbf{Risposte a domande pari}
+    \begin{itemize}
+        \item Domanda 2: poco d'accordo = 5-2 = 3
+        \item Domanda 4: poco d'accordo= 5-2 = 3
+        \item Domanda 6: per niente d'accordo = 5-1 = 4
+        \item Domanda 8: poco d'accordo = 5-2 = 3
+        \item Domanda 10: per niente d'accordo = 5-1 = 4
+    \end{itemize}
+
+    \item \textbf{Totale punteggio utente 3: } 36*2.5 = \textbf{90}
+    
+\end{itemize}
+\textbf{Utente 4:}
+\begin{itemize}
+    \item \textbf{Risposte a domande dispari}
+    \begin{itemize}
+        \item Domanda 1: molto d'accordo = 5-1 = 4
+        \item Domanda 3: molto d'accordo = 5-1 = 4
+        \item Domanda 5: né d'accordo né in dissacordo = 3-1 = 2
+        \item Domanda 7: molto d'accordo = 5-1 = 4
+        \item Domanda 9: molto d'accordo = 5-1 = 4
+    \end{itemize}
+    \item \textbf{Risposte a domande pari}
+    \begin{itemize}
+        \item Domanda 2: poco d'accordo = 5-2 = 3
+        \item Domanda 4: né 'accordo né in disaccordo = 5-3 = 2
+        \item Domanda 6:per niente d'accordo = 5-1 = 4
+        \item Domanda 8: per niente d'accordo = 5-1 = 4
+        \item Domanda 10:per niente d'accordo = 5-1 = 4
+    \end{itemize}
+
+    \item \textbf{Totale punteggio utente 4: } 35*2.5= \textbf{87.5}
+    
+\end{itemize}
+Media punteggio SUS = 95+90+90+87.5/4 = \textbf{90.62}. Il punteggio è nettamente superiore a 80 il che indica un \textbf{ottima usabilità}.

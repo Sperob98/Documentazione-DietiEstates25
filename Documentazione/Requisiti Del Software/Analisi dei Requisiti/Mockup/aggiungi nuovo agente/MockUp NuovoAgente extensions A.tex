@@ -1,0 +1,29 @@
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}[node distance=1.5cm and 1cm, auto]
+		% Nodo per immagine 1 con didascalia sotto
+		\node (img1) {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/extension A/nomeNonInserito.png} \\
+				Cockburn: step 4.A
+			\end{tabular}
+		};
+		
+		% Nodo per immagine 2 con didascalia sotto, posizionato a destra di img1
+		\node (img2) [below=of img1] {
+			\begin{tabular}{c}
+				\includegraphics[width=0.7\textwidth]{Immagini/Mockup/nuovoAgente/extension A/messaggioDiErrore.png} \\
+				Cockburn: step 5.A
+			\end{tabular}
+		};
+	
+		
+		% Disegna le frecce
+		\draw[->, thick] (img1) -- (img2);
+		
+	\end{tikzpicture}
+	\caption{Mockup: Extension A della tabella di Cockburn del caso d'uso: Registra nuovo agente.}
+	\label{fig:tikz_flow}
+\end{figure}
+
+
