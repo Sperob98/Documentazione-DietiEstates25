@@ -1,14 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.2)  3 OCT 2025 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.3)  3 OCT 2025 18:57
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**c:/Users/moros/Documents/GitHub/Lasd/PrimoProgetto/Documentazione-DietiEstates25/Documentazione/main.tex
+(c:/Users/moros/Documents/GitHub/Lasd/PrimoProgetto/Documentazione-DietiEstates25/Documentazione/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+(C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -23,23 +24,18 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count284
@@ -54,67 +50,37 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen155
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks20
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
-sty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
-y
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks21
 \pgfutil@tempdima=\dimen157
 \pgfutil@tempdimb=\dimen158
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--latex.def
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box53
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
-code.tex
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
-sty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen159
 \Gin@req@width=\dimen160
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
-sty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks22
 \pgfkeys@temptoks=\toks23
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-libraryfiltered.code.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks24
 ))
 \pgf@x=\dimen161
@@ -137,39 +103,27 @@ libraryfiltered.code.tex
 \t@pgf@tokb=\toks26
 \t@pgf@tokc=\toks27
 \pgf@sys@id@count=\count291
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
-fg
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-pdftex.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-common-pdf.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-ssoftpath.code.tex
+))) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count292
 \pgfsyssoftpath@bigbuffer@items=\count293
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-sprotocol.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -179,52 +133,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-e.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
-code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
-r.code.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen171
 \pgfmath@count=\count294
 \pgfmath@box=\box54
 \pgfmath@toks=\toks28
 \pgfmath@stack@operand=\toks29
 \pgfmath@stack@operation=\toks30
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.basic.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.trigonometric.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.random.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.comparison.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.base.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.round.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.misc.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
-code.tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
-.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count295
-))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
-tex)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epoints.code.tex
+)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen172
 \pgf@picmaxx=\dimen173
@@ -240,130 +160,75 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yy=\dimen183
 \pgf@zx=\dimen184
 \pgf@zy=\dimen185
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathconstruct.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen186
 \pgf@path@lasty=\dimen187
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathusage.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen188
 \pgf@shorten@start@additional=\dimen189
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-escopes.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box55
 \pgf@hbox=\box56
 \pgf@layerbox@main=\box57
 \pgf@picture@serial@count=\count296
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-egraphicstate.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen190
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransformations.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen191
 \pgf@pt@y=\dimen192
 \pgf@pt@temp=\dimen193
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-equick.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eobjects.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathprocessing.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-earrows.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen194
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eshade.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen195
 \pgf@sys@shading@range@num=\count297
 \pgf@shadingcount=\count298
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eimage.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eexternal.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box58
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-elayers.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransparency.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epatterns.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-erdf.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-shapes.code.tex
+))) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box59
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-plot.code.tex
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-0-65.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen196
 \pgf@nodesepend=\dimen197
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-1-18.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
-y
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
-code.tex
+)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen198
 \pgffor@skip=\dimen199
 \pgffor@stack=\toks31
 \pgffor@toks=\toks32
-))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z\tikz.code.tex
+)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplothandlers.code.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count299
 \pgfplotmarksize=\dimen256
@@ -384,28 +249,20 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofchildren=\count301
 \tikznumberofcurrentchild=\count302
 \tikz@fig@count=\count303
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-matrix.code.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count304
 \pgfmatrixcurrentcolumn=\count305
 \pgf@matrix@numberofcolumns=\count306
 )
 \tikz@expandcount=\count307
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarytopaths.code.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarypositioning.code.tex
+))) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \col@sep=\dimen265
 \ar@mcellbox=\box64
@@ -422,42 +279,35 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \TX@delta=\dimen271
 \TX@cols=\count308
 \TX@ftn=\toks34
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks35
 \verbatim@line=\toks36
 \verbatim@in@stream=\read3
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count309
 \float@exts=\toks37
 \float@box=\box66
 \@float@everytoks=\toks38
 \@floatcapt=\box67
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
 \@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks39
 \ex@=\dimen272
-))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen273
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count310
@@ -507,15 +357,9 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks43
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
-eys2e.sty
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-09-02 L3 programming layer (loader) 
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count322
 ))
@@ -525,77 +369,54 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count323
 \l__lipsum_a_int=\count324
 \l__lipsum_b_int=\count325
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count326
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count327
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
-ty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen281
 \Hy@linkcounter=\count328
 \Hy@pagecounter=\count329
- (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count330
- (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -608,21 +429,16 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count331
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen282
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count332
 \Field@Width=\dimen283
@@ -639,26 +455,19 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count335
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count336
 \c@bookmark@seq@number=\count337
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip56
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip57
 \enit@outerparindent=\dimen285
@@ -666,8 +475,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box70
 \enit@count@id=\count338
 \enitdp@description=\count339
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LTleft=\skip58
 \LTright=\skip59
@@ -685,8 +493,7 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \c@LT@tables=\count343
 \c@LT@chunks=\count344
 \LT@p@ftn=\toks45
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \everycr=\toks46
 \minrowclearance=\skip62
@@ -696,7 +503,7 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
 (LaTeX)        option "xcdraw".
 
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+(C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen287
 \lightrulewidth=\dimen288
@@ -715,15 +522,13 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count348
 \@lastruleclass=\count349
 \@thisrulewidth=\dimen299
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip63
 \multirow@cntb=\count350
 \multirow@dima=\skip64
 \bigstrutjot=\dimen300
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box76
 \beforetitleunit=\skip65
@@ -734,29 +539,21 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen303
 \titlewidthlast=\dimen304
 \titlewidthfirst=\dimen305
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks48
 \XKV@tempa@toks=\toks49
 )
 \XKV@depth=\count351
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
--ends (calc, etex, pgfmath)
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+)) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
-ty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box77
 )
@@ -765,8 +562,7 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@urx=\dimen308
 \tc@ury=\dimen309
 Package trimclip Info: Using driver 'tc-pdftex.def'.
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen310
@@ -777,11 +573,10 @@ File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 \adjbox@pheight=\dimen315
 \adjbox@pdepth=\dimen316
 \adjbox@ptotalheight=\dimen317
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count352
-) (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box78
 \sift@deathcycles=\count353
@@ -789,7 +584,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@roff=\dimen319
 )
 ==> First Aid for varwidth.sty applied!
-) (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip67
 \RaggedLeftLeftskip=\skip68
@@ -805,7 +600,7 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip78
 \RaggedRightParindent=\skip79
 \JustifyingParindent=\skip80
-) (C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen320
 \c@nlinenum=\count354
@@ -825,45 +620,6 @@ LaTeX Warning: Label `tab:my-table' multiply defined.
 
 
 LaTeX Warning: Label `tab:my-table' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
-
-
-LaTeX Warning: Label `fig:tikz_flow' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -921,9 +677,7 @@ LaTeX Font Info:    ... okay on input line 41.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count355
 \scratchdimen=\dimen321
@@ -936,15 +690,10 @@ ii
 \MPnumerator=\count359
 \makeMPintoPDFobject=\count360
 \everyMPtoPDFconversion=\toks52
-)
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\rbrna\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\moros\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 41.
@@ -952,7 +701,7 @@ Package hyperref Info: Link coloring OFF on input line 41.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<Immagini/logo_universita.png, id=74, 803.0pt x 799.98875pt>
+<Immagini/logo_universita.png, id=78, 803.0pt x 799.98875pt>
 File: Immagini/logo_universita.png Graphic file (type png)
 <use Immagini/logo_universita.png>
 Package pdftex.def Info: Immagini/logo_universita.png  used on input line 46.
@@ -961,12 +710,10 @@ Package pdftex.def Info: Immagini/logo_universita.png  used on input line 46.
 
 [1
 
-{C:/Users/rbrna/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Immagini/l
-ogo_universita.png>]
+{C:/Users/moros/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Immagini/logo_universita.png>]
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.83 \tableofcontents
@@ -998,8 +745,7 @@ Overfull \hbox (53.03952pt too wide) in alignment at lines 12--35
 Chapter 2.
 (Requisiti Del Software/Analisi dei Requisiti/Analisi dei Requisiti.tex
 Overfull \hbox (11.10384pt too wide) in paragraph at lines 19--20
-\T1/cmr/m/n/12 Creati dall'Amministratore o dall'Amministratore di sup-porto. L
-e cre-den-ziali sono anch'esse
+\T1/cmr/m/n/12 Creati dall'Amministratore o dall'Amministratore di sup-porto. Le cre-den-ziali sono anch'esse
  []
 
 
@@ -1008,8 +754,7 @@ e cre-den-ziali sono anch'esse
 
 ]
 Overfull \hbox (10.11761pt too wide) in paragraph at lines 41--42
-[]\T1/cmr/m/n/12 L'utente reg-is-trato puÚ in-viare una pro-posta sull'immobile
-, che verr‡ gestita dall'agente
+[]\T1/cmr/m/n/12 L'utente reg-is-trato puÚ in-viare una pro-posta sull'immobile, che verr‡ gestita dall'agente
  []
 
 (Requisiti Del Software/Analisi dei Requisiti/Glossario.tex
@@ -1029,50 +774,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
 
 [7]
-<Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png, id=138
-, 477.785pt x 382.42876pt>
-File: Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png Gr
-aphic file (type png)
+<Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png, id=143, 477.785pt x 382.42876pt>
+File: Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png Graphic file (type png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png>
-Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Regis
-trato.drawio.png  used on input line 26.
+Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png  used on input line 26.
 (pdftex.def)             Requested size: 386.95894pt x 309.73058pt.
-<Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png, id=139, 56
-7.11874pt x 723.70375pt>
-File: Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png Graphi
-c file (type png)
+<Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png, id=144, 567.11874pt x 723.70375pt>
+File: Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png Graphic file (type png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png>
-Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Utente registrat
-o.drawio.png  used on input line 32.
+Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png  used on input line 32.
 (pdftex.def)             Requested size: 386.95894pt x 493.81264pt.
 
 
 [8 <./Immagini/Diagrammi Casi D'uso/UseCase-Utente Non Registrato.drawio.png>]
-<Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png, id=146, 566.115pt x 6
-88.5725pt>
-File: Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png Graphic file (typ
-e png)
+<Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png, id=151, 566.115pt x 688.5725pt>
+File: Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png Graphic file (type png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png>
-Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.pn
-g  used on input line 38.
+Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png  used on input line 38.
 (pdftex.def)             Requested size: 386.95894pt x 470.67117pt.
 
 
 [9 <./Immagini/Diagrammi Casi D'uso/UseCase-Utente registrato.drawio.png>]
-<Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png, id=153, 500.87125pt x 
-442.65375pt>
-File: Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png Graphic file (type
- png)
+<Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png, id=158, 500.87125pt x 442.65375pt>
+File: Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png Graphic file (type png)
 <use Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png>
-Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png
-  used on input line 44.
+Package pdftex.def Info: Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png  used on input line 44.
 (pdftex.def)             Requested size: 386.95894pt x 341.99942pt.
 
 
 [10 <./Immagini/Diagrammi Casi D'uso/UseCase-Agente.drawio.png>]
 
-[11 <./Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png>])
-(Requisiti Del Software/Analisi dei Requisiti/Analisi degli utenti.tex
+[11 <./Immagini/Diagrammi Casi D'uso/UseCase-Admin.drawio.png>]) (Requisiti Del Software/Analisi dei Requisiti/Analisi degli utenti.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
  []
@@ -1082,58 +814,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
-<Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png, id=166, 
-1445.4pt x 813.0375pt>
-File: Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png Grap
-hic file (type png)
+<Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png, id=171, 1445.4pt x 813.0375pt>
+File: Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png Graphic file (type png)
 <use Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png>
-Package pdftex.def Info: Immagini/Personas/Personas-Propretario di un agenzia i
-mmobiliare.png  used on input line 16.
+Package pdftex.def Info: Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png  used on input line 16.
 (pdftex.def)             Requested size: 483.69684pt x 272.07462pt.
-<Immagini/Personas/Personas-Agente Immobiliare.png, id=167, 1445.4pt x 828.0937
-5pt>
+<Immagini/Personas/Personas-Agente Immobiliare.png, id=172, 1445.4pt x 828.09375pt>
 File: Immagini/Personas/Personas-Agente Immobiliare.png Graphic file (type png)
-
 <use Immagini/Personas/Personas-Agente Immobiliare.png>
-Package pdftex.def Info: Immagini/Personas/Personas-Agente Immobiliare.png  use
-d on input line 22.
+Package pdftex.def Info: Immagini/Personas/Personas-Agente Immobiliare.png  used on input line 22.
 (pdftex.def)             Requested size: 483.69684pt x 277.11302pt.
 
 
 [12 <./Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png>]
-<Immagini/Personas/Personas-manager di azienda tecnologica.png, id=175, 1445.4p
-t x 813.0375pt>
-File: Immagini/Personas/Personas-manager di azienda tecnologica.png Graphic fil
-e (type png)
+<Immagini/Personas/Personas-manager di azienda tecnologica.png, id=180, 1445.4pt x 813.0375pt>
+File: Immagini/Personas/Personas-manager di azienda tecnologica.png Graphic file (type png)
 <use Immagini/Personas/Personas-manager di azienda tecnologica.png>
-Package pdftex.def Info: Immagini/Personas/Personas-manager di azienda tecnolog
-ica.png  used on input line 28.
+Package pdftex.def Info: Immagini/Personas/Personas-manager di azienda tecnologica.png  used on input line 28.
 (pdftex.def)             Requested size: 483.69684pt x 272.07462pt.
-<Immagini/Personas/Personas-Padre di famiglia.png, id=176, 1445.4pt x 813.0375p
-t>
+<Immagini/Personas/Personas-Padre di famiglia.png, id=181, 1445.4pt x 813.0375pt>
 File: Immagini/Personas/Personas-Padre di famiglia.png Graphic file (type png)
 <use Immagini/Personas/Personas-Padre di famiglia.png>
-Package pdftex.def Info: Immagini/Personas/Personas-Padre di famiglia.png  used
- on input line 34.
+Package pdftex.def Info: Immagini/Personas/Personas-Padre di famiglia.png  used on input line 34.
 (pdftex.def)             Requested size: 483.69684pt x 272.07462pt.
 
 
-[13 <./Immagini/Personas/Personas-Agente Immobiliare.png> <./Immagini/Personas/
-Personas-manager di azienda tecnologica.png>]
+[13 <./Immagini/Personas/Personas-Agente Immobiliare.png> <./Immagini/Personas/Personas-manager di azienda tecnologica.png>]
 
 [14 <./Immagini/Personas/Personas-Padre di famiglia.png>]
 
-[15])
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/descriz
-ione dei requisiti.tex
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti non funzionali/sicurezza.tex)
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti non funzionali/interfaccia utente.tex)
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti non funzionali/prestazioni.tex)
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti non funzionali/Manutenibilit√† e scalabilit√†.tex
+[15]) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/descrizione dei requisiti.tex (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti non funzionali/sicurezza.tex) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti non funzionali/interfaccia utente.tex) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti non funzionali/prestazioni.tex) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti non funzionali/Manutenibilit√† e scalabilit√†.tex
 Underfull \hbox (badness 3333) in paragraph at lines 10--12
 []|\T1/cmr/m/n/12 Il sis-tema deve es-sere pro-get-tato per sup-port-are
  []
@@ -1142,9 +852,7 @@ Underfull \hbox (badness 3333) in paragraph at lines 10--12
 
 [16
 
-]
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti di dominio/Gestione dell'agenzia immobiliare.tex
+] (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti di dominio/Gestione dell'agenzia immobiliare.tex
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 []|\T1/cmr/m/n/12 Le cre-den-ziali di un am-min-is-tra-tore in-cludono
  []
@@ -1159,21 +867,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 \T1/cmr/m/n/12 [nome][cognome]@DIETI25.com, e una pass-word
  []
 
-)
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti di dominio/Gestione utente.tex)
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti di dominio/gestione immobili.tex)
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti di dominio/Ricerca e visualizzazione.tex)
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti di dominio/Gestione delle offerte.tex
+) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti di dominio/Gestione utente.tex) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti di dominio/gestione immobili.tex) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti di dominio/Ricerca e visualizzazione.tex) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti di dominio/Gestione delle offerte.tex
 
-[17])
-(Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisi
-ti di dominio/Gestione notifiche.tex))
-(Requisiti Del Software/Analisi dei Requisiti/cockburn/Capitolo Cockburn.tex
-(Requisiti Del Software/Analisi dei Requisiti/cockburn/cockburnAnnunci.tex
+[17]) (Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti di dominio/Gestione notifiche.tex)) (Requisiti Del Software/Analisi dei Requisiti/cockburn/Capitolo Cockburn.tex (Requisiti Del Software/Analisi dei Requisiti/cockburn/cockburnAnnunci.tex
 Overfull \hbox (4.81258pt too wide) in alignment at lines 7--13
  [] [] [] [] 
  []
@@ -1187,244 +883,134 @@ Overfull \hbox (4.81258pt too wide) in alignment at lines 13--53
 
 [18] [19])
 
-[20] (Requisiti Del Software/Analisi dei Requisiti/cockburn/cockNotifiche.tex
-[21] [22]))
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/Introduzione Mock up.tex
+[20] (Requisiti Del Software/Analisi dei Requisiti/cockburn/cockNotifiche.tex [21] [22])) (Requisiti Del Software/Analisi dei Requisiti/Mockup/Introduzione Mock up.tex
 
-[23]
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/Introduz
-ione MockUp Aggiungi Annuncio.tex
-
-LaTeX Warning: Citation `nielsen1995' on page 24 undefined on input line 3.
-
-
-LaTeX Warning: Citation `norman1988' on page 24 undefined on input line 3.
-
-
-LaTeX Warning: Citation `miller1956' on page 24 undefined on input line 13.
-
-
+[23] (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/Introduzione MockUp Aggiungi Annuncio.tex
 Overfull \hbox (20.7172pt too wide) in paragraph at lines 16--17
-[]\T1/cmr/bx/n/12 Step 2 e suc-ces-sivi: \T1/cmr/m/n/12 Rac-col-gono i dati pri
-n-ci-pali e le carat-ter-is-tiche sec-on-darie dell'immobile,
+[]\T1/cmr/bx/n/12 Step 2 e suc-ces-sivi: \T1/cmr/m/n/12 Rac-col-gono i dati prin-ci-pali e le carat-ter-is-tiche sec-on-darie dell'immobile,
  []
-
-
-LaTeX Warning: Citation `shneiderman2004' on page 24 undefined on input line 23
-.
-
-
-LaTeX Warning: Citation `wickens2008' on page 24 undefined on input line 30.
 
 
 
 [24]
 
-LaTeX Warning: Citation `pieters2004' on page 25 undefined on input line 37.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 25 undefined on input line 44.
-
-
-
-[25]
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
- principale.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png, id=240, 847.3
-6575pt x 398.6895pt>
-File: Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png Graphic f
-ile (type png)
+[25] (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario principale.tex
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png, id=258, 847.36575pt x 398.6895pt>
+File: Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
-step1.png  used on input line 7.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png  used on input line 7.
 (pdftex.def)             Requested size: 338.5863pt x 159.30872pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png, id=241, 831.1
-05pt x 365.56575pt>
-File: Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png Graphic f
-ile (type png)
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png, id=259, 831.105pt x 365.56575pt>
+File: Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
-step2.png  used on input line 15.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png  used on input line 15.
 (pdftex.def)             Requested size: 338.5863pt x 148.92906pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png, id=242, 835.9
-23pt x 454.69875pt>
-File: Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png Graphic f
-ile (type png)
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png, id=260, 835.923pt x 454.69875pt>
+File: Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
-step3.png  used on input line 23.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png  used on input line 23.
 (pdftex.def)             Requested size: 338.5863pt x 184.17279pt.
-)
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
- principale Parte II.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png, id=243, 841.3
-4325pt x 383.63326pt>
-File: Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png Graphic f
-ile (type png)
+) (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario principale Parte II.tex
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png, id=261, 841.34325pt x 383.63326pt>
+File: Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
-step4.png  used on input line 7.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png  used on input line 7.
 (pdftex.def)             Requested size: 483.69684pt x 220.55814pt.
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png, id=244, 835.3
-2076pt x 498.06075pt>
-File: Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png Graphic f
-ile (type png)
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png, id=262, 835.32076pt x 498.06075pt>
+File: Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
-step5.png  used on input line 15.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png  used on input line 15.
 (pdftex.def)             Requested size: 483.69684pt x 288.40424pt.
 
 Overfull \hbox (19.83057pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
-
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario
- principale Parte III.tex
-<Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png, id=245, 1347.
-0325pt x 2300.595pt>
-File: Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png Graphic f
-ile (type png)
+(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/scenario principale Parte III.tex
+<Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png, id=263, 1347.0325pt x 2300.595pt>
+File: Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/
-step6.png  used on input line 8.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png  used on input line 8.
 (pdftex.def)             Requested size: 342.51244pt x 584.97653pt.
-))
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
-ne A.tex
+)) (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensione A.tex
 
-[26 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png> <./Imma
-gini/Mockup/aggiungi annuncio/scenario principale/step2.png> <./Immagini/Mockup
-/aggiungi annuncio/scenario principale/step3.png>]
+[26 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step1.png> <./Immagini/Mockup/aggiungi annuncio/scenario principale/step2.png> <./Immagini/Mockup/aggiungi annuncio/scenario principale/step3.png>]
 
-[27 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png> <./Imma
-gini/Mockup/aggiungi annuncio/scenario principale/step5.png>]
+[27 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step4.png> <./Immagini/Mockup/aggiungi annuncio/scenario principale/step5.png>]
 
 [28 <./Immagini/Mockup/aggiungi annuncio/scenario principale/step6.png>]
-
-LaTeX Warning: Citation `nielsen1995' on page 29 undefined on input line 17.
-
-<Immagini/Mockup/aggiungi annuncio/estensione A/step1.png, id=267, 840.13875pt 
-x 414.348pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione A/step1.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione A/step1.png, id=286, 840.13875pt x 414.348pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione A/step1.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione A/step1.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step1.p
-ng  used on input line 32.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step1.png  used on input line 32.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
-<Immagini/Mockup/aggiungi annuncio/estensione A/step2.png, id=268, 840.13875pt 
-x 414.348pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione A/step2.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione A/step2.png, id=287, 840.13875pt x 414.348pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione A/step2.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione A/step2.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step2.p
-ng  used on input line 40.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step2.png  used on input line 40.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
-<Immagini/Mockup/aggiungi annuncio/estensione A/step3.png, id=269, 840.13875pt 
-x 414.348pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione A/step3.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione A/step3.png, id=288, 840.13875pt x 414.348pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione A/step3.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione A/step3.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step3.p
-ng  used on input line 48.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione A/step3.png  used on input line 48.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
 
 
 [29
 
-])
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
-ne B.tex
+]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensione B.tex
 
-[30 <./Immagini/Mockup/aggiungi annuncio/estensione A/step1.png> <./Immagini/Mo
-ckup/aggiungi annuncio/estensione A/step2.png> <./Immagini/Mockup/aggiungi annu
-ncio/estensione A/step3.png>]
-
-LaTeX Warning: Citation `shneiderman2004' on page 31 undefined on input line 6.
-
-
-<Immagini/Mockup/aggiungi annuncio/estensione B/step1.png, id=283, 840.13875pt 
-x 414.348pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione B/step1.png Graphic file (ty
-pe png)
+[30 <./Immagini/Mockup/aggiungi annuncio/estensione A/step1.png> <./Immagini/Mockup/aggiungi annuncio/estensione A/step2.png> <./Immagini/Mockup/aggiungi annuncio/estensione A/step3.png>]
+<Immagini/Mockup/aggiungi annuncio/estensione B/step1.png, id=303, 840.13875pt x 414.348pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione B/step1.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione B/step1.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step1.p
-ng  used on input line 22.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step1.png  used on input line 22.
 (pdftex.def)             Requested size: 338.5863pt x 166.9881pt.
-<Immagini/Mockup/aggiungi annuncio/estensione B/step2.png, id=284, 823.878pt x 
-314.3745pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione B/step2.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione B/step2.png, id=304, 823.878pt x 314.3745pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione B/step2.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione B/step2.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step2.p
-ng  used on input line 30.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step2.png  used on input line 30.
 (pdftex.def)             Requested size: 338.5863pt x 129.19658pt.
-<Immagini/Mockup/aggiungi annuncio/estensione B/step3.png, id=285, 823.878pt x 
-356.532pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione B/step3.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione B/step3.png, id=305, 823.878pt x 356.532pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione B/step3.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione B/step3.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step3.p
-ng  used on input line 38.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione B/step3.png  used on input line 38.
 (pdftex.def)             Requested size: 338.5863pt x 146.52179pt.
 
 
 [31
 
-])
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
-ne C.tex
+]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensione C.tex
 
-[32 <./Immagini/Mockup/aggiungi annuncio/estensione B/step1.png> <./Immagini/Mo
-ckup/aggiungi annuncio/estensione B/step2.png> <./Immagini/Mockup/aggiungi annu
-ncio/estensione B/step3.png>]
+[32 <./Immagini/Mockup/aggiungi annuncio/estensione B/step1.png> <./Immagini/Mockup/aggiungi annuncio/estensione B/step2.png> <./Immagini/Mockup/aggiungi annuncio/estensione B/step3.png>]
 Overfull \hbox (10.23506pt too wide) in paragraph at lines 10--11
-[]\T1/cmr/bx/n/12 Messaggio chiaro e ras-si-cu-rante\T1/cmr/m/n/12 : in-forma l
-'utente dell'errore senza tec-ni-cismi, riducendo
+[]\T1/cmr/bx/n/12 Messaggio chiaro e ras-si-cu-rante\T1/cmr/m/n/12 : in-forma l'utente dell'errore senza tec-ni-cismi, riducendo
  []
 
 
 Overfull \hbox (2.8661pt too wide) in paragraph at lines 11--12
-[]\T1/cmr/bx/n/12 Pulsante ^^PRiprova^^Q\T1/cmr/m/n/12 : con-sente di tentare n
-uo-va-mente la pub-bli-cazione con un'animazione
+[]\T1/cmr/bx/n/12 Pulsante ^^PRiprova^^Q\T1/cmr/m/n/12 : con-sente di tentare nuo-va-mente la pub-bli-cazione con un'animazione
  []
 
 
 Overfull \hbox (15.51176pt too wide) in paragraph at lines 16--18
-\T1/cmr/m/n/12 L'implementazione di questa ges-tione degli er-rori si basa su d
-i-versi prin-cipi della UX e dell'usabilit‡: 
+\T1/cmr/m/n/12 L'implementazione di questa ges-tione degli er-rori si basa su di-versi prin-cipi della UX e dell'usabilit‡: 
  []
 
 
-LaTeX Warning: Citation `nielsen1995' on page 33 undefined on input line 18.
-
-
-Overfull \hbox (10.48495pt too wide) in paragraph at lines 18--19
-[]\T1/cmr/bx/n/12 Visibilit‡ dello stato del sis-tema \T1/cmr/m/n/12 [[]]: l'an
-imazione di cari-ca-mento for-nisce un'indicazione
+Overfull \hbox (9.98508pt too wide) in paragraph at lines 18--19
+[]\T1/cmr/bx/n/12 Visibilit‡ dello stato del sis-tema \T1/cmr/m/n/12 [[]]: l'animazione di cari-ca-mento for-nisce un'indicazione
  []
 
-
-LaTeX Warning: Citation `nielsen1995' on page 33 undefined on input line 19.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 33 undefined on input line 20.
-
-<Immagini/Mockup/aggiungi annuncio/estensione C/step1.png, id=298, 740.7675pt x
- 451.6875pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione C/step1.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione C/step1.png, id=321, 740.7675pt x 451.6875pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione C/step1.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione C/step1.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione C/step1.p
-ng  used on input line 32.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione C/step1.png  used on input line 32.
 (pdftex.def)             Requested size: 338.5863pt x 206.45546pt.
-<Immagini/Mockup/aggiungi annuncio/estensione C/step2.png, id=299, 605.26125pt 
-x 490.83376pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione C/step2.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione C/step2.png, id=322, 605.26125pt x 490.83376pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione C/step2.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione C/step2.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione C/step2.p
-ng  used on input line 40.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione C/step2.png  used on input line 40.
 (pdftex.def)             Requested size: 483.69684pt x 392.2556pt.
 
 Overfull \hbox (19.83057pt too wide) in paragraph at lines 49--50
@@ -1435,44 +1021,27 @@ Overfull \hbox (19.83057pt too wide) in paragraph at lines 49--50
 
 [33
 
-])
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensio
-ne D.tex
+]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/aggiungi annuncio/estensione D.tex
 
-[34 <./Immagini/Mockup/aggiungi annuncio/estensione C/step1.png> <./Immagini/Mo
-ckup/aggiungi annuncio/estensione C/step2.png>]
+[34 <./Immagini/Mockup/aggiungi annuncio/estensione C/step1.png> <./Immagini/Mockup/aggiungi annuncio/estensione C/step2.png>]
 Overfull \hbox (3.68129pt too wide) in paragraph at lines 13--14
-[]\T1/cmr/m/n/12 Il bordo del campo as-sume un col-ore rosso ev-i-dente, at-ti-
-rando im-me-di-ata-mente l'attenzione
+[]\T1/cmr/m/n/12 Il bordo del campo as-sume un col-ore rosso ev-i-dente, at-ti-rando im-me-di-ata-mente l'attenzione
  []
-
-
-LaTeX Warning: Citation `nielsen1995' on page 35 undefined on input line 17.
-
-
-LaTeX Warning: Citation `shneiderman2004' on page 35 undefined on input line 26
-.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 26--28
 
  []
 
-<Immagini/Mockup/aggiungi annuncio/estensione D/step1.png, id=311, 740.7675pt x
- 451.6875pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione D/step1.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione D/step1.png, id=336, 740.7675pt x 451.6875pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione D/step1.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione D/step1.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione D/step1.p
-ng  used on input line 38.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione D/step1.png  used on input line 38.
 (pdftex.def)             Requested size: 338.5863pt x 206.45546pt.
-<Immagini/Mockup/aggiungi annuncio/estensione D/step3.png, id=312, 573.94424pt 
-x 352.31625pt>
-File: Immagini/Mockup/aggiungi annuncio/estensione D/step3.png Graphic file (ty
-pe png)
+<Immagini/Mockup/aggiungi annuncio/estensione D/step3.png, id=337, 573.94424pt x 352.31625pt>
+File: Immagini/Mockup/aggiungi annuncio/estensione D/step3.png Graphic file (type png)
 <use Immagini/Mockup/aggiungi annuncio/estensione D/step3.png>
-Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione D/step3.p
-ng  used on input line 46.
+Package pdftex.def Info: Immagini/Mockup/aggiungi annuncio/estensione D/step3.png  used on input line 46.
 (pdftex.def)             Requested size: 338.5863pt x 207.84328pt.
 
 
@@ -1480,194 +1049,97 @@ ng  used on input line 46.
 
 ]))
 
-[36 <./Immagini/Mockup/aggiungi annuncio/estensione D/step1.png> <./Immagini/Mo
-ckup/aggiungi annuncio/estensione D/step3.png>]
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/d
-escrizione mockup notifiche.tex
-
-LaTeX Warning: Citation `shneiderman2004' on page 37 undefined on input line 14
-.
-
-
-LaTeX Warning: Citation `miller1956' on page 37 undefined on input line 34.
-
-
+[36 <./Immagini/Mockup/aggiungi annuncio/estensione D/step1.png> <./Immagini/Mockup/aggiungi annuncio/estensione D/step3.png>] (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/descrizione mockup notifiche.tex
 
 [37
 
 ]
-
-LaTeX Warning: Citation `wickens2008' on page 38 undefined on input line 42.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 38 undefined on input line 43.
-
-
 Overfull \hbox (14.44244pt too wide) in paragraph at lines 46--48
-\T1/cmr/m/n/12 Nel pro-totipo questi com-por-ta-menti sono stati model-lati con
- un pul-sante, tut-tavia nell'applicazione
+\T1/cmr/m/n/12 Nel pro-totipo questi com-por-ta-menti sono stati model-lati con un pul-sante, tut-tavia nell'applicazione
  []
 
-
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/S
-cenario principale.tex
-<Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png, id=3
-29, 799.18575pt x 423.38174pt>
-File: Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png 
-Graphic file (type png)
+(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/Scenario principale.tex
+<Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png, id=358, 799.18575pt x 423.38174pt>
+File: Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/Pagina L
-ista Notifiche.png  used on input line 7.
+Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png  used on input line 7.
 (pdftex.def)             Requested size: 338.5863pt x 179.37604pt.
-<Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png, id=3
-30, 762.4485pt x 352.9185pt>
-File: Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png 
-Graphic file (type png)
+<Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png, id=359, 762.4485pt x 352.9185pt>
+File: Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/perDisat
-tivareRisposte.png  used on input line 15.
+Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png  used on input line 15.
 (pdftex.def)             Requested size: 338.5863pt x 156.72243pt.
-<Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png, id=331,
- 790.75426pt x 401.0985pt>
-File: Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png Gra
-phic file (type png)
+<Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png, id=360, 790.75426pt x 401.0985pt>
+File: Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/perDisat
-tivareNueve.png  used on input line 23.
+Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png  used on input line 23.
 (pdftex.def)             Requested size: 338.5863pt x 171.74068pt.
 
 
 [38]
 
-[39 <./Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png
-> <./Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png> 
-<./Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png>]
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/S
-cenario principale 2.tex
-<Immagini/Mockup/notifiche/scenario principale/clickConferma.png, id=344, 784.7
-3175pt x 396.2805pt>
-File: Immagini/Mockup/notifiche/scenario principale/clickConferma.png Graphic f
-ile (type png)
+[39 <./Immagini/Mockup/notifiche/scenario principale/Pagina Lista Notifiche.png> <./Immagini/Mockup/notifiche/scenario principale/perDisattivareRisposte.png> <./Immagini/Mockup/notifiche/scenario principale/perDisattivareNueve.png>] (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/Scenario principale 2.tex
+<Immagini/Mockup/notifiche/scenario principale/clickConferma.png, id=373, 784.73175pt x 396.2805pt>
+File: Immagini/Mockup/notifiche/scenario principale/clickConferma.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/scenario principale/clickConferma.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/clickCon
-ferma.png  used on input line 8.
+Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/clickConferma.png  used on input line 8.
 (pdftex.def)             Requested size: 338.5863pt x 170.98383pt.
-<Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png, i
-d=345, 799.18575pt x 410.13225pt>
-File: Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.p
-ng Graphic file (type png)
-<use Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.pn
-g>
-Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/allerAvv
-isoDisattivazione.png  used on input line 15.
+<Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png, id=374, 799.18575pt x 410.13225pt>
+File: Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png Graphic file (type png)
+<use Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png>
+Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png  used on input line 15.
 (pdftex.def)             Requested size: 338.5863pt x 173.76257pt.
-<Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png
-, id=346, 772.0845pt x 380.622pt>
-File: Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletat
-o.png Graphic file (type png)
-<use Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato
-.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/Scenario
-PrincipaleCompletato.png  used on input line 22.
+<Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png, id=375, 772.0845pt x 380.622pt>
+File: Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png Graphic file (type png)
+<use Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png>
+Package pdftex.def Info: Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png  used on input line 22.
 (pdftex.def)             Requested size: 338.5863pt x 166.91663pt.
-))
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
-stensione A.tex
+)) (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione A.tex
 
-[40 <./Immagini/Mockup/notifiche/scenario principale/clickConferma.png> <./Imma
-gini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png> <./Imm
-agini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png>]
-
-LaTeX Warning: Citation `pieters2004' on page 41 undefined on input line 10.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 41 undefined on input line 14.
-
-
-LaTeX Warning: Citation `norman1988' on page 41 undefined on input line 18.
-
-<Immagini/Mockup/notifiche/estensione A/clickNotifica.png, id=355, 525.162pt x 
-343.2825pt>
-File: Immagini/Mockup/notifiche/estensione A/clickNotifica.png Graphic file (ty
-pe png)
+[40 <./Immagini/Mockup/notifiche/scenario principale/clickConferma.png> <./Immagini/Mockup/notifiche/scenario principale/allerAvvisoDisattivazione.png> <./Immagini/Mockup/notifiche/scenario principale/ScenarioPrincipaleCompletato.png>]
+<Immagini/Mockup/notifiche/estensione A/clickNotifica.png, id=387, 525.162pt x 343.2825pt>
+File: Immagini/Mockup/notifiche/estensione A/clickNotifica.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione A/clickNotifica.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickNotifica.p
-ng  used on input line 27.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickNotifica.png  used on input line 27.
 (pdftex.def)             Requested size: 193.47577pt x 126.46777pt.
-<Immagini/Mockup/notifiche/estensione A/clickDisattiva.png, id=356, 599.23875pt
- x 520.94624pt>
-File: Immagini/Mockup/notifiche/estensione A/clickDisattiva.png Graphic file (t
-ype png)
+<Immagini/Mockup/notifiche/estensione A/clickDisattiva.png, id=388, 599.23875pt x 520.94624pt>
+File: Immagini/Mockup/notifiche/estensione A/clickDisattiva.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione A/clickDisattiva.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickDisattiva.
-png  used on input line 35.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/clickDisattiva.png  used on input line 35.
 (pdftex.def)             Requested size: 193.47577pt x 168.19266pt.
-<Immagini/Mockup/notifiche/estensione A/disattivato.png, id=357, 630.55576pt x 
-534.19576pt>
-File: Immagini/Mockup/notifiche/estensione A/disattivato.png Graphic file (type
- png)
+<Immagini/Mockup/notifiche/estensione A/disattivato.png, id=389, 630.55576pt x 534.19576pt>
+File: Immagini/Mockup/notifiche/estensione A/disattivato.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione A/disattivato.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/disattivato.png
-  used on input line 43.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione A/disattivato.png  used on input line 43.
 (pdftex.def)             Requested size: 193.47577pt x 163.90353pt.
 
 
 [41
 
 
-])
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
-stensione B.tex
+]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione B.tex
 
-[42 <./Immagini/Mockup/notifiche/estensione A/clickNotifica.png> <./Immagini/Mo
-ckup/notifiche/estensione A/clickDisattiva.png> <./Immagini/Mockup/notifiche/es
-tensione A/disattivato.png>]
-
-LaTeX Warning: Citation `nielsen1995' on page 43 undefined on input line 11.
-
-
-LaTeX Warning: Citation `norman1988' on page 43 undefined on input line 23.
-
-)
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
-stensione c.tex
+[42 <./Immagini/Mockup/notifiche/estensione A/clickNotifica.png> <./Immagini/Mockup/notifiche/estensione A/clickDisattiva.png> <./Immagini/Mockup/notifiche/estensione A/disattivato.png>]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione c.tex
 
 [43
 
 ]
-
-LaTeX Warning: Citation `nielsen1995' on page 44 undefined on input line 19.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 44 undefined on input line 27.
-
-
-LaTeX Warning: Citation `miller1956' on page 44 undefined on input line 28.
-
-<Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png, id=375, 283.65974pt
- x 370.38374pt>
-File: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png Graphic file (t
-ype png)
+<Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png, id=412, 283.65974pt x 370.38374pt>
+File: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.
-png  used on input line 41.
+Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png  used on input line 41.
 (pdftex.def)             Requested size: 193.47577pt x 252.62622pt.
-<Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png, id=376, 593.21625pt
- x 355.3275pt>
-File: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png Graphic file (t
-ype png)
+<Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png, id=413, 593.21625pt x 355.3275pt>
+File: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.
-png  used on input line 49.
+Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png  used on input line 49.
 (pdftex.def)             Requested size: 290.22105pt x 173.8409pt.
-<Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png, id=377, 256.5585pt x 3
-39.06676pt>
-File: Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png Graphic file (type
- png)
+<Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png, id=414, 256.5585pt x 339.06676pt>
+File: Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png
-  used on input line 57.
+Package pdftex.def Info: Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png  used on input line 57.
 (pdftex.def)             Requested size: 145.11052pt x 191.78519pt.
+
 
 LaTeX Warning: Float too large for page by 94.54921pt on input line 69.
 
@@ -1675,116 +1147,57 @@ LaTeX Warning: Float too large for page by 94.54921pt on input line 69.
 
 [44
 
-])
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
-stensione D.tex
+]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione D.tex
 
-[45 <./Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png> <./Immagini/M
-ockup/notifiche/ESTENSIONE C/clickCoonferma.png> <./Immagini/Mockup/notifiche/E
-STENSIONE C/disattivato.png>]
-
-LaTeX Warning: Citation `nielsen1995' on page 46 undefined on input line 22.
-
-
-LaTeX Warning: Citation `miller1956' on page 46 undefined on input line 30.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 46 undefined on input line 39.
-
-
-LaTeX Warning: Citation `miller1956' on page 46 undefined on input line 40.
-
-<Immagini/Mockup/notifiche/estensione D/clickAttiva.png, id=390, 498.06075pt x 
-436.63126pt>
-File: Immagini/Mockup/notifiche/estensione D/clickAttiva.png Graphic file (type
- png)
+[45 <./Immagini/Mockup/notifiche/ESTENSIONE C/clickDisattiva.png> <./Immagini/Mockup/notifiche/ESTENSIONE C/clickCoonferma.png> <./Immagini/Mockup/notifiche/ESTENSIONE C/disattivato.png>]
+<Immagini/Mockup/notifiche/estensione D/clickAttiva.png, id=431, 498.06075pt x 436.63126pt>
+File: Immagini/Mockup/notifiche/estensione D/clickAttiva.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione D/clickAttiva.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione D/clickAttiva.png
-  used on input line 52.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione D/clickAttiva.png  used on input line 52.
 (pdftex.def)             Requested size: 290.22105pt x 254.43887pt.
-<Immagini/Mockup/notifiche/estensione D/attivato.png, id=391, 498.06075pt x 431
-.81325pt>
-File: Immagini/Mockup/notifiche/estensione D/attivato.png Graphic file (type pn
-g)
+<Immagini/Mockup/notifiche/estensione D/attivato.png, id=432, 498.06075pt x 431.81325pt>
+File: Immagini/Mockup/notifiche/estensione D/attivato.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione D/attivato.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione D/attivato.png  u
-sed on input line 60.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione D/attivato.png  used on input line 60.
 (pdftex.def)             Requested size: 290.22105pt x 251.63127pt.
 
 
 [46
 
-])
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
-stensione E.tex
+]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione E.tex
 
-[47 <./Immagini/Mockup/notifiche/estensione D/clickAttiva.png> <./Immagini/Mock
-up/notifiche/estensione D/attivato.png>]
-
-LaTeX Warning: Citation `nielsen1995' on page 48 undefined on input line 11.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 48 undefined on input line 11.
-
-
-LaTeX Warning: Citation `nielsen1995' on page 48 undefined on input line 11.
-
-
-LaTeX Warning: Citation `norman1988' on page 48 undefined on input line 11.
-
-<Immagini/Mockup/notifiche/estensione E/click conferma.png, id=403, 497.4585pt 
-x 431.81325pt>
-File: Immagini/Mockup/notifiche/estensione E/click conferma.png Graphic file (t
-ype png)
+[47 <./Immagini/Mockup/notifiche/estensione D/clickAttiva.png> <./Immagini/Mockup/notifiche/estensione D/attivato.png>]
+<Immagini/Mockup/notifiche/estensione E/click conferma.png, id=448, 497.4585pt x 431.81325pt>
+File: Immagini/Mockup/notifiche/estensione E/click conferma.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione E/click conferma.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione E/click conferma.
-png  used on input line 20.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione E/click conferma.png  used on input line 20.
 (pdftex.def)             Requested size: 290.22105pt x 251.92776pt.
-<Immagini/Mockup/notifiche/estensione E/errore.png, id=404, 498.663pt x 433.62p
-t>
+<Immagini/Mockup/notifiche/estensione E/errore.png, id=449, 498.663pt x 433.62pt>
 File: Immagini/Mockup/notifiche/estensione E/errore.png Graphic file (type png)
-
 <use Immagini/Mockup/notifiche/estensione E/errore.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione E/errore.png  use
-d on input line 28.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione E/errore.png  used on input line 28.
 (pdftex.def)             Requested size: 290.22105pt x 252.36653pt.
 
 
 [48
 
-])
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/e
-stensione F.tex
+]) (Requisiti Del Software/Analisi dei Requisiti/Mockup/disattivazione notifiche/estensione F.tex
 
-[49 <./Immagini/Mockup/notifiche/estensione E/click conferma.png> <./Immagini/M
-ockup/notifiche/estensione E/errore.png>]
-
-LaTeX Warning: Citation `shneiderman2004' on page 50 undefined on input line 10
-.
-
-<Immagini/Mockup/notifiche/estensione F/clickNotifica.png, id=417, 498.06075pt 
-x 433.62pt>
-File: Immagini/Mockup/notifiche/estensione F/clickNotifica.png Graphic file (ty
-pe png)
+[49 <./Immagini/Mockup/notifiche/estensione E/click conferma.png> <./Immagini/Mockup/notifiche/estensione E/errore.png>]
+<Immagini/Mockup/notifiche/estensione F/clickNotifica.png, id=463, 498.06075pt x 433.62pt>
+File: Immagini/Mockup/notifiche/estensione F/clickNotifica.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione F/clickNotifica.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickNotifica.p
-ng  used on input line 24.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickNotifica.png  used on input line 24.
 (pdftex.def)             Requested size: 193.47577pt x 168.44286pt.
-<Immagini/Mockup/notifiche/estensione F/clickAttiva.png, id=418, 498.06075pt x 
-434.8245pt>
-File: Immagini/Mockup/notifiche/estensione F/clickAttiva.png Graphic file (type
- png)
+<Immagini/Mockup/notifiche/estensione F/clickAttiva.png, id=464, 498.06075pt x 434.8245pt>
+File: Immagini/Mockup/notifiche/estensione F/clickAttiva.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione F/clickAttiva.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickAttiva.png
-  used on input line 32.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/clickAttiva.png  used on input line 32.
 (pdftex.def)             Requested size: 193.47577pt x 168.91074pt.
-<Immagini/Mockup/notifiche/estensione F/attivato.png, id=419, 495.0495pt x 431.
-211pt>
-File: Immagini/Mockup/notifiche/estensione F/attivato.png Graphic file (type pn
-g)
+<Immagini/Mockup/notifiche/estensione F/attivato.png, id=465, 495.0495pt x 431.211pt>
+File: Immagini/Mockup/notifiche/estensione F/attivato.png Graphic file (type png)
 <use Immagini/Mockup/notifiche/estensione F/attivato.png>
-Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/attivato.png  u
-sed on input line 40.
+Package pdftex.def Info: Immagini/Mockup/notifiche/estensione F/attivato.png  used on input line 40.
 (pdftex.def)             Requested size: 193.47577pt x 168.52034pt.
 
 
@@ -1792,13 +1205,9 @@ sed on input line 40.
 
 ]))
 
-[51 <./Immagini/Mockup/notifiche/estensione F/clickNotifica.png> <./Immagini/Mo
-ckup/notifiche/estensione F/clickAttiva.png> <./Immagini/Mockup/notifiche/esten
-sione F/attivato.png>]
-(Requisiti Del Software/Analisi dei Requisiti/Mockup/Test di usabilit√†.tex
+[51 <./Immagini/Mockup/notifiche/estensione F/clickNotifica.png> <./Immagini/Mockup/notifiche/estensione F/clickAttiva.png> <./Immagini/Mockup/notifiche/estensione F/attivato.png>] (Requisiti Del Software/Analisi dei Requisiti/Mockup/Test di usabilit√†.tex
 Overfull \hbox (8.11627pt too wide) in paragraph at lines 3--6
-\T1/cmr/m/n/12 utente, con-sen-tendo di va-l-utare l'efficacia, l'efficienza e 
-la sod-dis-fazione dell'utente nell'interazione
+\T1/cmr/m/n/12 utente, con-sen-tendo di va-l-utare l'efficacia, l'efficienza e la sod-dis-fazione dell'utente nell'interazione
  []
 
 
@@ -1822,8 +1231,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--41
 Chapter 3.
 (Design del Sistema/Descrizione Dell'architettura Proposta.tex
 Overfull \hbox (1.75807pt too wide) in paragraph at lines 9--10
-[]\T1/cmr/m/n/12 Repositories: Questo strato Ë ded-i-cato alla per-sis-tenza de
-i dati, in-ter-a-gendo con il database
+[]\T1/cmr/m/n/12 Repositories: Questo strato Ë ded-i-cato alla per-sis-tenza dei dati, in-ter-a-gendo con il database
  []
 
 
@@ -1832,22 +1240,18 @@ i dati, in-ter-a-gendo con il database
 
 ]
 Overfull \hbox (6.0605pt too wide) in paragraph at lines 15--15
-|[]\T1/cmr/bx/n/17.28 Descrizione e mo-ti-vazione delle scelte tec-no-logiche a
-dot-
+|[]\T1/cmr/bx/n/17.28 Descrizione e mo-ti-vazione delle scelte tec-no-logiche adot-
  []
 
 
 
 [58]
-<Immagini/diagramma delle classi.drawio.png, id=487, 1648.1575pt x 1122.1925pt>
-
+<Immagini/diagramma delle classi.drawio.png, id=533, 1648.1575pt x 1122.1925pt>
 File: Immagini/diagramma delle classi.drawio.png Graphic file (type png)
 <use Immagini/diagramma delle classi.drawio.png>
-Package pdftex.def Info: Immagini/diagramma delle classi.drawio.png  used on in
-put line 38.
+Package pdftex.def Info: Immagini/diagramma delle classi.drawio.png  used on input line 38.
 (pdftex.def)             Requested size: 483.69684pt x 329.33159pt.
-) (Design del Sistema/Diagramma delle classi di design.tex)
-(Design del Sistema/Diagrammi di Sequenza di Design.tex) (Servizio/Fonti.tex
+) (Design del Sistema/Diagramma delle classi di design.tex) (Design del Sistema/Diagrammi di Sequenza di Design.tex) (Servizio/Fonti.tex
 
 [59 <./Immagini/diagramma delle classi.drawio.png>]
 Chapter 4.
@@ -1866,51 +1270,23 @@ L3 programming layer <2025-09-02>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 39F77A5EE9BD189BCD71830092C714E0;3446
-(rerunfilecheck)             After:  CF66FC326C5B2AD7B55F22B82F0D6F78;3515.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: CF66FC326C5B2AD7B55F22B82F0D6F78;3515.
  ) 
 Here is how much of TeX's memory you used:
- 24194 strings out of 468130
- 489981 string characters out of 5430633
- 950600 words of memory out of 5000000
- 52126 multiletter control sequences out of 15000+600000
+ 24210 strings out of 468130
+ 492599 string characters out of 5430633
+ 952330 words of memory out of 5000000
+ 52140 multiletter control sequences out of 15000+600000
  640045 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,16n,107p,1574b,844s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
-1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm0800.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecti1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1440.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\rbrna\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\rbrna\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\rbrna\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\rbrna\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\rbrna\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\
-rbrna\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/U
-sers/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.
-pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/rbrna/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (62 pages, 6448974 bytes).
+ 102i,16n,107p,1668b,844s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\moros\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/moros/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/moros/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/moros/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/moros/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/moros/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/moros/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (62 pages, 6455710 bytes).
 PDF statistics:
- 1078 PDF objects out of 1200 (max. 8388607)
+ 1116 PDF objects out of 1200 (max. 8388607)
  132 named destinations out of 1000 (max. 500000)
- 374 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 382 words of extra memory for PDF output out of 10000 (max. 10000000)
 
