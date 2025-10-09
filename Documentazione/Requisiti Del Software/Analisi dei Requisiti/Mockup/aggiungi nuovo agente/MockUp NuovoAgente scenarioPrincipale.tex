@@ -1,7 +1,29 @@
-\subsection{Caso d'Uso: Registra nuovo agente}
 
-TODO: Inserire descrizione
 
+\subsection{Caso d'Uso: Registrazione di un Nuovo Agente}
+
+Il caso d’uso «Registra nuovo agente» è stato progettato con l’obiettivo di garantire un’esperienza utente fluida e coerente con il resto dell’interfaccia, evitando interruzioni del contesto visivo. Per questo motivo, si è scelto di non introdurre una schermata dedicata, ma di utilizzare una finestra modale (popup), che consente all’utente di eseguire l’operazione senza abbandonare la vista corrente.
+
+\vspace{0.5cm}
+\subsubsection{Struttura e Flusso dell’Interazione}
+L’interazione si articola in più fasi, guidando l’utente in modo progressivo e controllato:
+\begin{itemize}
+	\item \textbf{Popup iniziale}: contiene un form per l’inserimento dei dati anagrafici e professionali dell’agente, accompagnato da un unico pulsante in calce con etichetta «Registra nuovo utente».
+	\item \textbf{Conferma dell’operazione}: al clic sul pulsante, viene mostrato un \textit{dialog} di doppia conferma per ridurre il rischio di azioni involontarie. I pulsanti di conferma e annullamento sono caratterizzati da colori neutri, in modo da distinguerli visivamente dall’azione primaria dell’applicazione.
+	\item \textbf{Feedback di caricamento}: dopo la conferma, il sistema mostra una barra di avanzamento stilizzata con i colori istituzionali del sito. Anche nei casi in cui l’operazione risulti immediata, la barra può essere mantenuta visibile per una breve durata, al fine di fornire un riscontro percettivo chiaro e rassicurante \cite{nielsen1995}.
+\end{itemize}
+
+\vspace{0.5cm}
+\subsubsection{Messaggio di Conferma e Gestione delle Credenziali}
+Al completamento del processo di registrazione, il sistema visualizza un messaggio di successo che informa l’utente dell’avvenuta generazione delle credenziali di accesso.
+Il pulsante contestuale assume l’etichetta \textbf{«Copia credenziali»}, permettendo di salvare in modo sicuro i dati generati.
+Per prevenire la perdita delle credenziali, la chiusura del dialog è temporaneamente disabilitata fino a quando l’utente non conferma l’avvenuta copia.
+
+\vspace{0.5cm}
+\subsubsection{Visualizzazione e Sicurezza dei Dati}
+In linea con i principi di \textbf{minimizzazione dei dati} e \textbf{sicurezza dell’informazione} \cite{wickens2008}, la visualizzazione completa delle credenziali non è obbligatoria:
+il sistema privilegia la protezione dei dati sensibili, evitando di esporre informazioni in chiaro nell’interfaccia.
+In alternativa, è possibile prevedere una versione mascherata delle credenziali o la sola visualizzazione di elementi non sensibili, mantenendo comunque la trasparenza informativa per l’utente.
 \begin{figure}[H]
 	\centering
 	\begin{tikzpicture}[node distance=1.5cm and 1cm, auto]

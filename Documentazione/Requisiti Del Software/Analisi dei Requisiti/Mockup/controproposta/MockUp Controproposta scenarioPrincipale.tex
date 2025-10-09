@@ -1,6 +1,45 @@
-\subsection{Caso d'Uso: Fare una controproposta di un offerta}
+\subsection{Caso d'Uso: Controproposta di un'Offerta}
 
-TODO: Inserire descrizione
+Il caso d’uso «Controproposta di un’offerta» è stato progettato seguendo la stessa logica di interazione non intrusiva adottata per altre operazioni simili.
+L’obiettivo principale è mantenere la continuità del contesto visivo, riducendo al minimo le interruzioni nel flusso di lavoro dell’utente. Per questo motivo, l’azione viene gestita all’interno di una finestra modale (popup) che consente di operare senza abbandonare la vista principale.
+
+\vspace{0.5cm}
+\subsubsection{Struttura e Flusso dell’Interazione}
+L’interazione si articola in più fasi distinte, ognuna delle quali mira a garantire chiarezza e controllo all’utente:
+\begin{itemize}
+	\item \textbf{Popup iniziale}: la finestra modale mostra i dettagli della proposta selezionata (mittente, testo sintetico e valore corrente) e include un campo dedicato all’inserimento del nuovo valore della controproposta.
+	In calce è presente un pulsante di azione principale con etichetta \textbf{«Invia controproposta»}.
+	
+	\item \textbf{Conferma dell’invio}: al clic su \textbf{«Invia controproposta»}, viene visualizzato un dialog di conferma per prevenire invii accidentali.  
+	I pulsanti di conferma e annullamento sono caratterizzati da colori neutri, così da differenziarli visivamente dalle azioni primarie della piattaforma e migliorare la leggibilità percettiva \cite{nielsen1995}.
+	
+	\item \textbf{Feedback di caricamento}: dopo la conferma, il sistema mostra una barra di avanzamento stilizzata con i colori istituzionali dell’applicazione.  
+	Anche in presenza di tempi di risposta brevi, viene introdotto un lieve ritardo percettivo per garantire un feedback visivo chiaro sull’elaborazione in corso \cite{shneiderman2004}.
+	
+	
+\end{itemize}
+
+\vspace{0.5cm}
+\subsubsection{Esito dell’Operazione e Aggiornamento della Lista}
+Al completamento dell’operazione, il sistema applica una serie di aggiornamenti automatici per riflettere lo stato corrente:
+\begin{itemize}
+	\item la finestra modale viene chiusa automaticamente;
+	\item nella lista delle proposte, la voce corrispondente viene aggiornata con il nuovo valore della controproposta;
+	\item il testo della proposta precedente può essere troncato o sintetizzato per preservare la leggibilità complessiva della tabella;
+	\item lo stato della proposta viene aggiornato a \emph{«Controproposta inviata»}, rendendo immediatamente visibile l’esito dell’azione.
+\end{itemize}
+
+\vspace{0.5cm}
+\subsubsection{Considerazioni di Usabilità e Sicurezza}
+La soluzione basata su finestra modale garantisce un’esperienza utente coerente con i principi di usabilità e sicurezza dell’interfaccia:
+\begin{itemize}
+	\item \textbf{Continuità contestuale}: l’utente rimane all’interno del proprio flusso operativo, con possibilità di annullamento rapido.
+	\item \textbf{Prevenzione degli errori}: la doppia conferma riduce il rischio di invii accidentali, in linea con le \textbf{heuristiche di Nielsen} per la prevenzione degli errori \cite{nielsen1995}.
+	\item \textbf{Feedback percettivo affidabile}: la barra di caricamento fornisce un riscontro visivo chiaro sullo stato del processo, migliorando la percezione di controllo dell’utente \cite{wickens2008}.
+\end{itemize}
+
+Dal punto di vista della gestione dei dati, è raccomandata la validazione \textit{server-side} del valore della controproposta e l’applicazione di politiche di accesso coerenti con i principi di \textbf{minimizzazione delle informazioni} e \textbf{sicurezza dei dati}.
+In caso di errore di invio, il sistema deve presentare messaggi chiari e impedire l’invio ripetuto della stessa controproposta fino al completamento dell’elaborazione, prevenendo possibili condizioni di \textit{race} o incongruenze nei dati.
 
 \begin{figure}[H]
 	\centering
