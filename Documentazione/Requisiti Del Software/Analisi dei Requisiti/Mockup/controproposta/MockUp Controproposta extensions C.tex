@@ -1,3 +1,15 @@
+subsubsection{Estensione C: Errore di Salvataggio della Controproposta}
+
+In alcune circostanze, l’invio della controproposta può fallire a causa di problemi di connessione o di errori del server.  
+Il sistema gestisce questa eventualità mostrando all’utente un chiaro feedback visivo sull’esito dell’operazione.
+
+\subsubsection{Gestione dell’Errore e Comunicazione all’Utente}
+Dopo aver cliccato su \textbf{“Invia controproposta”}, viene mostrato un breve stato di caricamento.  
+Se il salvataggio non va a buon fine, compare un pop-up di allerta che informa l’agente dell’errore e della mancata registrazione della controproposta.
+
+L’utente può chiudere l’allerta e tentare nuovamente l’operazione una volta ristabilita la connessione.  
+Questo comportamento supporta la \textbf{recuperabilità dall’errore}, assicurando che l’utente non perda il lavoro svolto e possa riprovare senza dover reinserire tutti i dati.
+
 \begin{figure}[H]
 	\centering
 	\begin{tikzpicture}[node distance=1.5cm and 1cm, auto]
