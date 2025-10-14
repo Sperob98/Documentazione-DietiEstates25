@@ -1,0 +1,876 @@
+PWD c:\Users\Administrator\Documents\GitHub\Documentazione-DietiEstates25\Documentazione
+INPUT C:\Users\Administrator\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
+INPUT c:\Users\Administrator\Documents\GitHub\Documentazione-DietiEstates25\Documentazione\main.tex
+OUTPUT main.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Program Files\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hxetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\collectbox\collectbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\collectbox\collectbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\tc-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\tc-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\adjustbox\tc-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
+INPUT .\Immagini\logo_universita.png
+INPUT .\Immagini\logo_universita.png
+INPUT .\Immagini\logo_universita.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+OUTPUT main.xdv
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+OUTPUT main.toc
+INPUT .\Servizio\Revisioni.tex
+INPUT .\Servizio\Revisioni.tex
+INPUT .\Servizio\Revisioni.tex
+INPUT .\Servizio\Revisioni.tex
+INPUT Servizio\Revisioni.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi dei Requisiti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi dei Requisiti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi dei Requisiti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi dei Requisiti.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Analisi dei Requisiti.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Glossario.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Glossario.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Glossario.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Glossario.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Glossario.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Use Case.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Use Case.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Use Case.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Use Case.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Use Case.tex
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Utente Non Registrato.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Utente Non Registrato.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Utente Non Registrato.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Utente registrato.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Utente registrato.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Utente registrato.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Agente.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Agente.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Agente.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Admin.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Admin.drawio.png
+INPUT .\Immagini\Diagrammi Casi D'uso\UseCase-Admin.drawio.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi degli utenti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi degli utenti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi degli utenti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Analisi degli utenti.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Analisi degli utenti.tex
+INPUT .\Immagini\Personas\Personas-Propretario di un agenzia immobiliare.png
+INPUT .\Immagini\Personas\Personas-Propretario di un agenzia immobiliare.png
+INPUT .\Immagini\Personas\Personas-Propretario di un agenzia immobiliare.png
+INPUT .\Immagini\Personas\Personas-Agente Immobiliare.png
+INPUT .\Immagini\Personas\Personas-Agente Immobiliare.png
+INPUT .\Immagini\Personas\Personas-Agente Immobiliare.png
+INPUT .\Immagini\Personas\Personas-manager di azienda tecnologica.png
+INPUT .\Immagini\Personas\Personas-manager di azienda tecnologica.png
+INPUT .\Immagini\Personas\Personas-manager di azienda tecnologica.png
+INPUT .\Immagini\Personas\Personas-Padre di famiglia.png
+INPUT .\Immagini\Personas\Personas-Padre di famiglia.png
+INPUT .\Immagini\Personas\Personas-Padre di famiglia.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\descrizione dei requisiti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\descrizione dei requisiti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\descrizione dei requisiti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\descrizione dei requisiti.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\descrizione dei requisiti.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\sicurezza.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\sicurezza.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\sicurezza.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\sicurezza.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\sicurezza.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\interfaccia utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\interfaccia utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\interfaccia utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\interfaccia utente.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\interfaccia utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\prestazioni.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\prestazioni.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\prestazioni.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\prestazioni.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\prestazioni.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\Manutenibilità e scalabilità.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\Manutenibilità e scalabilità.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\Manutenibilità e scalabilità.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\Manutenibilità e scalabilità.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti non funzionali\Manutenibilità e scalabilità.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione dell'agenzia immobiliare.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione dell'agenzia immobiliare.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione dell'agenzia immobiliare.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione dell'agenzia immobiliare.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione dell'agenzia immobiliare.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione utente.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione utente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\gestione immobili.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\gestione immobili.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\gestione immobili.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\gestione immobili.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\gestione immobili.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Ricerca e visualizzazione.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Ricerca e visualizzazione.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Ricerca e visualizzazione.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Ricerca e visualizzazione.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Ricerca e visualizzazione.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione delle offerte.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione delle offerte.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione delle offerte.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione delle offerte.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione delle offerte.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione notifiche.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Descrizione dei requisiti\Requisiti di dominio\Gestione notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\Capitolo Cockburn.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\Capitolo Cockburn.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\Capitolo Cockburn.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\Capitolo Cockburn.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\cockburn\Capitolo Cockburn.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockburnAnnunci.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockburnAnnunci.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockburnAnnunci.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockburnAnnunci.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\cockburn\cockburnAnnunci.tex
+INPUT .\Immagini\cockburn\nuovo annuncio principale.png
+INPUT .\Immagini\cockburn\nuovo annuncio principale.png
+INPUT .\Immagini\cockburn\nuovo annuncio principale.png
+INPUT .\Immagini\cockburn\nuovo annuncio estensioni 1.png
+INPUT .\Immagini\cockburn\nuovo annuncio estensioni 1.png
+INPUT .\Immagini\cockburn\nuovo annuncio estensioni 1.png
+INPUT .\Immagini\cockburn\nuovo annuncio estensioni 2.png
+INPUT .\Immagini\cockburn\nuovo annuncio estensioni 2.png
+INPUT .\Immagini\cockburn\nuovo annuncio estensioni 2.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockNotifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockNotifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockNotifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockNotifiche.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\cockburn\cockNotifiche.tex
+INPUT .\Immagini\cockburn\gestione notifiche principale.png
+INPUT .\Immagini\cockburn\gestione notifiche principale.png
+INPUT .\Immagini\cockburn\gestione notifiche principale.png
+INPUT .\Immagini\cockburn\gestione notifiche estensioni 1.png
+INPUT .\Immagini\cockburn\gestione notifiche estensioni 1.png
+INPUT .\Immagini\cockburn\gestione notifiche estensioni 1.png
+INPUT .\Immagini\cockburn\gestione notifiche estensioni 2.png
+INPUT .\Immagini\cockburn\gestione notifiche estensioni 2.png
+INPUT .\Immagini\cockburn\gestione notifiche estensioni 2.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockControproposte.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockControproposte.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockControproposte.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockControproposte.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\cockburn\cockControproposte.tex
+INPUT .\Immagini\cockburn\controproposta principale.png
+INPUT .\Immagini\cockburn\controproposta principale.png
+INPUT .\Immagini\cockburn\controproposta principale.png
+INPUT .\Immagini\cockburn\controproposta estensioni.png
+INPUT .\Immagini\cockburn\controproposta estensioni.png
+INPUT .\Immagini\cockburn\controproposta estensioni.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockAggiungiDipendente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockAggiungiDipendente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockAggiungiDipendente.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\cockburn\cockAggiungiDipendente.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\cockburn\cockAggiungiDipendente.tex
+INPUT .\Immagini\cockburn\registra nuovo agente principale.png
+INPUT .\Immagini\cockburn\registra nuovo agente principale.png
+INPUT .\Immagini\cockburn\registra nuovo agente principale.png
+INPUT .\Immagini\cockburn\registra nuovo agente Extensions.png
+INPUT .\Immagini\cockburn\registra nuovo agente Extensions.png
+INPUT .\Immagini\cockburn\registra nuovo agente Extensions.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\Introduzione Mock up.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\Introduzione Mock up.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\Introduzione Mock up.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\Introduzione Mock up.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\Introduzione Mock up.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\Introduzione MockUp Aggiungi Annuncio.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\Introduzione MockUp Aggiungi Annuncio.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\Introduzione MockUp Aggiungi Annuncio.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\Introduzione MockUp Aggiungi Annuncio.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\Introduzione MockUp Aggiungi Annuncio.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale.tex
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step3.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte II.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte II.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte II.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte II.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte II.tex
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step4.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step4.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step4.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step5.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step5.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step5.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte III.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte III.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte III.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte III.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\scenario principale Parte III.tex
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step6.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step6.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\scenario principale\step6.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione A.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione A.tex
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione A\step3.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione B.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione B.tex
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione B\step3.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione C.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione C.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione C.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione C.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione C.tex
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione C\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione C\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione C\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione C\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione C\step2.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione C\step2.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione D.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi annuncio\estensione D.tex
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione D\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione D\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione D\step1.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione D\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione D\step3.png
+INPUT .\Immagini\Mockup\aggiungi annuncio\estensione D\step3.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\descrizione mockup notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\descrizione mockup notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\descrizione mockup notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\descrizione mockup notifiche.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\descrizione mockup notifiche.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale.tex
+INPUT .\Immagini\Mockup\notifiche\scenario principale\Pagina Lista Notifiche.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\Pagina Lista Notifiche.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\Pagina Lista Notifiche.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\perDisattivareRisposte.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\perDisattivareRisposte.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\perDisattivareRisposte.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\perDisattivareNueve.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\perDisattivareNueve.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\perDisattivareNueve.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale 2.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale 2.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale 2.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale 2.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\Scenario principale 2.tex
+INPUT .\Immagini\Mockup\notifiche\scenario principale\clickConferma.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\clickConferma.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\clickConferma.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\allerAvvisoDisattivazione.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\allerAvvisoDisattivazione.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\allerAvvisoDisattivazione.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\ScenarioPrincipaleCompletato.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\ScenarioPrincipaleCompletato.png
+INPUT .\Immagini\Mockup\notifiche\scenario principale\ScenarioPrincipaleCompletato.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione A.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione A.tex
+INPUT .\Immagini\Mockup\notifiche\estensione A\clickNotifica.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\clickNotifica.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\clickNotifica.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\clickDisattiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\clickDisattiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\clickDisattiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\disattivato.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\disattivato.png
+INPUT .\Immagini\Mockup\notifiche\estensione A\disattivato.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione B.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione c.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione c.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione c.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione c.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione c.tex
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\clickDisattiva.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\clickDisattiva.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\clickDisattiva.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\clickCoonferma.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\clickCoonferma.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\clickCoonferma.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\disattivato.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\disattivato.png
+INPUT .\Immagini\Mockup\notifiche\ESTENSIONE C\disattivato.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione D.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione D.tex
+INPUT .\Immagini\Mockup\notifiche\estensione D\clickAttiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione D\clickAttiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione D\clickAttiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione D\attivato.png
+INPUT .\Immagini\Mockup\notifiche\estensione D\attivato.png
+INPUT .\Immagini\Mockup\notifiche\estensione D\attivato.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione E.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione E.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione E.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione E.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione E.tex
+INPUT .\Immagini\Mockup\notifiche\estensione E\click conferma.png
+INPUT .\Immagini\Mockup\notifiche\estensione E\click conferma.png
+INPUT .\Immagini\Mockup\notifiche\estensione E\click conferma.png
+INPUT .\Immagini\Mockup\notifiche\estensione E\errore.png
+INPUT .\Immagini\Mockup\notifiche\estensione E\errore.png
+INPUT .\Immagini\Mockup\notifiche\estensione E\errore.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione F.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione F.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione F.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione F.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\disattivazione notifiche\estensione F.tex
+INPUT .\Immagini\Mockup\notifiche\estensione F\clickNotifica.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\clickNotifica.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\clickNotifica.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\clickAttiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\clickAttiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\clickAttiva.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\attivato.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\attivato.png
+INPUT .\Immagini\Mockup\notifiche\estensione F\attivato.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta scenarioPrincipale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta scenarioPrincipale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta scenarioPrincipale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta scenarioPrincipale.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta scenarioPrincipale.tex
+INPUT .\Immagini\Mockup\controproposte\scenario principale\clickControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\clickControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\clickControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\allertConfermaInvio.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\allertConfermaInvio.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\allertConfermaInvio.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\visualizzazioneControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\visualizzazioneControproposta.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions A.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions A.tex
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\Extensions A\MessaggioDiErrore.png
+INPUT .\Immagini\Mockup\controproposte\Extensions A\MessaggioDiErrore.png
+INPUT .\Immagini\Mockup\controproposte\Extensions A\MessaggioDiErrore.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions B.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions B.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions B.tex
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\Extensions B\MessaggioDiErrore.png
+INPUT .\Immagini\Mockup\controproposte\Extensions B\MessaggioDiErrore.png
+INPUT .\Immagini\Mockup\controproposte\Extensions B\MessaggioDiErrore.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions C.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions C.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions C.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions C.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions C.tex
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\scenario principale\ClickInviaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\Extensions C\MessaggioDiErrore.png
+INPUT .\Immagini\Mockup\controproposte\Extensions C\MessaggioDiErrore.png
+INPUT .\Immagini\Mockup\controproposte\Extensions C\MessaggioDiErrore.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions D.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\controproposta\MockUp Controproposta extensions D.tex
+INPUT .\Immagini\Mockup\controproposte\Extensions D\FinestraConfermaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\Extensions D\FinestraConfermaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\Extensions D\FinestraConfermaControproposta.png
+INPUT .\Immagini\Mockup\controproposte\Extensions D\SchermataContropropostaAnnullata.png
+INPUT .\Immagini\Mockup\controproposte\Extensions D\SchermataContropropostaAnnullata.png
+INPUT .\Immagini\Mockup\controproposte\Extensions D\SchermataContropropostaAnnullata.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente scenarioPrincipale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente scenarioPrincipale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente scenarioPrincipale.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente scenarioPrincipale.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente scenarioPrincipale.tex
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\clickNuovoDipendente.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\clickNuovoDipendente.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\clickNuovoDipendente.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\clickFormNuovoAgente.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\clickFormNuovoAgente.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\clickFormNuovoAgente.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\ClickAllertConferma.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\ClickAllertConferma.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\ClickAllertConferma.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\caricamentoRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\caricamentoRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\caricamentoRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\allertRegistrazioneEffettuata.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\allertRegistrazioneEffettuata.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\allertRegistrazioneEffettuata.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\visualizzazioneNuovaRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\visualizzazioneNuovaRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\visualizzazioneNuovaRegistrazione.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions A.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions A.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions A.tex
+INPUT .\Immagini\Mockup\nuovoAgente\extension A\nomeNonInserito.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension A\nomeNonInserito.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension A\nomeNonInserito.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension A\messaggioDiErrore.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension A\messaggioDiErrore.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension A\messaggioDiErrore.png
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions D.tex
+INPUT .\Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions D.tex
+INPUT Requisiti Del Software\Analisi dei Requisiti\Mockup\aggiungi nuovo agente\MockUp NuovoAgente extensions D.tex
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\ClickAllertConferma.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\ClickAllertConferma.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\ClickAllertConferma.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\caricamentoRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\caricamentoRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\scenario principale\caricamentoRegistrazione.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension D\messaggioDiErrore.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension D\messaggioDiErrore.png
+INPUT .\Immagini\Mockup\nuovoAgente\extension D\messaggioDiErrore.png
+INPUT .\Design del Sistema\Descrizione Dell'architettura Proposta.tex
+INPUT .\Design del Sistema\Descrizione Dell'architettura Proposta.tex
+INPUT .\Design del Sistema\Descrizione Dell'architettura Proposta.tex
+INPUT .\Design del Sistema\Descrizione Dell'architettura Proposta.tex
+INPUT Design del Sistema\Descrizione Dell'architettura Proposta.tex
+INPUT .\Immagini\diagramma delle classi.drawio.png
+INPUT .\Immagini\diagramma delle classi.drawio.png
+INPUT .\Immagini\diagramma delle classi.drawio.png
+INPUT .\Design del Sistema\Diagramma delle classi di design.tex
+INPUT .\Design del Sistema\Diagramma delle classi di design.tex
+INPUT .\Design del Sistema\Diagramma delle classi di design.tex
+INPUT .\Design del Sistema\Diagramma delle classi di design.tex
+INPUT Design del Sistema\Diagramma delle classi di design.tex
+INPUT .\Design del Sistema\Diagrammi di Sequenza di Design.tex
+INPUT .\Design del Sistema\Diagrammi di Sequenza di Design.tex
+INPUT .\Design del Sistema\Diagrammi di Sequenza di Design.tex
+INPUT .\Design del Sistema\Diagrammi di Sequenza di Design.tex
+INPUT Design del Sistema\Diagrammi di Sequenza di Design.tex
+INPUT .\Processo di sviluppo\Introduzione.tex
+INPUT .\Processo di sviluppo\Introduzione.tex
+INPUT .\Processo di sviluppo\Introduzione.tex
+INPUT .\Processo di sviluppo\Introduzione.tex
+INPUT Processo di sviluppo\Introduzione.tex
+INPUT .\Testing e valutazione dell’usabilita\Introduzione.tex
+INPUT .\Testing e valutazione dell’usabilita\Introduzione.tex
+INPUT .\Testing e valutazione dell’usabilita\Introduzione.tex
+INPUT .\Testing e valutazione dell’usabilita\Introduzione.tex
+INPUT Testing e valutazione dell’usabilita\Introduzione.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\Unit Testing.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\Unit Testing.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\Unit Testing.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\Unit Testing.tex
+INPUT Testing e valutazione dell’usabilita\Unit Test\Unit Testing.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\addDipendente.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\addDipendente.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\addDipendente.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\addDipendente.tex
+INPUT Testing e valutazione dell’usabilita\Unit Test\addDipendente.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmtt10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmtti10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmtk10.tfm
+INPUT .\Immagini\unit test\esitiTestAddDipendente.png
+INPUT .\Immagini\unit test\esitiTestAddDipendente.png
+INPUT .\Immagini\unit test\esitiTestAddDipendente.png
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\utentiInteressati.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\utentiInteressati.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\utentiInteressati.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\utentiInteressati.tex
+INPUT Testing e valutazione dell’usabilita\Unit Test\utentiInteressati.tex
+INPUT .\Immagini\unit test\esitiTestUtentiInteressati.png
+INPUT .\Immagini\unit test\esitiTestUtentiInteressati.png
+INPUT .\Immagini\unit test\esitiTestUtentiInteressati.png
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\aggiungiContatto.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\aggiungiContatto.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\aggiungiContatto.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\aggiungiContatto.tex
+INPUT Testing e valutazione dell’usabilita\Unit Test\aggiungiContatto.tex
+INPUT .\Immagini\unit test\GrafoAggiungiUnContatto.png
+INPUT .\Immagini\unit test\GrafoAggiungiUnContatto.png
+INPUT .\Immagini\unit test\GrafoAggiungiUnContatto.png
+INPUT .\Immagini\unit test\esitiTestaddContatto.png
+INPUT .\Immagini\unit test\esitiTestaddContatto.png
+INPUT .\Immagini\unit test\esitiTestaddContatto.png
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\changePassword.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\changePassword.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\changePassword.tex
+INPUT .\Testing e valutazione dell’usabilita\Unit Test\changePassword.tex
+INPUT Testing e valutazione dell’usabilita\Unit Test\changePassword.tex
+INPUT .\Immagini\unit test\grafoCambiaPassword.png
+INPUT .\Immagini\unit test\grafoCambiaPassword.png
+INPUT .\Immagini\unit test\grafoCambiaPassword.png
+INPUT .\Immagini\unit test\esitiTestChangePassword.png
+INPUT .\Immagini\unit test\esitiTestChangePassword.png
+INPUT .\Immagini\unit test\esitiTestChangePassword.png
+INPUT .\Testing e valutazione dell’usabilita\Valutazione dell’usabilita\Test di usabilità.tex
+INPUT .\Testing e valutazione dell’usabilita\Valutazione dell’usabilita\Test di usabilità.tex
+INPUT .\Testing e valutazione dell’usabilita\Valutazione dell’usabilita\Test di usabilità.tex
+INPUT .\Testing e valutazione dell’usabilita\Valutazione dell’usabilita\Test di usabilità.tex
+INPUT Testing e valutazione dell’usabilita\Valutazione dell’usabilita\Test di usabilità.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
+INPUT .\Servizio\Fonti.tex
+INPUT .\Servizio\Fonti.tex
+INPUT .\Servizio\Fonti.tex
+INPUT .\Servizio\Fonti.tex
+INPUT Servizio\Fonti.tex
+INPUT main.aux
+INPUT .\main.out
+INPUT .\main.out
