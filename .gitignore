@@ -7,3 +7,5 @@ Documentazione/main.aux
 *.log
 *.out
 *.gz
+*.fls
+*.xdv
