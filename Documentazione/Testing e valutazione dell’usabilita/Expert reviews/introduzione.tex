@@ -1,31 +1,66 @@
-\subsection{Expert Reviews / Inspections}
+\section{Expert Reviews / Inspections}
 
-È stata pianificata una revisione sistematica dell’usabilità del prodotto, basata su una \textbf{checklist di valutazione euristica}.  
-La revisione è stata condotta internamente, con l’obiettivo di individuare punti di forza e criticità dell’interfaccia utente, sia del \textit{prototipo realizzato in Figma} sia della \textit{versione web funzionante} del sito.
+Per valutare la qualità complessiva dell’esperienza utente e la coerenza progettuale del sistema, è stata pianificata una revisione sistematica dell’interfaccia basata su una \textbf{valutazione euristica} secondo i principi di Nielsen \cite{nielsen1995}.  
+L’attività ha avuto l’obiettivo di identificare punti di forza, criticità e incoerenze nel design, analizzando in due fasi distinte il \textit{prototipo realizzato in Figma} e successivamente la \textit{versione web implementata}.  
+
+La revisione del prototipo Figma ha rappresentato un passaggio fondamentale prima dello sviluppo effettivo: ha consentito di riflettere in modo critico sulle scelte di interfaccia, di validare le principali logiche di navigazione e di anticipare eventuali problemi di usabilità.  
+A differenza della versione web, il prototipo non consente un’interazione reale, ma offre comunque una base solida per verificare la chiarezza dei flussi e la coerenza visiva complessiva.
 
 \subsection*{Obiettivi della Review}
 
 Gli obiettivi principali dell’attività di \textit{Expert Review} sono stati:
 \begin{itemize}
-    \item Valutare la \textbf{usabilità} dei flussi principali del sistema.
-    \item Analizzare la \textbf{coerenza visiva} e l’aderenza alle scelte di brand.
-    \item Individuare problematiche legate a \textbf{chiarezza, navigabilità e feedback} del sistema.
-    \item Confrontare il \textbf{prototipo Figma} con la \textbf{versione implementata}, evidenziando differenze o regressioni.
+    \item Valutare la \textbf{usabilità} dei flussi principali del sistema, verificando la chiarezza dei percorsi e delle azioni disponibili.
+    \item Analizzare la \textbf{coerenza visiva} rispetto alle linee guida di design definite nel brand e nel prototipo.
+    \item Individuare problemi di \textbf{chiarezza, navigabilità e feedback} che possano compromettere l’esperienza d’uso.
+    \item Identificare eventuali mancanze o ridondanze, con l’obiettivo di \textbf{migliorare la struttura informativa e la consistenza visiva}.
+    \item Definire raccomandazioni per le fasi successive di sviluppo, in vista della revisione della \textbf{versione web funzionante}.
 \end{itemize}
 
 \subsection*{Motivazione della Checklist Scelta}
 
-Per garantire una valutazione sistematica e comparabile tra diverse parti dell’interfaccia, è stata adottata una \textbf{Heuristic Evaluation} basata sui dieci principi di usabilità proposti da Nielsen \cite{nielsen1995}.  
-Tale approccio è stato ritenuto adeguato in quanto:
+Per garantire una valutazione sistematica, replicabile e comparabile tra diverse aree dell’interfaccia, è stata utilizzata una \textbf{checklist di usabilità} costruita sui dieci principi di Nielsen.  
+Questo approccio è stato scelto perché:
 \begin{itemize}
-    \item è applicabile anche in assenza di utenti reali o revisori esterni, consentendo un’autovalutazione strutturata;  
-    \item si adatta sia a \textbf{prototipi statici} (come quelli realizzati in Figma) sia a \textbf{interfacce funzionanti};  
-    \item copre in modo ampio i principali aspetti di usabilità: visibilità dello stato del sistema, coerenza, prevenzione degli errori, efficienza e feedback.
+    \item consente una \textbf{autovalutazione strutturata} anche in assenza di utenti reali o revisori esterni;
+    \item può essere applicato sia a \textbf{prototipi statici} (come quelli sviluppati in Figma) sia a \textbf{interfacce interattive} e funzionanti;
+    \item copre in modo ampio le dimensioni fondamentali dell’usabilità: visibilità dello stato del sistema, coerenza, prevenzione degli errori, efficienza, chiarezza e supporto all’utente.
 \end{itemize}
 
-\subsection*{Ambito di Valutazione}
+\subsection*{Struttura della Checklist Euristica}
+
+La checklist adottata si basa sui dieci principi classici di Nielsen, riformulati in forma di domande operative per adattarli al contesto del progetto.  
+Ogni criterio è stato utilizzato come base per analizzare il prototipo Figma e successivamente la versione web.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{p{0.7cm} p{4cm} p{8cm}}
+\hline
+\textbf{\#} & \textbf{Criterio} & \textbf{Domanda di verifica} \\
+\hline
+1 & Visibilità dello stato del sistema & L’utente riceve sempre un feedback visivo o testuale dopo un’azione (salvataggio, invio, errore)? \\
+2 & Corrispondenza tra sistema e mondo reale & Terminologia, icone e messaggi sono coerenti con il linguaggio del dominio immobiliare? \\
+3 & Controllo e libertà dell’utente & È possibile annullare o correggere facilmente un’azione? \\
+4 & Coerenza e standard & Colori, stili e componenti rispettano il design definito nel brand e nel prototipo? \\
+5 & Prevenzione e gestione degli errori & I form prevengono gli errori tramite validazioni e messaggi chiari? \\
+6 & Efficienza e flessibilità d’uso & Le operazioni più frequenti possono essere eseguite rapidamente, anche da dispositivi mobili? \\
+7 & Chiarezza del contenuto & Testi e etichette sono comprensibili e privi di ambiguità? \\
+8 & Supporto al riconoscimento & Le opzioni principali sono visibili e non richiedono memoria a breve termine all’utente? \\
+9 & Feedback e conferme & Sono presenti messaggi di conferma dopo azioni critiche (pubblicazione, eliminazione, invio)? \\
+10 & Aiuto e documentazione & È disponibile un supporto o una guida per l’utente in caso di difficoltà? \\
+\hline
+\end{tabular}
+\caption{Checklist di valutazione euristica basata sui principi di Nielsen.}
+\end{table}
+
+\bigskip
+
+La sezione seguente presenta nel dettaglio l’applicazione di questa checklist al \textbf{prototipo Figma}, con un’analisi critica dei dieci criteri e una successiva autovalutazione sintetica dei risultati ottenuti.
+
 \input{Testing e valutazione dell’usabilita/Expert reviews/figma.tex}
 
+
+TODO Da fare bene la seocnda parte 
 
 \textbf{Versione Web:} la checklist è stata applicata all’intero insieme di requisiti e funzionalità richiesti dal docente, permettendo una valutazione completa dell’interfaccia e dei flussi principali del sistema.
 
