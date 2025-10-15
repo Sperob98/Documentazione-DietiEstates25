@@ -1,0 +1,92 @@
+\subsection{Expert Review sul Prototipo Figma}
+
+L’attività di revisione euristica è stata condotta sul prototipo sviluppato in \textit{Figma} prima della realizzazione della versione web.  
+L’obiettivo è stato valutare il livello di usabilità e coerenza delle principali interfacce progettate, verificando la presenza di feedback, la chiarezza dei flussi e la consistenza grafica secondo i dieci principi di Nielsen.  
+
+\subsubsection*{1. Visibilità dello stato del sistema}  
+Nel prototipo sono stati previsti diversi meccanismi di feedback.  
+Nei flussi \textit{Fai controproposta} e \textit{Registra dipendente} sono stati inseriti \textbf{indicatori di caricamento} per mostrare lo stato del sistema durante le operazioni.  
+In tutti i form è presente un \textbf{sistema di validazione immediata}: i campi non validi vengono evidenziati in rosso e, nel caso della \textit{creazione di un annuncio}, il processo è suddiviso in step.  
+Quando uno step contiene errori, il suo indicatore cambia colore e un box iniziale riepiloga i campi non validi.  
+Tutti i flussi analizzati includono un \textbf{doppio messaggio di conferma} prima dell’esecuzione definitiva, ad eccezione della creazione di un annuncio.  
+Nel complesso, il prototipo offre una buona visibilità dello stato del sistema, con l’unica criticità relativa all’assenza di conferma dopo la pubblicazione.
+
+\subsubsection*{2. Corrispondenza tra sistema e mondo reale}  
+Il linguaggio utilizzato è \textbf{semplice e diretto}, adatto agli utenti finali.  
+Le sezioni con terminologia più specifica (legate alle agenzie immobiliari) risultano coerenti con il dominio e adatte a un pubblico professionale.  
+Sono state impiegate \textbf{icone standard e universalmente riconoscibili}, affiancate da \textbf{tooltip descrittivi} che ne chiariscono il significato.  
+L’unico aspetto ancora da migliorare riguarda la \textbf{scelta delle icone nello stepper} di creazione annuncio, dove sarebbe utile uno studio mirato per rendere più intuitivi i passaggi.
+
+\subsubsection*{3. Controllo e libertà dell’utente}  
+Il prototipo garantisce buone possibilità di annullamento e controllo.  
+Tutti i popup includono una \textbf{“X” per chiudere o annullare}, e i messaggi di conferma prevedono esplicitamente un pulsante \textit{Annulla}.  
+Le azioni potenzialmente distruttive, come la \textbf{disattivazione delle notifiche}, richiedono conferma; viceversa, l’attivazione non la richiede poiché non comporta rischi di perdita di dati.  
+La progettazione su questo punto è stata ritenuta soddisfacente e coerente con le aspettative di usabilità.
+
+\subsubsection*{4. Coerenza e standard}  
+Il design mantiene nel complesso una \textbf{coerenza visiva} nei colori e nello stile dei pulsanti, in linea con il concept minimalista del progetto.  
+Tuttavia, si è rilevata una \textbf{mancanza di uniformità nei popup}: nei diversi casi d’uso sono stati utilizzati modelli leggermente differenti, frutto di sperimentazioni grafiche ancora non consolidate.  
+In fase di sviluppo sarà necessario \textbf{uniformare componenti e modali}, garantendo una coerenza piena tra tutti i flussi.
+
+\subsubsection*{5. Prevenzione e gestione degli errori}  
+La prevenzione degli errori è uno degli aspetti più curati nel prototipo.  
+I form mostrano in tempo reale i campi non validi e forniscono \textbf{indicazioni visive chiare (rosso)} insieme a messaggi testuali.  
+La combinazione di validazione immediata e conferme d’azione riduce significativamente il rischio di errori da parte dell’utente.  
+Questo punto risulta pienamente soddisfatto.
+
+\subsubsection*{6. Efficienza e flessibilità d’uso}  
+Essendo un prototipo statico, l’efficienza d’uso è valutabile solo in parte.  
+L’interfaccia è stata progettata per un utilizzo anche da \textbf{dispositivi verticali}, ma la resa migliore si ottiene in \textbf{orientamento orizzontale (landscape)}.  
+Non sono state ancora considerate \textbf{scorciatoie o funzionalità avanzate} per utenti esperti (es. salvataggio bozza, importazione di dati da file), che potrebbero rappresentare un’evoluzione futura del progetto.  
+Si riconosce quindi questo come un punto da sviluppare ulteriormente.
+
+\subsubsection*{7. Chiarezza del contenuto}  
+I testi sono \textbf{brevi, diretti e privi di tecnicismi}, con un linguaggio coerente e immediato.  
+Quando una sola etichetta non è sufficiente, è previsto l’uso di \textbf{tooltip esplicativi}.  
+Questo approccio consente una buona comprensione del flusso anche senza documentazione aggiuntiva.
+
+\subsubsection*{8. Supporto al riconoscimento}  
+Le principali funzioni sono \textbf{raggiungibili in pochi clic}.  
+La \textit{header bar} consente di passare rapidamente tra ricerca, storico annunci e notifiche; inoltre, il passaggio tra l’area cliente e quella agenzia è reso accessibile dal \textit{footer}.  
+Un test di eye-tracking condotto su alcune schermate del prototipo ha confermato la \textbf{corretta collocazione visiva} degli elementi più rilevanti, validando l’efficacia della struttura.
+
+\subsubsection*{9. Feedback e conferme}  
+Le operazioni critiche, come eliminazione o modifica, utilizzano lo stesso colore principale del sito, il che può generare confusione con azioni neutre.  
+Si suggerisce di differenziare \textbf{visivamente le azioni distruttive} (es. usando toni di rosso o arancione) e di inserire messaggi di conferma più evidenti per i processi più delicati.  
+Nonostante ciò, il comportamento rimane accettabile per utenti esperti.
+
+\subsubsection*{10. Aiuto e documentazione}  
+Non è stato previsto un sistema di aiuto, documentazione o FAQ, poiché il prototipo nasce in un contesto accademico.  
+Tuttavia, in una versione completa sarebbe opportuno introdurre:  
+\begin{itemize}
+    \item una \textbf{sezione FAQ} o assistenza per i problemi più comuni;  
+    \item \textbf{overlay o onboarding guidato} per i nuovi utenti;  
+    \item pulsanti contestuali “Come funziona” nelle pagine più complesse.  
+\end{itemize}
+
+\subsubsection*{Autovalutazione e sintesi}  
+La tabella seguente riassume il livello di soddisfacimento delle euristiche sul prototipo Figma (0 = non soddisfatto, 1 = parzialmente soddisfatto, 2 = soddisfatto).
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{p{0.4cm} p{4cm} p{1.5cm} p{7cm}}
+\hline
+\textbf{\#} & \textbf{Criterio} & \textbf{Valutazione} & \textbf{Motivazione sintetica} \\ \hline
+1 & Visibilità stato & 2 & Feedback e validazioni chiare, manca solo conferma finale in creazione annuncio \\
+2 & Corrispondenza mondo reale & 2 & Linguaggio semplice e coerente, icone chiare \\
+3 & Controllo e libertà & 2 & Annulla e conferme sempre presenti \\
+4 & Coerenza e standard & 1 & Popup non uniformi tra i flussi \\
+5 & Prevenzione errori & 2 & Validazione in tempo reale e segnalazioni visive \\
+6 & Efficienza/flessibilità & 1 & Assenza di scorciatoie e ottimizzazione solo parziale per mobile \\
+7 & Chiarezza del contenuto & 2 & Testi sintetici e coerenti \\
+8 & Supporto al riconoscimento & 2 & Navigazione semplice e confermata da test visivi \\
+9 & Feedback/Conferme & 1 & Colori azioni critiche da differenziare \\
+10 & Aiuto/Documentazione & 0 & Non prevista sezione di supporto \\ \hline
+\end{tabular}
+\caption{Autovalutazione euristica del prototipo Figma secondo i principi di Nielsen.}
+\end{table}
+
+\subsubsection*{Conclusioni}  
+Il prototipo Figma risulta \textbf{completo, coerente e ben strutturato}, con una gestione accurata dei form, validazioni efficaci e buona leggibilità generale.  
+I principali margini di miglioramento riguardano la \textbf{coerenza visiva dei popup}, la \textbf{differenziazione dei feedback critici} e l’assenza di un \textbf{sistema di aiuto} o onboarding.  
+Questi aspetti costituiranno la base per le iterazioni successive e per l’ottimizzazione della versione web finale.
