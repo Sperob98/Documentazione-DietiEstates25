@@ -65,3 +65,53 @@ Il sistema include ulteriori pacchetti che contengono classi di configurazioni o
 	
 \end{itemize}
  
+\subsection{Tecnologie e architettura frontend}
+
+Poiché il sistema adotta un’architettura client-server, lo sviluppo del client è completamente indipendente dal server.
+In questa prospettiva, abbiamo scelto di realizzare un’applicazione web-based, utilizzando tecnologie front-end moderne per garantire un’esperienza utente fluida e reattiva.
+Tale approccio consente di mantenere una netta separazione tra logica di presentazione e logica applicativa, e permette, in futuro, di sviluppare ulteriori client, come un’applicazione mobile, che potranno interagire con lo stesso server senza necessità di modificarne l’implementazione.
+\\ \\
+È stato adottato il \textbf{framework Vue.js}, una libreria basata su JavaScript progettata per la costruzione di interfacce utente dinamiche e reattive. Vue.js è particolarmente
+indicato per lo sviluppo di applicazioni \textbf{Single-Page Application (SPA)}, ossia applicazioni web che offrono un’esperienza utente fluida, simile a quella delle applicazioni desktop. \\
+Le SPA permettono agli utenti di interagire con un sito o un’applicazione senza dover ricaricare l’intera pagina, grazie alla gestione dinamica dei contenuti attraverso JavaScript. Questo
+approccio riduce i tempi di caricamento e migliora la responsività dell’interfaccia, risultando
+particolarmente utile per sistemi complessi come quello sviluppato nel nostro progetto.
+\\ \\
+
+Di seguito viene presentato uno schema del fronend, seguito da una discussione approfondita delle strategie progettuali e delle tecnologie utilizzate.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\linewidth]{Immagini/Schema frontend.png}
+	\caption[Schema frontend]{Schema sintetico dell'architettura del frontend}
+\end{figure}
+
+Il codice sorgente del client è organizzato nel package src, che contiene i file principali dell’applicazione
+e la configurazione del framework Vue.js. Le dipendenze del progetto, installate tramite npm, si trovano nella directory node\_modules. Di seguito illustriamo le componenti presenti in src:
+
+\begin{itemize}
+	
+	\item \textbf{App.vue}: L’inizializzazione del framework parte dal file \colorbox{lightgray}{App.vue}, che funge da punto di ingresso per l’applicazione. All’interno di questo file vengono configurate le \textbf{componenti principali} e definito il sistema di routing, che sarà descritto in dettaglio nel punto successivo.
+	In particolare, sono presenti le componenti \colorbox{lightgray}{Header} e \colorbox{lightgray}{Footer}, posizionate rispettivamente nella parte superiore e inferiore dell’interfaccia.
+	Queste componenti sono incluse nel file principale poiché risultano \textbf{sempre visibili}, indipendentemente dalla pagina in cui si trova l’utente. Inoltre, la direttiva \colorbox{lightgray}{<router-view>} consente di visualizzare dinamicamente la vista corretta in base all’URL richiesto.
+	In questa fase viene anche verificato se l’utente autenticato appartiene al ruolo di \textbf{membro} o di {staff}: in quest’ultimo caso, l’applicazione reindirizza automaticamente l’utente alla sezione riservata al personale.
+	
+	\item \textbf{Directory View}: La directory views contiene tutti i file \textbf{vue} che rappresentano le pagine principali del sito e sono associati a specifiche rotte tramite il sistema di routing.
+	Come accennato in precedenza, Vue.js permette la creazione di \textbf{Single-Page Application (SPA)}, ma queste applicazioni presentano lo svantaggio di non avere una suddivisione naturale in pagine, compromettendo la navigabilità. Per risolvere questo problema, utilizziamo la libreria ufficiale \textbf{Vue Router}, che consente di associare un URL (o rotta) a una specifica view.
+	
+	\item \textbf{Directory router}: La directory router contiene un unico file index.js, in cui viene configurato il sistema di routing dell’applicazione. In questa configurazione, ogni rotta è associata alla rispettiva view descritta sopra, garantendo la navigazione fluida e dinamica tipica delle SPA.
+	
+	\item \textbf{Directory components}: La directory components contiene tutti i file .vue che rappresentano le componenti riutilizzabili dell’applicazione. A differenza della directory views,
+	dove le view corrispondono alle pagine principali e sono direttamente associate alle rotte
+	tramite il router, qui troviamo una suddivisione logica di elementi più granulari che vengono richiamati all’interno delle view. Le componenti in questa directory servono a fornire
+	modularità al codice, favorendo la riutilizzabilità e una manutenzione più semplice. Inoltre
+	implementano funzionalità specifiche che possono essere combinate per costruire view più
+	complesse. Le componenti in questa directory non sono associate direttamente alle rotte
+	ma vengono importate e utilizzate nelle rispettive view, garantendo un’organizzazione
+	logica e semplificando la struttura complessiva del progetto.
+	
+	\item \textbf{Directory Service}: La directory service contiene file JavaScript che implementano funzioni e logiche riutilizzabili, progettate per essere utilizzate nelle diverse componenti dell’applicazione. Le operazioni ripetitive o complesse, come il recupero di dati da un server o la formattazione di informazioni, sono centralizzate in questa directory.
+	
+	\item \textbf{Directory stores}: La directory stores contiene file JavaScript che utilizzano \textbf{Pinia}, una libreria ufficiale di Vue.js per la gestione dello stato. Questa struttura permette di salvare informazioni a livello di sessione e di renderle facilmente accessibili in diverse parti dell’applicazione. Grazie a Pinia, le informazioni archiviate possono essere recuperate localmente, riducendo il tempo necessario per caricare dati critici.
+	
+\end{itemize}
