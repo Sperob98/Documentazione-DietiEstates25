@@ -1,0 +1,559 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.6">
+  <diagram name="Pagina-1" id="OAqNT32-tpnhEgavL7ft">
+    <mxGraphModel dx="2430" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VIEW&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="40" width="550" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="70" y="40" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-6" value="RegistrazioneAgenziaView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="10" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-7" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="250" y="40" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-8" value="AnnunciView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="190" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-9" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="430" y="40" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-10" value="ConfermaRegistrazioneView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="370" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-11" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="70" y="150" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-12" value="CreaNotificaView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="30" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-13" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="250" y="150" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-14" value="CreaPromozioneView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="205" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-15" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="430" y="150" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-16" value="CreazioneAnnuncioView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="372" y="220" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-17" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="61" y="280" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-18" value="DettagliAnnuncioView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="21" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-19" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="241" y="280" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-20" value="HomeView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="196" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-21" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="421" y="280" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-22" value="LoginAgentView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="363" y="350" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-23" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="61" y="390" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-24" value="LoginView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="21" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-25" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="241" y="390" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-26" value="ModificaAnnuncioView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="196" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-27" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="421" y="390" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-28" value="PannelloStaff&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;View.vue&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="363" y="460" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-29" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="61" y="495" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-30" value="RicercaMappaView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="21" y="565" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-31" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="241" y="495" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-32" value="NotFoundView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="196" y="565" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-33" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="421" y="495" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-34" value="AboutView.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-1">
+          <mxGeometry x="363" y="565" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ROUTER&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-35" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-2">
+          <mxGeometry x="75" y="50" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-36" value="Index.js" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-2">
+          <mxGeometry x="60" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="240" as="sourcePoint" />
+            <mxPoint x="680" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-37" value="COMPONENTS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="890" width="1620" height="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-41" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="60" y="60" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CreaAnnuncio&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="70" y="85" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1360" as="sourcePoint" />
+            <mxPoint x="130" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-46" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-47" value="Anteprima.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="245" y="280" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-48" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="360" as="sourcePoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-49" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-50" value="ContratoComponent.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="250" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="480" as="sourcePoint" />
+            <mxPoint x="280" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-52" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="450" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-53" value="MapComponent.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="245" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="600" as="sourcePoint" />
+            <mxPoint x="280" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-55" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="570" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-56" value="SelectComuni.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="245" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="720" as="sourcePoint" />
+            <mxPoint x="280" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-58" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="690" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-59" value="StepCaratteristiche.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="245" y="760" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="850" as="sourcePoint" />
+            <mxPoint x="280" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-61" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="295" y="810" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-62" value="StepCaricamentoImmagini.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="250" y="880" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="970" as="sourcePoint" />
+            <mxPoint x="280" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-64" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="940" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-65" value="StepDatiGenerali.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="250" y="1010" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-66" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1080" as="sourcePoint" />
+            <mxPoint x="280" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-67" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="1060" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-68" value="StepDatiPrincipali.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="260" y="1130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-69" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1200" as="sourcePoint" />
+            <mxPoint x="280" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-70" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="1180" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1320" as="sourcePoint" />
+            <mxPoint x="280" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-72" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="290" y="1300" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-73" value="StepIndirizzo.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="260" y="1250" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-74" value="StickyButtons&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.vue&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="260" y="1370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-75" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="630" y="60" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-76" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Dialogs&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="640" y="85" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-77" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="1360" as="sourcePoint" />
+            <mxPoint x="700" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="240" as="sourcePoint" />
+            <mxPoint x="850" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-79" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-80" value="AllertMessaggioDialog.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="815" y="280" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-81" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="360" as="sourcePoint" />
+            <mxPoint x="850" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-82" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-83" value="DialogAvatar.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="820" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-84" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="480" as="sourcePoint" />
+            <mxPoint x="850" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-85" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="450" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-86" value="DialogStoricoRicerche.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="815" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-87" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="600" as="sourcePoint" />
+            <mxPoint x="850" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-88" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="570" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-89" value="InsertFileDialog.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="815" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-90" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="720" as="sourcePoint" />
+            <mxPoint x="850" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-91" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="690" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-92" value="LoginDialog.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="815" y="760" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-93" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="850" as="sourcePoint" />
+            <mxPoint x="850" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-94" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="865" y="810" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-95" value="ModuloPassword.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="820" y="880" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-96" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="970" as="sourcePoint" />
+            <mxPoint x="850" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-97" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="940" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-98" value="PopUpAddContact.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="820" y="1010" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-99" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="1080" as="sourcePoint" />
+            <mxPoint x="850" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-100" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="1060" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-101" value="PopUpAuth0.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="830" y="1130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-102" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="1200" as="sourcePoint" />
+            <mxPoint x="850" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-103" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="1180" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-104" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="1320" as="sourcePoint" />
+            <mxPoint x="850" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-105" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="860" y="1300" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-106" value="PopUpCambioPassword.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="830" y="1250" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-107" value="RegistraAgentDialog.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="830" y="1370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-137" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1140" y="60" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-138" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Dettaglio&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Annuncio&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1150" y="85" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-139" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="1000" as="sourcePoint" />
+            <mxPoint x="1210" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-140" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="240" as="sourcePoint" />
+            <mxPoint x="1360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-141" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1370" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-142" value="CardContattiAgente.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1325" y="280" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-143" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="360" as="sourcePoint" />
+            <mxPoint x="1360" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-144" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1370" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-145" value="DettaglioAnnuncio.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1330" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-146" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="480" as="sourcePoint" />
+            <mxPoint x="1360" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-147" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1370" y="450" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-148" value="FormNuovaProposta.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1325" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-149" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="600" as="sourcePoint" />
+            <mxPoint x="1360" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-150" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1370" y="570" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-151" value="Galleria.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1325" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-152" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="720" as="sourcePoint" />
+            <mxPoint x="1360" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-153" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1370" y="690" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-154" value="ScheletroPagina.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1325" y="760" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-155" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="850" as="sourcePoint" />
+            <mxPoint x="1360" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-156" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1375" y="810" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-157" value="TabellaProposte.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1330" y="880" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-170" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folder;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1150" y="1030" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-171" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Dettaglio&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Annuncio&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1160" y="1055" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-172" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="1970" as="sourcePoint" />
+            <mxPoint x="1220" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-173" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1210" as="sourcePoint" />
+            <mxPoint x="1370" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-174" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1380" y="1180" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-175" value="CardContattiAgente.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1335" y="1250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-176" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1330" as="sourcePoint" />
+            <mxPoint x="1370" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-177" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1380" y="1300" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-178" value="DettaglioAnnuncio.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1340" y="1370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-179" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1450" as="sourcePoint" />
+            <mxPoint x="1370" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-180" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1380" y="1420" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-181" value="FormNuovaProposta.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1335" y="1490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-182" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1570" as="sourcePoint" />
+            <mxPoint x="1370" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-183" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1380" y="1540" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-184" value="Galleria.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1335" y="1610" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-185" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1690" as="sourcePoint" />
+            <mxPoint x="1370" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-186" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1380" y="1660" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-187" value="ScheletroPagina.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1335" y="1730" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-188" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1820" as="sourcePoint" />
+            <mxPoint x="1370" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-189" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1385" y="1780" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-190" value="TabellaProposte.vue" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry x="1340" y="1850" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hNcSMgx9boGnoWXaqEP-191" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.324;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5hNcSMgx9boGnoWXaqEP-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="888" as="sourcePoint" />
+            <mxPoint x="250" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
