@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1760424462.69382 "main.xdv" "main.pdf" "main" 1760424471.38509 0
-  "main.xdv" 1760424462 825948 9eb31ea28b85785776386b62559c185f "xelatex"
+["xdvipdfmx"] 1760455348.69635 "main.xdv" "main.pdf" "main" 1760455373.27933 0
+  "main.xdv" 1760455382 803564 1dfc8571c50d629e5d641c5e344ba01a "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1760424459.27407 "c:/Users/Administrator/Documents/GitHub/Documentazione-DietiEstates25/Documentazione/main.tex" "main.xdv" "main" 1760424471.36914 0
+["xelatex"] 1760455376.72686 "c:/Users/Administrator/Documents/GitHub/Documentazione-DietiEstates25/Documentazione/main.tex" "main.xdv" "main" 1760455383.36815 2
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -240,6 +240,8 @@
   "Immagini/Personas/Personas-Padre di famiglia.png" 1759732806 167921 e99257ae7fc82bd54e383594270a2222 ""
   "Immagini/Personas/Personas-Propretario di un agenzia immobiliare.png" 1759732806 190628 7540b8f1573d2521555a8c3dfa7da1b1 ""
   "Immagini/Personas/Personas-manager di azienda tecnologica.png" 1759732806 176149 916c0c1ff33605c9db94d964382ef4d5 ""
+  "Immagini/Resoconto Commit BE.png" 1760435276 153536 9c16fddad64a9bfe7b55cb0d97cfc636 ""
+  "Immagini/Resoconto Commit FE.png" 1760436823 148923 13e936bf7c3ea8646f63b5b2de66e0e6 ""
   "Immagini/cockburn/controproposta estensioni.png" 1760373989 121571 ae65c2efea876f4e6b9634e790b8495e ""
   "Immagini/cockburn/controproposta principale.png" 1760373989 112678 d94830e249fa1289abedeca749866cc0 ""
   "Immagini/cockburn/gestione notifiche estensioni 1.png" 1760373989 84166 b768e7e112b6bf3aedc1a24c0f600379 ""
@@ -258,7 +260,7 @@
   "Immagini/unit test/esitiTestUtentiInteressati.png" 1760025125 55210 0b71d7b992e00a3987a4d6bad72e2984 ""
   "Immagini/unit test/esitiTestaddContatto.png" 1760373990 51810 6ab20ed87abcac1eeb5063e51bc28a05 ""
   "Immagini/unit test/grafoCambiaPassword.png" 1760373990 118048 52e18757cc8069ffa38d49376ef976ce ""
-  "Processo di sviluppo/Introduzione.tex" 1760424453 567 7da07c7760c06802888854eb52b5184d ""
+  "Processo di sviluppo/Introduzione.tex" 1760455038 2027 1afe3793074c0f31e34462557922527b ""
   "Requisiti Del Software/Analisi dei Requisiti/Analisi degli utenti.tex" 1759732806 3428 3312ab6bb87e7d4f9c53ba33344a1416 ""
   "Requisiti Del Software/Analisi dei Requisiti/Analisi dei Requisiti.tex" 1759732807 3981 23a4949c6084892f28b6cad626ce5840 ""
   "Requisiti Del Software/Analisi dei Requisiti/Descrizione dei requisiti/Requisiti di dominio/Gestione dell'agenzia immobiliare.tex" 1760373983 1078 ee912bcb7934e91920675c7a02977a54 ""
@@ -314,11 +316,11 @@
   "Testing e valutazione dell’usabilita/Unit Test/changePassword.tex" 1760373990 7154 38c76adf21978e6dcc3fd37f08adf5f2 ""
   "Testing e valutazione dell’usabilita/Unit Test/utentiInteressati.tex" 1760025125 10807 52791078544037ffaa229251f6415e61 ""
   "Testing e valutazione dell’usabilita/Valutazione dell’usabilita/Test di usabilità.tex" 1760025125 12195 c49f3feb52c94b9f63844f3c38fc551a ""
-  "c:/Users/Administrator/Documents/GitHub/Documentazione-DietiEstates25/Documentazione/main.tex" 1760384897 3486 299c284dc03e77ec4de310fbdac3a5e3 ""
-  "main.aux" 1760424462 29837 aedc19b04c1e58c657d15b6db3cb57b3 "xelatex"
-  "main.out" 1760424462 7626 06e5d8068ca5ff25793bb49fcdfdbfc7 "xelatex"
-  "main.tex" 1760384897 3486 299c284dc03e77ec4de310fbdac3a5e3 ""
-  "main.toc" 1760424462 8093 6b88fd3a2493a83825593c3b2a2593e8 "xelatex"
+  "c:/Users/Administrator/Documents/GitHub/Documentazione-DietiEstates25/Documentazione/main.tex" 1760455374 3488 52fd25bd023d55de717542230449dbf7 ""
+  "main.aux" 1760455382 30291 8555919c55179e229ee1122274bf0c7f "xelatex"
+  "main.out" 1760455382 7619 7f5b5a8f049d6d5eb04375ada8447473 "xelatex"
+  "main.tex" 1760455374 3488 52fd25bd023d55de717542230449dbf7 ""
+  "main.toc" 1760455382 1553 de5cfa1e6daf96da7785ab0f25998720 "xelatex"
   (generated)
   "main.aux"
   "main.log"
