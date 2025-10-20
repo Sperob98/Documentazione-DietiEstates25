@@ -1,0 +1,215 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Pagina-1" id="-4leosB3SRyEz0e1-9JP">
+    <mxGraphModel dx="2977" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AuthController&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="64" y="100" width="416" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;-authService: AuthService&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-1" vertex="1">
+          <mxGeometry y="26" width="416" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="VAXWTlz_6pKC0tjXz36x-1" vertex="1">
+          <mxGeometry y="52" width="416" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ signup(SignUpRequest request): ResponseEntity&amp;lt;JwtAuthenticationResponse&amp;gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-1" vertex="1">
+          <mxGeometry y="60" width="416" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ signin(SignInRequest request): ResponseEntity&amp;lt;JwtAuthenticationResponse&amp;gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-1" vertex="1">
+          <mxGeometry y="100" width="416" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ signinIdProv(String accessToken): ResponseEntity&amp;lt;JwtAuthenticationResponse&amp;gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-1" vertex="1">
+          <mxGeometry y="140" width="416" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ changePassword(ChangePasswordRequest request): ResponseEntity&amp;lt;String&amp;gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-1" vertex="1">
+          <mxGeometry y="180" width="416" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ modifyUserAuthority(int id, String auth): ResponseEntity&amp;lt;String&amp;gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-1" vertex="1">
+          <mxGeometry y="220" width="416" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AuthService&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="100" width="380" height="334" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- userRepository: UserRepository&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="26" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- passwordEncoder: passwordEncoder&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="52" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- authorityRepository: AuthorityrRepository&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="78" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- JwtService: JwtService&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="104" width="380" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="130" width="380" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ signUp(SignUpRequest request): JwtAuthenticationResponse&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="138" width="380" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ login(SignUpRequest request): JwtAuthenticationResponse&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="180" width="380" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ modifyUserAuthority(int id,String auth): String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="222" width="380" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ changePassword(String oldPassword,String newPassword, String confirmPassword): String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="250" width="380" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ loginIdProv(String accessPassword): JwtAuthenticationResponse&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-14" vertex="1">
+          <mxGeometry y="292" width="380" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;JwtService&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="120" width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- jwtSigninKey: String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- jwtExpiration: long&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="52" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- issuer: String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="78" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- auth0Domain: String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="104" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="130" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ extractEmail(String token): String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="138" width="270" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ generateToken(UserDetails userDetails): String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="160" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ isTokenValid(String token, UserDetails userDetails): String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="200" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+ decodeJWT(String access token): DecodeJWT&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-34" vertex="1">
+          <mxGeometry y="250" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SignUpRequest&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="620" width="230" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- email: String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-45" vertex="1">
+          <mxGeometry y="26" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-47" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="VAXWTlz_6pKC0tjXz36x-45" vertex="1">
+          <mxGeometry y="52" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- nomeVisualizzato: String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-45" vertex="1">
+          <mxGeometry y="60" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- password: String&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-45" vertex="1">
+          <mxGeometry y="86" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-51" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="520" as="sourcePoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-52" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="520" as="sourcePoint" />
+            <mxPoint x="960" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-54" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="520" as="sourcePoint" />
+            <mxPoint x="959" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-56" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="778" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-59" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162" y="240" as="sourcePoint" />
+            <mxPoint x="1460" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-60" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="520" as="sourcePoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-61" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AuthorityRepository&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;+ findByDefaultAuthorityTrue(): Optional&amp;lt;Authority&amp;gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;+ findByAuthorityName(AuthorityName authorityName): Optional&amp;lt;Authority&amp;gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="991" y="596" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Authority&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="480" width="230" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- id:&amp;nbsp; byte&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-63" vertex="1">
+          <mxGeometry y="26" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- authorityName:&amp;nbsp; AuthorityName&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VAXWTlz_6pKC0tjXz36x-63" vertex="1">
+          <mxGeometry y="52" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-65" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="VAXWTlz_6pKC0tjXz36x-63" vertex="1">
+          <mxGeometry y="78" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-68" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=1.007;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.119;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VAXWTlz_6pKC0tjXz36x-27" target="VAXWTlz_6pKC0tjXz36x-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="400" as="sourcePoint" />
+            <mxPoint x="1280" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="400" />
+              <mxPoint x="1280" y="400" />
+              <mxPoint x="1280" y="683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-69" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VAXWTlz_6pKC0tjXz36x-64" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1280" y="522.5" as="sourcePoint" />
+            <mxPoint x="1440" y="522.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-70" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&amp;lt;&amp;lt;Enumeration&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AuthorityName&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MANAGER&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MEMBER&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AGENT&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="670" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-71" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="610" as="sourcePoint" />
+            <mxPoint x="1520" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-72" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.16;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VAXWTlz_6pKC0tjXz36x-70" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1460" y="613.5" as="sourcePoint" />
+            <mxPoint x="1590" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Metodi get e set automatici grazie alla libreria lombok&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="220" y="720" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-74" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="VAXWTlz_6pKC0tjXz36x-73" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAXWTlz_6pKC0tjXz36x-75" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VAXWTlz_6pKC0tjXz36x-73" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="701" as="sourcePoint" />
+            <mxPoint x="430" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkwe4qHsDEVxEGPL2Nx8-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="590" as="sourcePoint" />
+            <mxPoint x="1080" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
