@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Pagina-1" id="tTw42gOQldJEg__Jd3hX">
-    <mxGraphModel dx="1737" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="tCoDxL_50UIauHXd4hjh-7" value="+ getAgenziaByEmail(String email): ResponseEntity&amp;lt;DatiAgenziaImmobiliareResponse&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-1" vertex="1">
           <mxGeometry y="204" width="330" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AgenziaImmobiliareController&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tCoDxL_50UIauHXd4hjh-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AgenziaImmobiliareService&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="160" width="380" height="250" as="geometry" />
         </mxCell>
         <mxCell id="tCoDxL_50UIauHXd4hjh-9" value="- agenziaImmobiliareRepository: AgenizaImmobiliare Repository" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-8" vertex="1">
@@ -61,32 +61,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AgenziaImmobiliareController&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="160" width="380" height="250" as="geometry" />
+        <mxCell id="tCoDxL_50UIauHXd4hjh-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;EmailService&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="200" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-21" value="+ agenziaImmobiliareRepository: AgenizaImmobiliare Repository" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
+        <mxCell id="tCoDxL_50UIauHXd4hjh-21" value="- javaEmailSender: JavaMailSender" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
           <mxGeometry y="26" width="380" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-22" value="+ userService: UserService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
-          <mxGeometry y="60" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-23" value="+ emailService: EmailService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
-          <mxGeometry y="90" width="380" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tCoDxL_50UIauHXd4hjh-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
-          <mxGeometry y="120" width="380" height="8" as="geometry" />
+          <mxGeometry y="60" width="380" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-25" value="+ createAgenzia(AgenziaImmobiliareRequest request): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
-          <mxGeometry y="128" width="380" height="32" as="geometry" />
+        <mxCell id="tCoDxL_50UIauHXd4hjh-25" value="+sendVerificationMail(GenericMail mail): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
+          <mxGeometry y="68" width="380" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-26" value="+ createAgente(DipendenteRequest request): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
-          <mxGeometry y="160" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-27" value="+ getAgenzie(Pageable page):&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List&amp;lt;AgenziaImmobiliareResponse&amp;gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
-          <mxGeometry y="190" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-28" value="+ getAgenziaByEmail(String email):DatiAgenziaImmobiliareResponse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="tCoDxL_50UIauHXd4hjh-20" vertex="1">
-          <mxGeometry y="220" width="380" height="30" as="geometry" />
+        <mxCell id="sqeDnzNufx3zv6K-3tPw-71" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.356;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tCoDxL_50UIauHXd4hjh-20" target="sqeDnzNufx3zv6K-3tPw-65">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="130" y="100" as="sourcePoint" />
+            <mxPoint x="290" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tCoDxL_50UIauHXd4hjh-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AgenziaImmobiliareResponse&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="630" width="240" height="138" as="geometry" />
@@ -192,39 +183,39 @@
             <mxPoint x="660" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tCoDxL_50UIauHXd4hjh-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tCoDxL_50UIauHXd4hjh-16" target="tCoDxL_50UIauHXd4hjh-23" edge="1">
+        <mxCell id="tCoDxL_50UIauHXd4hjh-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tCoDxL_50UIauHXd4hjh-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1110" y="260" as="sourcePoint" />
-            <mxPoint x="1160" y="210" as="targetPoint" />
+            <mxPoint x="1410" y="265" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1270" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sqeDnzNufx3zv6K-3tPw-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AgenziaImmobiliareRepository&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="500" width="260" height="60" as="geometry" />
+          <mxGeometry x="800" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqeDnzNufx3zv6K-3tPw-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1599.58" y="410" as="sourcePoint" />
-            <mxPoint x="1599" y="504" as="targetPoint" />
+            <mxPoint x="919.04" y="60" as="sourcePoint" />
+            <mxPoint x="918.46" y="154" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1599.58" y="410" />
+              <mxPoint x="919.04" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sqeDnzNufx3zv6K-3tPw-4" value="La reposiitory estende JpaRepository&amp;lt;AgenziaImmobiliare&amp;gt; che permette di utilizzare la tecnologia ORM di Spring Boot e ottenere molti metodi che effettuano query in maniera automatica" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="485" width="270" height="95" as="geometry" />
+          <mxGeometry x="1210" y="10" width="270" height="95" as="geometry" />
         </mxCell>
         <mxCell id="sqeDnzNufx3zv6K-3tPw-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-4">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sqeDnzNufx3zv6K-3tPw-4">
+        <mxCell id="sqeDnzNufx3zv6K-3tPw-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1720" y="535" as="sourcePoint" />
-            <mxPoint x="1770" y="485" as="targetPoint" />
+            <mxPoint x="1060" y="52.5" as="sourcePoint" />
+            <mxPoint x="1210.0000000000005" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sqeDnzNufx3zv6K-3tPw-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCoDxL_50UIauHXd4hjh-61">
@@ -238,6 +229,21 @@
             <mxPoint x="730" y="960" as="sourcePoint" />
             <mxPoint x="960" y="770" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sqeDnzNufx3zv6K-3tPw-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;GenericMail&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="420" width="380" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="sqeDnzNufx3zv6K-3tPw-66" value="- subject String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-65">
+          <mxGeometry y="26" width="380" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sqeDnzNufx3zv6K-3tPw-69" value="- body String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-65">
+          <mxGeometry y="60" width="380" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sqeDnzNufx3zv6K-3tPw-70" value="- to String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-65">
+          <mxGeometry y="94" width="380" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sqeDnzNufx3zv6K-3tPw-67" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-65">
+          <mxGeometry y="128" width="380" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
