@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Pagina-1" id="tTw42gOQldJEg__Jd3hX">
-    <mxGraphModel dx="4995" dy="3417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,174 +227,6 @@
             <mxPoint x="1770" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1599.29" y="160" as="sourcePoint" />
-            <mxPoint x="1599" y="-80" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;UserService&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-510" width="400" height="430" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-10" value="+ authorityRepository: AuthorityRepository" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="26" width="400" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-11" value="+ userRepository: UserRepository" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="60" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-12" value="+ datiImpiegatoRepository: DatiImpiegatoRepository" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="90" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-18" value="+ passwordService: PassswordService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="120" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-19" value="+ imageUploaderService: imageUploaderService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="150" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-20" value="+ categoriaNotificaService: categoriaService" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="180" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="210" width="400" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-14" value="+ addDipendente(DipendenteRequest request,String aliasgenzia): newDipendenteResponse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="218" width="400" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-15" value="+ getDipendente(int idDipendente): Dipendenteresponse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="260" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-16" value="+ getSottoscrizione():&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List&amp;lt;SottoscrizioneNotificaResponse&amp;gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="290" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-17" value="+ modificaSottoscrizioni(List&amp;lt;CategoriaNotificaRequest&amp;gt; request):&lt;div&gt;String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="320" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-22" value="+ getDatiDipendente(String email):&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DatiImpiegatoResponse&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="370" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-23" value="+ getInfoUtente(String email):&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;UserInfoResponse&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-9">
-          <mxGeometry y="400" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-24" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sqeDnzNufx3zv6K-3tPw-16" target="tCoDxL_50UIauHXd4hjh-58">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1430" y="-240" as="sourcePoint" />
-            <mxPoint x="-121.99996948242188" y="-210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-160" y="-200" />
-              <mxPoint x="-160" y="390" />
-              <mxPoint x="-160" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CategoriaNotificaRequest&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="-450" width="320" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-26" value="- idCategoria: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-25">
-          <mxGeometry y="26" width="320" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-27" value="- attivo: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-25">
-          <mxGeometry y="52" width="320" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-25">
-          <mxGeometry y="78" width="320" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SottoscrizioneNotificaResponse&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="-260" width="360" height="182" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-31" value="- nomeCategoria: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-30">
-          <mxGeometry y="26" width="360" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-32" value="- descrizione: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-30">
-          <mxGeometry y="52" width="360" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-35" value="- idCategoria: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-30">
-          <mxGeometry y="78" width="360" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-36" value="- attivo: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-30">
-          <mxGeometry y="104" width="360" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-33" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-30">
-          <mxGeometry y="130" width="360" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-34" value="+ fromEntityToDto(List&amp;lt;CategoriaNotifica&amp;gt; categorieDisattivate):&lt;div&gt;List&amp;lt;SottoscrizioneNotificaResponse&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-30">
-          <mxGeometry y="138" width="360" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-38" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sqeDnzNufx3zv6K-3tPw-26">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1830" y="-407.66999999999996" as="sourcePoint" />
-            <mxPoint x="1990" y="-407.66999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-39" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.008;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sqeDnzNufx3zv6K-3tPw-35">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1830" y="-160" as="sourcePoint" />
-            <mxPoint x="1990" y="-160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AuthorityRepository&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-460" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-41" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;UserRepository&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-310" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-42" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="-270" as="sourcePoint" />
-            <mxPoint x="1430" y="-270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-45" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="-440" as="sourcePoint" />
-            <mxPoint x="1430" y="-440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-47" value="La reposiitory estende JpaRepository&amp;lt;Authority&amp;gt; che permette di utilizzare la tecnologia ORM di Spring Boot e ottenere molti metodi che effettuano query in maniera automatica" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-550" width="270" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-48" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-47">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-49" value="La reposiitory estende JpaRepository&amp;lt;User&amp;gt; che permette di utilizzare la tecnologia ORM di Spring Boot e ottenere molti metodi che effettuano query in maniera automatica" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-350" width="270" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-50" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-49">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sqeDnzNufx3zv6K-3tPw-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="-500" as="sourcePoint" />
-            <mxPoint x="1000" y="-550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="sqeDnzNufx3zv6K-3tPw-49" target="sqeDnzNufx3zv6K-3tPw-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="-320" as="sourcePoint" />
-            <mxPoint x="1010" y="-257.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-55" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DatiImpiegatoRepository&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-670" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-56" value="La reposiitory estende JpaRepository&amp;lt;DatiImpiegato&amp;gt; che permette di utilizzare la tecnologia ORM di Spring Boot e ottenere molti metodi che effettuano query in maniera automatica" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-735" width="270" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-57" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-56">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sqeDnzNufx3zv6K-3tPw-55">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="-680" as="sourcePoint" />
-            <mxPoint x="1010" y="-610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sqeDnzNufx3zv6K-3tPw-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tCoDxL_50UIauHXd4hjh-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="625" y="870" as="sourcePoint" />
@@ -405,26 +237,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="960" as="sourcePoint" />
             <mxPoint x="960" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-61" value="Utilizzo della libreria lombock per i metodi get e set automatici" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="-310" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-62" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sqeDnzNufx3zv6K-3tPw-61">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="sqeDnzNufx3zv6K-3tPw-61">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2460" y="-200" as="sourcePoint" />
-            <mxPoint x="2510" y="-250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqeDnzNufx3zv6K-3tPw-64" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=-0.011;entryY=0.362;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sqeDnzNufx3zv6K-3tPw-61">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2420" y="-390" as="sourcePoint" />
-            <mxPoint x="2470" y="-440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
