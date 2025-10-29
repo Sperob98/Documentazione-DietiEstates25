@@ -1,4 +1,4 @@
-\subsection{utentiInteressati(CriteriDiRicercaUtenti request)}
+\section{utentiInteressati(CriteriDiRicercaUtenti request)}
 
 Il metodo \colorbox{lightgray}{utentiInteressati}, appartenente alla classe \colorbox{lightgray}{RicercaAnnunciEffettuatiService}, ha la responsabilità di individuare tutti gli utenti potenzialmente interessati in base alle ricerche che essi hanno precedentemente effettuato.
 Questo metodo viene invocato quando il sistema deve inviare una notifica e necessita di filtrare i destinatari realmente pertinenti. Il parametro di ingresso, \colorbox{lightgray}{CriteriDiRicercaUtenti}, contiene i campi relativi alle caratteristiche di un immobile. Se i criteri passati al metodo corrispondono a quelli di una ricerca salvata da un utente nel sistema, tale utente viene incluso nella lista dei destinatari risultanti.
