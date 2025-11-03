@@ -1,35 +1,53 @@
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% Beamer presentation requires \usepackage{colortbl} instead of \usepackage[table,xcdraw]{xcolor}
-% \usepackage{longtable}
-% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
-\begin{longtable}{|l|l|l|l|}
-\caption{Tabella Revisioni documento }
-\label{tab:my-table}\\
-\hline
-\rowcolor[HTML]{10b981} 
-{\color[HTML]{FFFFFF} Data} & {\color[HTML]{FFFFFF} Versione} & {\color[HTML]{FFFFFF} Autore/i} & {\color[HTML]{FFFFFF} Descrizione} \\ \hline
-\endhead
-%
-22/01/25                    & 0.1                             & R. Spena, R. Morosini, L. Sepe  &  Prima Stesura                      \\ \hline
-\rowcolor[HTML]{ecfdf5} 
-  24/01/25                  & 0.2                             & R. Spena, R. Morosini, L. Sepe  & Aggiunte Personas        \\ \hline
-   27/01/25                 & 0.3                             & R. Spena, R. Morosini, L. Sepe  & Aggiunte Tabelle Cockburn\\ \hline
-\rowcolor[HTML]{ecfdf5} 
-  29/01/25                  &  0.4                            & L. Sepe                         &\begin{tabular}{c}
-        Completate Tabelle Cockburn \\
-        Inizio Lavoro su MockUp
-  \end{tabular}         \\ \hline
-    31/01/25                & 0.5                             & R. Spena, R. Morosini, L. Sepe  &    Revisioni minori                          \\ \hline
-\rowcolor[HTML]{ecfdf5} 
-   19/02/25                 &    0.6                          &    L. Sepe                     &  Revisione Tabelle Cockburn                           \\ \hline
-                            &                                 &                                 &                                    \\ \hline
-\rowcolor[HTML]{ecfdf5} 
-    21/02/25                           & 0.7                                &   R. Spena                              &   Inserita grafica tabelle dei requisiti                                 \\ \hline
-                            &                                 &                                 &                                    \\ \hline
-\rowcolor[HTML]{ecfdf5} 
-    21/02/25                           & 0.7                                &   R. Morosini                              &   Inserita descrizione ai mockup delle estensioni                                 \\ \hline
-                            &                                 &                                 &                                    \\ \hline
-                            
+\begin{table}[H]
+	\centering
+	\renewcommand{\arraystretch}{1.2}
+	\setlength{\tabcolsep}{6pt}
+	\begin{tabular}{|l|l|l|p{7cm}|}
+		\hline
+		\rowcolor[HTML]{9AFF99}
+		Data & Versione & Autore/i & Descrizione \\ \hline
+		09/02/25 & 0.1 & L.Sepe & Inserimento immagini casi d'uso \\ \hline
+		10/02/25 & 0.2 & R.Morosini & Descrizione casi d'uso \\ \hline
+		11/02/25 & 0.3 & R.Spena, R.Morosini, L.Sepe & Revisione descrizione casi d'uso \\ \hline
+		12/02/25 & 0.4 & R.Spena & Aggiunta immagini Personas \\ \hline
+		13/02/25 & 0.5 & R.Morosini & Aggiunta requisiti funzionali e di dominio \\ \hline
+		16/02/25 & 0.6 & L.Sepe & Aggiunta tabella Cockburn \\ \hline
+		17/02/25 & 0.7 & L.Sepe & Modifiche stili Cockburn e inizio inserimento immagini mockup \\ \hline
+		18/02/25 & 0.8 & R.Morosini & Descrizione dell'interfaccia dei mockup \\ \hline
+		19/02/25 & 0.9 & R.Morosini & Continuo descrizione dell'interfaccia dei mockup \\ \hline
+		20/02/25 & 1.0 & R.Morosini & Revisione descrizione dell'interfaccia dei mockup \\ \hline
+		08/09/25 & 1.1 & R.Spena & Descrizione architettura e tecnologie adottate \\ \hline
+		09/09/25 & 1.2 & R.Spena & Continuo \\ \hline
+		10/09/25 & 1.3 & R.Spena & Continuo \\ \hline
+	\end{tabular}
+\end{table}
 
-\end{longtable}
+
+
+\newpage
+
+\begin{table}[H]
+	\centering
+	\renewcommand{\arraystretch}{1.2}
+	\setlength{\tabcolsep}{6pt}
+	\begin{tabular}{|l|l|l|p{7cm}|}
+		\hline
+		\rowcolor[HTML]{9AFF99}
+		Data & Versione & Autore/i & Descrizione \\ \hline
+		15/09/25 & 1.4 & R.Morosini & Expert review \\ \hline
+		16/09/25 & 1.5 & R.Morosini & Continuo \\ \hline
+		17/09/25 & 1.6 & R.Morosini & Continuo \\ \hline
+		22/09/25 & 1.7 & R.Spena & Aggiunta descrizione test unitari effettuati \\ \hline
+		23/09/25 & 1.8 & R.Spena & Continuo \\ \hline
+		24/09/25 & 1.9 & L.Sepe & Aggiunta immagine e descrizione schema database \\ \hline
+		29/09/25 & 2.0 & R.Spena & Aggiunta immagini class diagram \\ \hline
+		30/09/25 & 2.1 & R.Morosini & Aggiunta immagini sequence diagram \\ \hline
+		06/10/25 & 2.2 & L.Sepe & Aggiunta immagini report sul lavoro effettuato \\ \hline
+		15/10/25 & 2.3 & R.Spena & Descrizione esperimento di usabilità su utenti \\ \hline
+		16/10/25 & 2.4 & R.Spena & Continuo \\ \hline
+		20/10/25 & 2.5 & R.Spena & Revisione e conferma versione finale \\ \hline
+		20/10/25 & 2.6 & L.Sepe & Revisione e conferma versione finale \\ \hline
+		20/10/25 & 2.7 & R.Morosini & Revisione e conferma versione finale \\ \hline
+	\end{tabular}
+	\caption{Registro delle modifiche (parte 2)}
+\end{table}
