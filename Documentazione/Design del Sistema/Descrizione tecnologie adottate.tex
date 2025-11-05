@@ -11,14 +11,17 @@ Il back-end è stato sviluppato utilizzando \textbf{Spring Boot}, abbiamo optato
 esso sono state integrate diverse tecnologie complementari, tra cui:
 
 \begin{itemize}
+	
 	\item \textbf{Hibernate}: Per la gestione della persistenza, Hibernate si rivela una scelta efficace, in quanto astrae le operazioni di accesso al database e riduce significativamente il lavoro manuale nella scrittura di query SQL. Questo approccio rende il codice più leggibile e facilmente mantenibile.
 	
 	\item \textbf{Spring Security e JWT (JSON Web Token)}: Per garantire un'autenticazione stateless e sicura, abbiamo deciso di utilizzare i JWT. Questa soluzione permette di gestire le sessioni degli utenti in maniera efficiente, differenziando eventuali ruoli o permessi e riducendo il carico sul server.
 	
-	\item \textbf{Jackson}: È uno strumento potente per serializzare e deserializzare oggetti Java in \textbf{JSON} e viceversa.
-	Quando si utilizza l’annotazione \colorbox{lightgray}{@RestController} o \colorbox{lightgray}{@ResponseBody}, Spring Boot restituisce automaticamente le risposte in formato JSON senza necessità di configurazioni aggiuntive.
-	
 	\item \textbf{Swagger}: L’adozione di Swagger per la documentazione delle REST API agevola notevolmente il testing e la verifica degli endpoint, creando al contempo una documentazione ricca di informazioni utili per condividere informazioni critiche.
+	
+	\item \textbf{Azure Blob Storage}: È stato utilizzato il servizio Azure Blob Storage per l’archiviazione delle immagini associate agli annunci. Questo approccio consente di memorizzare file di grandi dimensioni all’esterno del database e del server applicativo, migliorando così le prestazioni e l’efficienza complessiva del sistema.
+	
+	\item \textbf{GEO-API}: Per recuperare informazioni sui punti di interesse situati nei pressi di un immobile come, scuole, parcheggi o trasporti pubblici, è stata utilizzata un’API geografica gratuita. Essa consente, a partire dalle coordinate geografiche dell’annuncio e da una parola chiave rappresentante il tipo di luogo desiderato, di ottenere i relativi risultati in modo semplice ed efficient
+	
 \end{itemize}
 
 Il back-end del sistema segue il pattern architetturale \textbf{MVC (Model-View-Controller)}, nativamente supportato dal framework \textbf{Spring Boot}.
@@ -113,5 +116,7 @@ e la configurazione del framework Vue.js. Le dipendenze del progetto, installate
 	\item \textbf{Directory Service}: La directory service contiene file JavaScript che implementano funzioni e logiche riutilizzabili, progettate per essere utilizzate nelle diverse componenti dell’applicazione. Le operazioni ripetitive o complesse, come il recupero di dati da un server o la formattazione di informazioni, sono centralizzate in questa directory.
 	
 	\item \textbf{Directory stores}: La directory stores contiene file JavaScript che utilizzano \textbf{Pinia}, una libreria ufficiale di Vue.js per la gestione dello stato. Questa struttura permette di salvare informazioni a livello di sessione e di renderle facilmente accessibili in diverse parti dell’applicazione. Grazie a Pinia, le informazioni archiviate possono essere recuperate localmente, riducendo il tempo necessario per caricare dati critici.
+	
+Per l’implementazione delle funzionalità legate alla mappa, come la ricerca geografica e la visualizzazione degli immobili, è stata utilizzata la libreria \textbf{Vue Leaflet}, una soluzione open source completamente gratuita. Tale libreria si è rivelata un’ottima alternativa a Google Maps, la cui versione gratuita presenta alcune limitazioni in termini di numero di richieste API giornaliere e funzionalità avanzate disponibili solo a pagamento.
 	
 \end{itemize}
