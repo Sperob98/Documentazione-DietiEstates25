@@ -27,6 +27,7 @@ Nelle figure \ref{fig:resoconto-commit-backend} e \ref{fig:resoconto-commit-fron
 Per garantire la qualità del codice e mantenere uno standard elevato, é stato utilizzato uno strumento di pulizia del codice chiamato SonarQube. 	\\
 Facendo analisi statiche del codice a intervalli regolari, abbiamo mantenuto un alto rigore qualitativo negli standard forniti dal cliente.\\
 Si é fatto uso sia della versione Comunity di SonarQube, istallata in un container Docker locale, che di plugin che si interfacciavano automaticamente con l'IDE per agire in tempo reale durante la scrittura del codice.\\
+Nelle figure \ref{fig:sonarqube-overview} e \ref{fig:sonarqube-registo-attivita} viene mostrato lo stato dell'applicazione al suo completamento. Visto che requisiti indicavano un uso limitato dei test automatici, l'analisi si é concentrata principalmente su code smells, vulnerabilità, duplicazione e bug, il quale é riflesso nel resoconto allegato. 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=1\linewidth]{"Immagini/Sonarqube-overview.png"}
@@ -39,3 +40,12 @@ Si é fatto uso sia della versione Comunity di SonarQube, istallata in un contai
 	\caption[Attivitá sul codice SonarQube]{}
 	\label{fig:sonarqube-registo-attivita}
 \end{figure}
+\section{Servizi esterni utilizzati}
+In casi dove era necessario utilizzare servizi specializzati, come il salvataggio di file multimediali o la visione di mappe, 
+sono stati utilizzati servizzi esterni per facilitare lo sviluppo e migliorare l'affidabilità del prodotto.\\
+Per il salvataggio di file multimediali, necessario per visionare le foto di immobili, 
+é stato creato un blob storage container su Microsoft Azure, che offre un servizio scalabile e sicuro per l'archiviazione dei dati.\\
+Per la gestione delle mappe, sono state integrate le Geoapify API, 
+che forniscono funzionalità avanzate per poter creare un'interfaccia di mappatura per specifiche interazioni con l'utente.\\
+L'uso di questi servizi esterni ha permesso di concentrarsi sulle funzionalità principali dell'applicazione,
+riducendo i tempi di sviluppo e migliorando la qualità complessiva del prodotto finale.\\
