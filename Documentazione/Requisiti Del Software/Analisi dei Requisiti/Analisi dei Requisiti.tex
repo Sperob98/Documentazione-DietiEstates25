@@ -4,35 +4,35 @@ In questa sezione verranno raccolti e descritti i vari requisiti del sistema in 
  sicurezza e usabilità del sistema. 
 
 \section*{Obiettivo}
-Il sistema deve fornire un'area amministrativa e un'area Cliente, con funzionalità specifiche per i diversi ruoli utente e per la gestione degli immobili. Le funzionalità sono state riformulate in un linguaggio tecnico per favorire chiarezza e comprensione.
+Il sistema deve fornire un'area amministrativa e un'area Cliente, con funzionalità specifiche per i diversi ruoli utente e per la gestione degli Immobili. Le funzionalità sono state riformulate in un linguaggio tecnico per favorire chiarezza e comprensione.
 
 \section*{Area Amministrativa}
-L'area amministrativa consente la gestione degli account e degli immobili. I ruoli previsti sono:
+L'area amministrativa consente la gestione degli account e degli Immobili. I ruoli previsti sono:
 \begin{itemize}
-    \item Amministratore
-    \item Amministratore di supporto
-    \item Agenti immobiliari
+    \item Manager
+    \item Manager di supporto
+    \item Agenti Immobiliari Immobiliari
 \end{itemize}
 
 \subsection*{Accesso all'Area Amministrativa}
 \begin{description}[style=nextline]
-    \item[Amministratore:] L'accesso avviene dopo la registrazione di un'agenzia immobiliare tramite richiesta al sistema. Una volta approvata, vengono fornite credenziali predefinite per l'accesso.
-    \item[Amministratore di supporto:] Creati dall'Amministratore principale e associati alla stessa agenzia immobiliare. Le credenziali sono generate dall'Amministratore.
-    \item[Agenti immobiliari:] Creati dall'Amministratore o dall'Amministratore di supporto. Le credenziali sono anch'esse generate dall'Amministratore.
+    \item[Manager:] L'accesso avviene dopo la registrazione di un'agenzia Immobiliare tramite richiesta al sistema. Una volta approvata, vengono fornite credenziali predefinite per l'accesso.
+    \item[Manager di supporto:] Creati dall'Manager principale e associati alla stessa agenzia Immobiliare. Le credenziali sono generate dall'Manager.
+    \item[Agenti Immobiliari Immobiliari:] Creati dall'Manager o dall'Manager di supporto. Le credenziali sono anch'esse generate dall'Manager.
 \end{description}
 
 \section*{Area Cliente}
 L'area Cliente è destinata agli utenti registrati che possono:
 
 \begin{itemize}
-    \item \textbf{Ricercare immobili:}
+    \item \textbf{Ricercare Immobili:}
     \begin{itemize}
         \item Ricerca avanzata con filtro per posizione geografica (selezionando un punto e un raggio su una mappa).
-        \item Visualizzazione degli immobili in lista o su mappa.
+        \item Visualizzazione degli Immobili in lista o su mappa.
         \item Filtri aggiuntivi per caratteristiche dell'immobile e del contratto (es. metratura, numero di stanze, ecc.).
     \end{itemize}
 
-    \item \textbf{Visualizzare immobili completi di dettagli:}
+    \item \textbf{Visualizzare Immobili completi di dettagli:}
     \begin{itemize}
         \item Inclusi dati come metratura, stanze, servizi, ecc.
         \item Informazioni sui luoghi di interesse vicini (es. scuole, parchi, metro) utilizzando l'integrazione con Geopify.
@@ -40,7 +40,7 @@ L'area Cliente è destinata agli utenti registrati che possono:
 
     \item \textbf{Proporre offerte:}
     \begin{itemize}
-        \item L'utente registrato può inviare una proposta sull'immobile, che verrà gestita dall'agente immobiliare.
+        \item L'utente registrato può inviare una proposta sull'immobile, che verrà gestita dall'Agente Immobiliare.
     \end{itemize}
 
     \item \textbf{Gestire notifiche push:}
@@ -51,20 +51,20 @@ L'area Cliente è destinata agli utenti registrati che possono:
 \end{itemize}
 
 \section*{Funzionalità dei Ruoli}
-\subsection*{Amministratore}
+\subsection*{Manager}
 \begin{itemize}
-    \item Creare account per Amministratori di supporto e agenti immobiliari.
-    \item Modificare e cancellare definitivamente immobili creati dagli agenti.
+    \item Creare account per Manager di supporto e Agenti Immobiliari Immobiliari.
+    \item Modificare e cancellare definitivamente Immobili creati dagli Agenti Immobiliari.
     \item Modificare la propria password.
 \end{itemize}
 
-\subsection*{Amministratore di supporto}
-\textbf{Nota:} Non sono stati definiti requisiti specifici per questo ruolo. Si propone di assegnare le stesse funzionalità dell'Amministratore, con eventuali limitazioni future da specificare.
+\subsection*{Manager di supporto}
+\textbf{Nota:} Non sono stati definiti requisiti specifici per questo ruolo. Si propone di assegnare le stesse funzionalità dell'Manager, con eventuali limitazioni future da specificare.
 
-\subsection*{Agenti immobiliari}
+\subsection*{Agenti Immobiliari Immobiliari}
 \begin{itemize}
-    \item Creare, modificare e cancellare immobili da loro creati.
-    \item Visualizzare le proposte ricevute sugli immobili.
+    \item Creare, modificare e cancellare Immobili da loro creati.
+    \item Visualizzare le proposte ricevute sugli Immobili.
     \item Registrare proposte esterne.
     \item Accettare o rifiutare proposte.
     \item Modificare la propria password.

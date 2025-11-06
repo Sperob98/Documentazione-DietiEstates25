@@ -132,7 +132,7 @@ void addDipedenteTestAddAgente(){
 	DipendenteRequest dipendente = new DipendenteRequest("Roberto", "Spena", "AGENT");
 	String dominioAgenzia = "RobyImmobili";
 	
-	when(userRepository.countByEmail("roberto.spena@robyimmobili.dietiestate.com")).thenReturn(0);
+	when(userRepository.countByEmail("roberto.spena@robyImmobili.dietiestate.com")).thenReturn(0);
 	
 	Authority fakeAuthority = new Authority();
 	fakeAuthority.setAuthorityName(AuthorityName.AGENT);
@@ -147,7 +147,7 @@ void addDipedenteTestAddAgente(){
 	NewDipendeteResponse response = userService.addDipendete(dipendente,dominioAgenzia);
 	
 	//Controllo email generata
-	String emailPrevista = "roberto.spena@robyimmobili.dietiestate.com";
+	String emailPrevista = "roberto.spena@robyImmobili.dietiestate.com";
 	assertEquals(emailPrevista, response.getUser().getEmail(), "Email non generata correttamente");
 	
 	//Controllo password generata
@@ -187,7 +187,7 @@ void addDipedenteTestAddAgente(){
 		DipendenteRequest dipendente = new DipendenteRequest("Raimondo", "Morosini", "MANAGER");
 		String dominioAgenzia = "RaimondoImmobili";
 		
-		when(userRepository.countByEmail("raimondo.morosini@raimondoimmobili.dietiestate.com")).thenReturn(0);
+		when(userRepository.countByEmail("raimondo.morosini@raimondoImmobili.dietiestate.com")).thenReturn(0);
 		
 		Authority fakeAuthority = new Authority();
 		fakeAuthority.setAuthorityName(AuthorityName.MANAGER);
@@ -202,7 +202,7 @@ void addDipedenteTestAddAgente(){
 		NewDipendeteResponse response = userService.addDipendete(dipendente,dominioAgenzia);
 		
 		//Controllo email generata
-		String emailPrevista = "raimondo.morosini@raimondoimmobili.dietiestate.com";
+		String emailPrevista = "raimondo.morosini@raimondoImmobili.dietiestate.com";
 		assertEquals(emailPrevista, response.getUser().getEmail(), "Email non generata correttamente");
 		
 		//Controllo password generata

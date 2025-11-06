@@ -42,7 +42,7 @@
         <mxCell id="Gw6ZlJRzPvrQgUH4JTlC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="520" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NwDK-UJqqJaXsO0JLRKO-1" value="Amministratore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="NwDK-UJqqJaXsO0JLRKO-1" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="125" y="525" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
