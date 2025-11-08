@@ -49,3 +49,79 @@ Per la gestione delle mappe, sono state integrate le Geoapify API,
 che forniscono funzionalità avanzate per poter creare un'interfaccia di mappatura per specifiche interazioni con l'utente.\\
 L'uso di questi servizi esterni ha permesso di concentrarsi sulle funzionalità principali dell'applicazione,
 riducendo i tempi di sviluppo e migliorando la qualità complessiva del prodotto finale.\\
+
+\section{Distribuzione del backend}
+Per distribuire l’applicazione server Java Spring Boot, si è proceduto alla containerizzazione tramite \textbf{Docker}, una piattaforma ampiamente diffusa che consente di creare, distribuire ed eseguire applicazioni all’interno di container.
+I container sono ambienti isolati che includono tutto il necessario per l’esecuzione dell’applicazione, codice, librerie e configurazioni, garantendo così che il software funzioni in modo coerente su qualsiasi sistema operativo o infrastruttura.
+
+Di seguito viene illustrato il Dockerfile utilizzato per la containerizzazione dell’applicazione.
+
+% === COLORI PERSONALIZZATI ===
+\definecolor{bgcolor}{RGB}{245,245,245}    % Sfondo chiaro
+\definecolor{keywordcolor}{RGB}{0,0,180}  % Blu per le parole chiave
+\definecolor{commentcolor}{RGB}{0,128,0}  % Verde per i commenti
+\definecolor{stringcolor}{RGB}{163,21,21} % Rosso per le stringhe
+\definecolor{gray}{RGB}{120,120,120}
+
+% === DEFINIZIONE LINGUAGGIO DOCKERFILE ===
+\lstdefinelanguage{Dockerfile}{
+	morekeywords={
+		FROM, RUN, CMD, LABEL, MAINTAINER, EXPOSE, ENV, ADD, COPY, ENTRYPOINT,
+		VOLUME, USER, WORKDIR, ARG, ONBUILD, STOPSIGNAL, HEALTHCHECK, SHELL
+	},
+	sensitive=true,
+	morecomment=[l]{\#},             % Commenti con #
+	morestring=[b]",                 % Stringhe tra doppi apici
+}
+
+% === CONFIGURAZIONE LISTINGS ===
+\lstset{
+	language=Dockerfile,
+	backgroundcolor=\color{bgcolor},
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{keywordcolor}\bfseries,
+	commentstyle=\color{commentcolor}\itshape,
+	stringstyle=\color{stringcolor},
+	numbers=left,
+	numberstyle=\tiny\color{gray},
+	stepnumber=1,
+	numbersep=6pt,
+	frame=single,
+	rulecolor=\color{gray},
+	tabsize=4,
+	showstringspaces=false,
+	breaklines=true,
+	captionpos=b,
+	literate=
+	{à}{{\`a}}1
+	{è}{{\`e}}1
+	{é}{{\'e}}1
+	{ì}{{\`i}}1
+	{ò}{{\`o}}1
+	{ù}{{\`u}}1
+}
+
+\begin{lstlisting}[caption={Esempio di Dockerfile}, label={lst:dockerfile}]
+# build del jar
+FROM maven:3.9.4-eclipse-temurin-21-alpine AS build
+WORKDIR /app
+
+# Copia pom.xml e sorgenti
+COPY pom.xml .
+COPY src ./src
+
+# Build del jar
+RUN mvn clean package -DskipTests
+
+#runtime
+FROM eclipse-temurin:21-jdk-alpine
+WORKDIR /app
+
+COPY --from=build /app/target/*.jar dietiestetes.jar
+
+ENV SPRING_PROFILES_ACTIVE=prod
+ENV SERVER_PORT=8081
+
+ENTRYPOINT ["java","-jar","dietiestetes.jar"]
+\end{lstlisting}
+
